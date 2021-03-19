@@ -1,5 +1,6 @@
 import requests, bs4, pickle, pandas
 
+# GLOBAL DATA FRAME FOR ALL AUCTIONS
 DATA_FRAME = pandas.DataFrame(columns=['ID', 'Marka', 'Model', 'Moc', 'Poj. sil', 'Cena', 'Kraj poch.',
                                         'Czy zabytek', 'Czy bezwypadkowy', 'Serwisowany w ASO',
                                         'Filtr DPF', 'Generacja', 'Rok prod.', 'Przebieg', 'Oferta od',
