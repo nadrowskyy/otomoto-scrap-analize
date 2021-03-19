@@ -195,12 +195,6 @@ def get_link_from_page(car_url, cars_dict):
                     #auction_links.append(link.get('href'))
             #print(len(auction_links))
 
-cars_frame = pandas.DataFrame(columns=['ID', 'Marka', 'Model', 'Moc', 'Poj. sil', 'Cena', 'Kraj poch.',
-                                        'Czy zabytek', 'Czy bezwypadkowy', 'Serwisowany w ASO',
-                                        'Filtr DPF', 'Generacja', 'Rok prod.', 'Przebieg', 'Oferta od',
-                                        'Rodzaj paliwa', 'Emisja CO2', 'Typ', 'Kolor', 'Stan',
-                                        'Czy pierwsz. właśc', 'Napęd', 'Skrzynia biegów', 'Data dodania'])
-
 
 pickle_in = open('dict_cars.pickle', 'rb')
 cars_dict = pickle.load(pickle_in)
