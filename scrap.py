@@ -12,26 +12,26 @@ def scrap_data_for_offer(b, m, url):
     id_offer = None
     if soup.find_all('span', {'id':'ad_id'}):
         id_offer = soup.find_all('span', {'id':'ad_id'})[0].text
-    print('id', id_offer)
+    print('IS', id_offer)
     power = None
     if soup.find_all('span', string='Moc'):
         power = soup.find_all('span', string='Moc')[0].parent.contents[3].text.strip()
-    print('moc', power)
+    print('Moc', power)
     eng_cap = None
     if soup.find_all('span', string='Pojemność skokowa'):
         eng_cap = soup.find_all('span', string='Pojemność skokowa')[0].parent.contents[3].text.strip()
-    print('poj. sil', eng_cap)
+    print('Poj. sil.', eng_cap)
     price = None
     if soup.find_all('span', {'class':'offer-price__number'}):
         price = soup.find_all('span', {'class':'offer-price__number'})[1].text.strip()
-    print('cena', price)
+    print('Cena', price)
     # ZA DUZO LOSOWYCH DANYCH
     # city = soup.find_all('span', {'class':'seller-box__seller-address__label'})[0].text.strip().split(',')[0]
     # print(city)
     from_country = None
     if soup.find_all('span', string='Kraj pochodzenia'):
         from_country = soup.find_all('span', string='Kraj pochodzenia')[0].parent.contents[3].find('a').text.strip()
-    print('kraj pochodzenia', from_country)
+    print('Kraj pochodzenia', from_country)
     if_vintage = None
     if soup.find_all('span', string='Zarejestrowany jako zabytek'):
         if_vintage = soup.find_all('span', string='Zarejestrowany jako zabytek')[0].parent.contents[3].find('a').text.strip()
@@ -108,6 +108,10 @@ def scrap_data_for_offer(b, m, url):
         transmission_type = soup.find_all('span', string='Skrzynia biegów')[0].parent.contents[3].find(
             'a').text.strip()
     print('Skrzynia biegów', transmission_type)
+    date = None
+    if soup.find_all('span', {'class': 'offer-meta__value'})[0]:
+        date = soup.find_all('span', {'class': 'offer-meta__value'})[0].string
+    print('Data dodania', date)
 
 
 # GETTING LINK TO AUCTION FOR EACH MODEL
