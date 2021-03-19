@@ -112,6 +112,7 @@ def scrap_data_for_offer(b, m, url):
     if soup.find_all('span', {'class': 'offer-meta__value'})[0]:
         date = soup.find_all('span', {'class': 'offer-meta__value'})[0].string
     print('Data dodania', date)
+    print('\n')
 
 
 # GETTING LINK TO AUCTION FOR EACH MODEL
