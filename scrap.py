@@ -5,21 +5,31 @@ def scrap_data_for_offer(url):
     page = requests.get(url)
     data = page.text
     soup = bs4.BeautifulSoup(data, 'html.parser')
-    id_offer = soup.find_all('span', {'id':'ad_id'})[0].text
-    print(id_offer)
-    power = soup.find_all('span', string='Moc')[0].parent.contents[3].text.strip()
-    print(power)
-    eng_cap = soup.find_all('span', string='Pojemność skokowa')[0].parent.contents[3].text.strip()
-    print(eng_cap)
-    price = soup.find_all('span', {'class':'offer-price__number'})[1].text.strip()
-    print(price)
+    id_offer = None
+    if soup.find_all('span', {'id':'ad_id'}):
+        id_offer = soup.find_all('span', {'id':'ad_id'})[0].text
+    print('id', id_offer)
+    power = None
+    if soup.find_all('span', string='Moc'):
+        power = soup.find_all('span', string='Moc')[0].parent.contents[3].text.strip()
+    print('moc', power)
+    eng_cap = None
+    if soup.find_all('span', string='Pojemność skokowa'):
+        eng_cap = soup.find_all('span', string='Pojemność skokowa')[0].parent.contents[3].text.strip()
+    print('poj. sil', eng_cap)
+    price = None
+    if soup.find_all('span', {'class':'offer-price__number'}):
+        price = soup.find_all('span', {'class':'offer-price__number'})[1].text.strip()
+    print('cena', price)
     # ZA DUZO LOSOWYCH DANYCH
     # city = soup.find_all('span', {'class':'seller-box__seller-address__label'})[0].text.strip().split(',')[0]
     # print(city)
-    from_country = soup.find_all('span', string='Kraj pochodzenia')[0].parent.contents[3].find('a').text.strip()
-    print(from_country)
+    from_country = None
+    if soup.find_all('span', string='Kraj pochodzenia'):
+        from_country = soup.find_all('span', string='Kraj pochodzenia')[0].parent.contents[3].find('a').text.strip()
+    print('kraj pochodzenia', from_country)
     # TUTAJ BEDZIE RESZTA PARAMETROW DO ZESRAPOWANIA
-    
+
 
 # GETTING LINK TO AUCTION FOR EACH MODEL
 def get_link_from_page(car_url, cars_dict):

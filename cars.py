@@ -3,7 +3,7 @@ from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
 import pickle
 
-# PATH TO CHROMEDRIVER, NEEDED TO RUN SELENIUM. IMPORTANT! -VERSION OF CHROMEDRIVER HAVE TO EQUAL TO VERSION OF OUR
+# PATH TO CHROMEDRIVER, NEEDED TO RUN SELENIUM. IMPORTANT! -VERSION OF CHROMEDRIVER HAVE TO BE EQUAL TO VERSION OF OUR
 # CHROME BROWSER- https://chromedriver.chromium.org/downloads
 CHROMEDRIVER_PATH = 'C:/Users/Ja/Desktop/kursy kursiki/vi semestr/P Przetwarzanie dużych zbiorów informacji/chromedriver.exe'
 
@@ -25,7 +25,7 @@ def get_cars_brand(url):
     return cars_dict
 
 def get_cars_model(cars_dict):
-    # TO GET MODELS OF EACH BRAND WE NEED TO USE SELENIUM FRAMEWORK(BEACAUSE MODELS ON SITE ARE LOADED DYNAMICALYY BY
+    # TO GET MODELS OF EACH BRAND WE NEED TO USE SELENIUM FRAMEWORK(BEACAUSE MODELS ON SITE ARE LOADED DYNAMICALLY BY
     # JS SCRIPT). THIS FRAMEWORK USUALLY OPEN NEW BROWSER WINDOW, GOES TO PAGE AND THEN SCRAP DATA, BUT WE CAN RUN
     # IT IN 'NO WINDOW' MODE
     options = Options()
@@ -48,7 +48,7 @@ def get_cars_model(cars_dict):
         # FOR EACH BRAND WE HAVE A LIST OF MODELS IN DICTIONARY
         cars_dict[brand] = car_names
         print(cars_dict)
-    # DATA IS DUMPED TO A PICKLE TO WE CAN USE IT LATER
+    # DATA IS DUMPED TO A PICKLE SO WE CAN USE IT LATER
     pickle_out = open('dict_cars.pickle', 'wb')
     pickle.dump(cars_dict, pickle_out)
     pickle_out.close()
