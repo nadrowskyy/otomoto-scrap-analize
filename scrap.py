@@ -38,12 +38,6 @@ def scrap_data_for_offer(b, m, url, loc):
         price = soup.find_all('span', {'class':'offer-price__number'})[1].text.strip()
     # print('Cena', price)
 
-    # NIE WE WSZYSTKICH OGŁOSZENIACH PODANE SĄ WOJEWÓDZTWA, POTRZEBNA BĘDZIE FUNKCJA DOPASOWUJĄCA MIASTO
-    # DO WOJEWÓDZTWA ALBO TO OLEJEMY
-    #city = soup.find_all('span', {'class':'seller-box__seller-address__label'})[0].text.strip().split(',')
-    #print(city)
-
-
     from_country = None
     if soup.find_all('span', string='Kraj pochodzenia'):
         from_country = soup.find_all('span', string='Kraj pochodzenia')[0].parent.contents[3].find('a').text.strip()
