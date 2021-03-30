@@ -2,21 +2,21 @@ import requests, bs4, pickle, pandas
 
 # GLOBAL DATA FRAME FOR ALL AUCTIONS
 DATA_FRAME = pandas.DataFrame(columns=['ID', 'Marka', 'Model', 'Moc', 'Poj. sil', 'Cena', 'Kraj poch.',
-                                        'Czy zabytek', 'Czy bezwypadkowy', 'Serwisowany w ASO',
+                                        'Miasto', 'Wojewwdztwo','Czy zabytek', 'Czy bezwypadkowy', 'Serwisowany w ASO',
                                         'Filtr DPF', 'Generacja', 'Rok prod.', 'Przebieg', 'Oferta od',
                                         'Rodzaj paliwa', 'Emisja CO2', 'Typ', 'Kolor', 'Stan',
                                         'Czy pierwsz. właśc', 'Napęd', 'Skrzynia biegów', 'Data dodania'])
 
 
 # SCRAPPING DATA FROM FOR EACH AUCTION
-def scrap_data_for_offer(b, m, url):
+def scrap_data_for_offer(b, m, url, loc):
     page = requests.get(url)
     data = page.text
     soup = bs4.BeautifulSoup(data, 'html.parser')
     brand = b
     model = m
-    # print('Marka', b)
-    # print('Model', m)
+    city = loc[0].strip()
+    region = loc[1].strip('()')
 
     id_offer = None
     if soup.find_all('span', {'id':'ad_id'}):
@@ -40,8 +40,8 @@ def scrap_data_for_offer(b, m, url):
 
     # NIE WE WSZYSTKICH OGŁOSZENIACH PODANE SĄ WOJEWÓDZTWA, POTRZEBNA BĘDZIE FUNKCJA DOPASOWUJĄCA MIASTO
     # DO WOJEWÓDZTWA ALBO TO OLEJEMY
-    city = soup.find_all('span', {'class':'seller-box__seller-address__label'})[0].text.strip().split(',')[0]
-    print(city)
+    #city = soup.find_all('span', {'class':'seller-box__seller-address__label'})[0].text.strip().split(',')
+    #print(city)
 
 
     from_country = None
@@ -146,11 +146,11 @@ def scrap_data_for_offer(b, m, url):
         date = soup.find_all('span', {'class': 'offer-meta__value'})[0].string
     # print('Data dodania', date)
     tmp_data_frame = pandas.DataFrame(
-        [(id_offer, brand, model, power, eng_cap, price, from_country, if_vintage, if_acc_free, if_aso,
+        [(id_offer, brand, model, power, eng_cap, price, from_country, city, region, if_vintage, if_acc_free, if_aso,
           if_dpf, generation, prod_year, mileage, offer_from, fuel_type, co2_emission, car_type, color,
           condition, if_first_owner, drive, transmission_type, date)],
         columns=['ID', 'Marka', 'Model', 'Moc', 'Poj. sil', 'Cena', 'Kraj poch.',
-                'Czy zabytek', 'Czy bezwypadkowy', 'Serwisowany w ASO',
+                'Miasto', 'Wojewwdztwo', 'Czy zabytek', 'Czy bezwypadkowy', 'Serwisowany w ASO',
                 'Filtr DPF', 'Generacja', 'Rok prod.', 'Przebieg', 'Oferta od',
                 'Rodzaj paliwa', 'Emisja CO2', 'Typ', 'Kolor', 'Stan',
                 'Czy pierwsz. właśc', 'Napęd', 'Skrzynia biegów', 'Data dodania']
@@ -158,9 +158,9 @@ def scrap_data_for_offer(b, m, url):
     #print(tmp_data_frame)
     global DATA_FRAME
     DATA_FRAME = DATA_FRAME.append(tmp_data_frame, ignore_index=True)
-    print(DATA_FRAME)
+    # print(DATA_FRAME)
     print(DATA_FRAME.to_string())
-    print('\n')
+    # print('\n')
 
 
 # GETTING LINK TO AUCTION FOR EACH MODEL
@@ -187,19 +187,20 @@ def get_link_from_page(car_url, cars_dict):
                 cars_soup = bs4.BeautifulSoup(cars_data, 'html.parser')
                 # LINKI DO AUKCJI
                 cars_links = cars_soup.find_all('a', class_='offer-title__link')
-                for link in cars_links:
-                    #print(link.get('href'))
-                    # CALL A FUNCTION FOR EACH AUCTION TO SCRAP NEEDED DATA FROM THERE
-                    scrap_data_for_offer(brand, model, link.get('href'))
-                    #print(link.get('href'))
-                    #auction_links.append(link.get('href'))
-            #print(len(auction_links))
+                cars_cities = cars_soup.find_all('span', class_='ds-location-city')
+                cars_regions = cars_soup.find_all('span', class_='ds-location-region')
+                print(len(cars_links))
+                print(len(cars_cities))
+                print(len(cars_regions))
 
-cars_frame = pandas.DataFrame(columns=['ID', 'Marka', 'Model', 'Moc', 'Poj. sil', 'Cena', 'Kraj poch.',
-                                        'Czy zabytek', 'Czy bezwypadkowy', 'Serwisowany w ASO',
-                                        'Filtr DPF', 'Generacja', 'Rok prod.', 'Przebieg', 'Oferta od',
-                                        'Rodzaj paliwa', 'Emisja CO2', 'Typ', 'Kolor', 'Stan',
-                                        'Czy pierwsz. właśc', 'Napęd', 'Skrzynia biegów', 'Data dodania'])
+                cars_link_dict = {}
+                for link, city, region in zip(cars_links, cars_cities, cars_regions):
+                    cars_link_dict[link.get('href')] = [city.string, region.string]
+
+                for link, location in cars_link_dict.items():
+                    # CALL A FUNCTION FOR EACH AUCTION TO SCRAP NEEDED DATA FROM THERE
+                    scrap_data_for_offer(brand, model, link, location)
+            
 
 
 pickle_in = open('dict_cars.pickle', 'rb')
