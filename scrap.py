@@ -1,5 +1,6 @@
 import requests, bs4, pickle, pandas
 from datetime import datetime
+import concurrent.futures
 
 
 lookup_table = {
@@ -359,11 +360,8 @@ def get_link_from_page(car_url, cars_dict):
 
                 for link, location in cars_link_dict.items():
                     # CALL A FUNCTION FOR EACH AUCTION TO SCRAP NEEDED DATA FROM THERE
-                    if link == tmp_url:
-                        continue
-                    else:
-                        scrap_data_for_offer(brand, model, link, location)
-            
+                    scrap_data_for_offer(brand, model, link, location)
+
 
 
 pickle_in = open('dict_cars.pickle', 'rb')
