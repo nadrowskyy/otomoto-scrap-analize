@@ -224,7 +224,7 @@ def scrap_data_for_offer(b, m, url, loc):
                 'Rodzaj paliwa', 'Emisja CO2', 'Typ', 'Kolor', 'Stan',
                 'Czy pierwsz. właśc', 'Napęd', 'Skrzynia biegów', 'Data dodania']
         )
-    #print(tmp_data_frame)
+    print(tmp_data_frame)
     global DATA_FRAME
     DATA_FRAME = DATA_FRAME.append(tmp_data_frame, ignore_index=True)
     # print(DATA_FRAME)
@@ -272,8 +272,9 @@ def get_link_from_page(car_url, cars_dict):
             
 
 
-pickle_in = open('dict_cars.pickle', 'rb')
+pickle_in = open('dict_cars_tn.pickle', 'rb')
 cars_dict = pickle.load(pickle_in)
 pickle_in.close()
 url = 'https://www.otomoto.pl/osobowe'
 get_link_from_page(url, cars_dict)
+DATA_FRAME.to_csv('scrap_tn.csv', index=False)
