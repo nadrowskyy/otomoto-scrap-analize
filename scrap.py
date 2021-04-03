@@ -75,7 +75,7 @@ def scrap_data_for_offer(b, m, url, loc):
             .text.strip()
         if_reg_in_poland = True if if_reg_in_poland == 'Tak' else False
         if_reg_in_poland = False if if_reg_in_poland == 'Nie' else False
-    print('Czy zar w polsce', if_reg_in_poland)
+    # print('Czy zar w polsce', if_reg_in_poland)
 
     if_acc_free = None
     if soup.find_all('span', string='Bezwypadkowy'):
@@ -228,7 +228,7 @@ def scrap_data_for_offer(b, m, url, loc):
     global DATA_FRAME
     DATA_FRAME = DATA_FRAME.append(tmp_data_frame, ignore_index=True)
     # print(DATA_FRAME)
-    print(DATA_FRAME.to_string())
+    # print(DATA_FRAME.to_string())
     # print('\n')
 
 
