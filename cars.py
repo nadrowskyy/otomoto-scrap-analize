@@ -16,8 +16,7 @@ def get_cars_brand(url):
     cars = soup.find('select', title='Marka pojazdu').find_all('option')
     # SCRAPPED BRANDS ARE SAVED TO cars_dict DICTIONARY
     cars_dict = dict()
-    # print(cars[73:])
-    for car in cars[1:3]:
+    for car in cars[1:]:
         if car['value'] == 'warszawa':
             cars_dict['marka_warszawa'] = ''
         else:
@@ -51,7 +50,7 @@ def get_cars_model(cars_dict):
         cars_dict[brand] = car_names
         print(cars_dict)
     # DATA IS DUMPED TO A PICKLE SO WE CAN USE IT LATER
-    pickle_out = open('dict_cars_tn.pickle', 'wb')
+    pickle_out = open('dict_cars.pickle', 'wb')
     pickle.dump(cars_dict, pickle_out)
     pickle_out.close()
 
