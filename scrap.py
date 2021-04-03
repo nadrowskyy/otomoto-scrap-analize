@@ -4,12 +4,12 @@ import locale
 locale.setlocale(locale.LC_ALL, 'pl_PL.UTF-8')
 
 lookup_table = {
-    "stycznia": "styczeń",   "lutego": "luty",
-    "marca": "marzec",       "kwietnia": "kwiecień",
-    "maja": "maj",           "czerwca": "czerwiec",
-    "lipca": "lipiec",       "sierpnia": "sierpień",
-    "września": "wrzesień",  "października": "październik",
-    "listopada": "listopad", "grudnia": "grudzień"
+    "stycznia": "01",   "lutego": "02",
+    "marca": "03",       "kwietnia": "04",
+    "maja": "05",           "czerwca": "06",
+    "lipca": "07",       "sierpnia": "08",
+    "września": "09",  "października": "10",
+    "listopada": "11", "grudnia": "12"
 }
 
 
@@ -24,6 +24,7 @@ DATA_FRAME = pandas.DataFrame(columns=['ID', 'Marka', 'Model', 'Miasto', 'Wojewo
 
 # SCRAPPING DATA FROM FOR EACH AUCTION
 def scrap_data_for_offer(b, m, url, loc):
+    url = 'https://www.otomoto.pl/oferta/polonez-1-6-polonez-1-6-benzyna-ID6DnDFr.html#9f36d15b24'
     page = requests.get(url)
     data = page.text
     soup = bs4.BeautifulSoup(data, 'html.parser')
@@ -208,9 +209,18 @@ def scrap_data_for_offer(b, m, url, loc):
     date = None
     if soup.find_all('span', {'class': 'offer-meta__value'}):
         date = soup.find_all('span', {'class': 'offer-meta__value'})[0].string
+        date = date.split(' ')
+        tmp_month = ''
         for k, v in lookup_table.items():
-            date = date.replace(k, v)
-        date = datetime.strptime(date, '%H:%M, %d %B %Y')
+            tmp_month = date[2]
+            if k == tmp_month:
+                tmp_month = v
+                break
+        date[2] = tmp_month
+        date = ' '.join(date)
+        #print(date)
+        date = datetime.strptime(date, '%H:%M, %d %m %Y')
+    #print(date)
 
     # print('Data dodania', date)
     tmp_data_frame = pandas.DataFrame(

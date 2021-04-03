@@ -17,7 +17,7 @@ def get_cars_brand(url):
     # SCRAPPED BRANDS ARE SAVED TO cars_dict DICTIONARY
     cars_dict = dict()
     # print(cars[73:])
-    for car in cars[73:]:
+    for car in cars[1:3]:
         if car['value'] == 'warszawa':
             cars_dict['marka_warszawa'] = ''
         else:
