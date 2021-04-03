@@ -15,7 +15,7 @@ lookup_table = {
 
 # GLOBAL DATA FRAME FOR ALL AUCTIONS
 DATA_FRAME = pandas.DataFrame(columns=['ID', 'Marka', 'Model', 'Moc', 'Poj. sil', 'Cena', 'Kraj poch.',
-                'Miasto', 'Wojewwdztwo', 'Czy zabytek', 'Czy bezwypadkowy', 'Serwisowany w ASO',
+                'Miasto', 'Wojewodztwo', 'Czy zabytek', 'Czy bezwypadkowy', 'Serwisowany w ASO',
                 'Filtr DPF', 'Generacja', 'Rok prod.', 'Przebieg', 'Oferta od', 'Leasing',
                 'Rodzaj paliwa', 'Emisja CO2', 'Typ', 'Kolor', 'Stan',
                 'Czy pierwsz. właśc', 'Napęd', 'Skrzynia biegów', 'Data dodania'])
@@ -173,14 +173,13 @@ def scrap_data_for_offer(b, m, url, loc):
             date = date.replace(k, v)
         date = datetime.strptime(date, '%H:%M, %d %B %Y')
 
-    print(date)
     # print('Data dodania', date)
     tmp_data_frame = pandas.DataFrame(
         [(id_offer, brand, model, power, eng_cap, price, from_country, city, region, if_vintage, if_acc_free, if_aso,
           if_dpf, generation, prod_year, mileage, offer_from, if_leasing, fuel_type, co2_emission, car_type, color,
           condition, if_first_owner, drive, transmission_type, date)],
         columns=['ID', 'Marka', 'Model', 'Moc', 'Poj. sil', 'Cena', 'Kraj poch.',
-                'Miasto', 'Wojewwdztwo', 'Czy zabytek', 'Czy bezwypadkowy', 'Serwisowany w ASO',
+                'Miasto', 'Wojewodztwo', 'Czy zabytek', 'Czy bezwypadkowy', 'Serwisowany w ASO',
                 'Filtr DPF', 'Generacja', 'Rok prod.', 'Przebieg', 'Oferta od', 'Leasing',
                 'Rodzaj paliwa', 'Emisja CO2', 'Typ', 'Kolor', 'Stan',
                 'Czy pierwsz. właśc', 'Napęd', 'Skrzynia biegów', 'Data dodania']
