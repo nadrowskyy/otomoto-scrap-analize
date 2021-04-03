@@ -36,69 +36,99 @@ def scrap_data_for_offer(b, m, url, loc):
 
     id_offer = None
     if soup.find_all('span', {'id':'ad_id'}):
-        id_offer = soup.find_all('span', {'id':'ad_id'})[0].text
+        try:
+            id_offer = soup.find_all('span', {'id':'ad_id'})[0].text
+        except:
+            pass
     print('ID', id_offer)
 
     power = None
     if soup.find_all('span', string='Moc'):
-        power = int(soup.find_all('span', string='Moc')[0].parent.contents[3].text.strip().split(' ')[0])
+        try:
+            power = int(soup.find_all('span', string='Moc')[0].parent.contents[3].text.strip().split(' ')[0])
+        except:
+            pass
     # print('Moc', power)
 
     eng_cap = None
     if soup.find_all('span', string='Pojemność skokowa'):
-        eng_cap = soup.find_all('span', string='Pojemność skokowa')[0].parent.contents[3].text.strip().split(' ')[:-1]
-        eng_cap = int(''.join(eng_cap))
+        try:
+            eng_cap = soup.find_all('span', string='Pojemność skokowa')[0].parent.contents[3].text.strip().split(' ')[:-1]
+            eng_cap = int(''.join(eng_cap))
+        except:
+            pass
     # print('Poj. sil.', eng_cap)
 
     price = None
     if soup.find_all('span', {'class':'offer-price__number'}):
-        price = soup.find_all('span', {'class':'offer-price__number'})[1].text.strip().split(' ')[:-1]
-        price = int(''.join(price))
+        try:
+            price = soup.find_all('span', {'class':'offer-price__number'})[1].text.strip().split(' ')[:-1]
+            price = int(''.join(price))
+        except:
+            pass
     # print('Cena', price)
 
     from_country = None
     if soup.find_all('span', string='Kraj pochodzenia'):
-        from_country = soup.find_all('span', string='Kraj pochodzenia')[0].parent.contents[3].find('a').text.strip()
+        try:
+            from_country = soup.find_all('span', string='Kraj pochodzenia')[0].parent.contents[3].find('a').text.strip()
+        except:
+            pass
     # print('Kraj pochodzenia', from_country)
 
     if_vintage = False
     if soup.find_all('span', string='Zarejestrowany jako zabytek'):
-        if_vintage = soup.find_all('span', string='Zarejestrowany jako zabytek')[0].parent.contents[3].find('a')\
-            .text.strip()
-        if_vintage = True if if_vintage == 'Tak' else if_vintage
-        if_vintage = False if if_vintage == 'Nie' else if_vintage
+        try:
+            if_vintage = soup.find_all('span', string='Zarejestrowany jako zabytek')[0].parent.contents[3].find('a')\
+                .text.strip()
+            if_vintage = True if if_vintage == 'Tak' else if_vintage
+            if_vintage = False if if_vintage == 'Nie' else if_vintage
+        except:
+            pass
     # print('Czy zabytek', if_vintage)
 
     if_reg_in_poland = None
     if soup.find_all('span', string='Zarejestrowany w Polsce'):
-        if_reg_in_poland = soup.find_all('span', string='Zarejestrowany w Polsce')[0].parent.contents[3].find('a') \
-            .text.strip()
-        if_reg_in_poland = True if if_reg_in_poland == 'Tak' else False
-        if_reg_in_poland = False if if_reg_in_poland == 'Nie' else False
+        try:
+            if_reg_in_poland = soup.find_all('span', string='Zarejestrowany w Polsce')[0].parent.contents[3].find('a') \
+                .text.strip()
+            if_reg_in_poland = True if if_reg_in_poland == 'Tak' else False
+            if_reg_in_poland = False if if_reg_in_poland == 'Nie' else False
+        except:
+            pass
     # print('Czy zar w polsce', if_reg_in_poland)
 
     if_acc_free = None
     if soup.find_all('span', string='Bezwypadkowy'):
-        if_acc_free = soup.find_all('span', string='Bezwypadkowy')[0].parent.contents[3].find(
-            'a').text.strip()
-        if_acc_free = True if if_acc_free == 'Tak' else if_acc_free
-        if_acc_free = False if if_acc_free == 'Nie' else if_acc_free
+        try:
+            if_acc_free = soup.find_all('span', string='Bezwypadkowy')[0].parent.contents[3].find(
+                'a').text.strip()
+            if_acc_free = True if if_acc_free == 'Tak' else if_acc_free
+            if_acc_free = False if if_acc_free == 'Nie' else if_acc_free
+        except:
+            pass
     # print('Bezwypadkowy', if_acc_free)
 
     if_right_wheel = None
     if soup.find_all('span', string='Kierownica po prawej (Anglik)'):
-        if_right_wheel = soup.find_all('span', string='Kierownica po prawej (Anglik)')[0].parent.contents[3].find(
-            'a').text.strip()
-        if_right_wheel = True if if_right_wheel == 'Tak' else if_right_wheel
-        if_right_wheel = False if if_right_wheel == 'Nie' else if_right_wheel
+        try:
+            if_right_wheel = soup.find_all('span', string='Kierownica po prawej (Anglik)')[0].parent.contents[3].find(
+                'a').text.strip()
+            if_right_wheel = True if if_right_wheel == 'Tak' else if_right_wheel
+            if_right_wheel = False if if_right_wheel == 'Nie' else if_right_wheel
+        except:
+            pass
     # print('Czy anglik', if_right_wheel)
 
     if_aso = None
     if soup.find_all('span', string='Serwisowany w ASO'):
-        if_aso = soup.find_all('span', string='Serwisowany w ASO')[0].parent.contents[3].find(
-            'a').text.strip()
-        if_aso = True if if_aso == 'Tak' else if_aso
-        if_aso = False if if_aso == 'Nie' else if_aso
+        try:
+            if_aso = soup.find_all('span', string='Serwisowany w ASO')[0].parent.contents[3].find(
+                'a').text.strip()
+            if_aso = True if if_aso == 'Tak' else if_aso
+            if_aso = False if if_aso == 'Nie' else if_aso
+        except:
+            pass
     # print('Serwisowany w ASO', if_aso)
 
 
@@ -113,112 +143,160 @@ def scrap_data_for_offer(b, m, url, loc):
 
     if_dpf = None
     if soup.find_all('span', string='Filtr cząstek stałych'):
-        if_dpf = soup.find_all('span', string='Filtr cząstek stałych')[0].parent.contents[3].find(
-            'a').text.strip()
-        if_dpf = True if if_dpf == 'Tak' else if_dpf
-        if_dpf = False if if_dpf == 'Nie' else if_dpf
+        try:
+            if_dpf = soup.find_all('span', string='Filtr cząstek stałych')[0].parent.contents[3].find(
+                'a').text.strip()
+            if_dpf = True if if_dpf == 'Tak' else if_dpf
+            if_dpf = False if if_dpf == 'Nie' else if_dpf
+        except:
+            pass
     # print('Filtr cząstek stałych', if_dpf)
 
     generation = None
     if soup.find_all('span', string='Generacja'):
-        generation = soup.find_all('span', string='Generacja')[0].parent.contents[3].find(
-            'a').text.strip()
+        try:
+            generation = soup.find_all('span', string='Generacja')[0].parent.contents[3].find(
+                'a').text.strip()
+        except:
+            pass
     # print('Generacja', generation)
 
     prod_year = None
     if soup.find_all('span', string='Rok produkcji'):
-        prod_year = int(soup.find_all('span', string='Rok produkcji')[0].parent.contents[3].text.strip())
+        try:
+            prod_year = int(soup.find_all('span', string='Rok produkcji')[0].parent.contents[3].text.strip())
+        except:
+            pass
     # print('Rok produkcji', prod_year)
 
     first_register = None
     if soup.find_all('span', string='Pierwsza rejestracja'):
-        first_register = soup.find_all('span', string='Pierwsza rejestracja')[0].parent.contents[3].text.strip()
-        first_register = datetime.strptime(first_register, '%d/%m/%Y')
+        try:
+            first_register = soup.find_all('span', string='Pierwsza rejestracja')[0].parent.contents[3].text.strip()
+            first_register = datetime.strptime(first_register, '%d/%m/%Y')
+        except:
+            pass
     # print('Pierwsza rejestracja', first_register)
 
     mileage = None
     if soup.find_all('span', string='Przebieg'):
-        mileage = soup.find_all('span', string='Przebieg')[0].parent.contents[3].text.strip().split(' ')[:-1]
-        mileage = int(''.join(mileage))
+        try:
+            mileage = soup.find_all('span', string='Przebieg')[0].parent.contents[3].text.strip().split(' ')[:-1]
+            mileage = int(''.join(mileage))
+        except:
+            pass
     # print('Przebieg', mileage)
 
     offer_from = None
     if soup.find_all('span', string='Oferta od'):
-        offer_from = soup.find_all('span', string='Oferta od')[0].parent.contents[3].find(
-            'a').text.strip()
+        try:
+            offer_from = soup.find_all('span', string='Oferta od')[0].parent.contents[3].find(
+                'a').text.strip()
+        except:
+            pass
     # print('Oferta od', offer_from)
 
     if_leasing = None
     if soup.find_all('span', string='Leasing'):
-        if_leasing = soup.find_all('span', string='Leasing')[0].parent.contents[3].find('a').text.strip()
-        if_leasing = True if if_leasing == 'Tak' else if_leasing
-        if_leasing = False if if_leasing == 'Nie' else if_leasing
+        try:
+            if_leasing = soup.find_all('span', string='Leasing')[0].parent.contents[3].find('a').text.strip()
+            if_leasing = True if if_leasing == 'Tak' else if_leasing
+            if_leasing = False if if_leasing == 'Nie' else if_leasing
+        except:
+            pass
     # print('leasing', if_leasing)
 
     fuel_type = None
     if soup.find_all('span', string='Rodzaj paliwa'):
-        fuel_type = soup.find_all('span', string='Rodzaj paliwa')[0].parent.contents[3].find(
-            'a').text.strip()
+        try:
+            fuel_type = soup.find_all('span', string='Rodzaj paliwa')[0].parent.contents[3].find(
+                'a').text.strip()
+        except:
+            pass
     # print('Rodzaj paliwa', fuel_type)
 
     co2_emission = None
     if soup.find_all('span', string='Emisja CO2'):
-        co2_emission = soup.find_all('span', string='Emisja CO2')[0].parent.contents[3].text.strip().split(' ')[:-1]
-        co2_emission = int(''.join(co2_emission))
+        try:
+            co2_emission = soup.find_all('span', string='Emisja CO2')[0].parent.contents[3].text.strip().split(' ')[:-1]
+            co2_emission = int(''.join(co2_emission))
+        except:
+            pass
     # print('Emisja CO2 [g/kg]', co2_emission)
 
     car_type = None
     if soup.find_all('span', string='Typ'):
-        car_type = soup.find_all('span', string='Typ')[0].parent.contents[3].find(
-            'a').text.strip()
+        try:
+            car_type = soup.find_all('span', string='Typ')[0].parent.contents[3].find(
+                'a').text.strip()
+        except:
+            pass
     # print('Typ', car_type)
 
     color = None
     if soup.find_all('span', string='Kolor'):
-        color = soup.find_all('span', string='Kolor')[0].parent.contents[3].find(
-            'a').text.strip()
+        try:
+            color = soup.find_all('span', string='Kolor')[0].parent.contents[3].find(
+                'a').text.strip()
+        except:
+            pass
     # print('Kolor', color)
 
     condition = None
     if soup.find_all('span', string='Stan'):
-        condition = soup.find_all('span', string='Stan')[0].parent.contents[3].find(
-            'a').text.strip()
+        try:
+            condition = soup.find_all('span', string='Stan')[0].parent.contents[3].find(
+                'a').text.strip()
+        except:
+            pass
     # print('Stan', condition)
 
     if_first_owner = None
     if soup.find_all('span', string='Pierwszy właściciel'):
-        if_first_owner = soup.find_all('span', string='Pierwszy właściciel')[0].parent.contents[3].find(
-            'a').text.strip()
-        if_first_owner = True if if_first_owner == 'Tak' else if_first_owner
-        if_first_owner = False if if_first_owner == 'Nie' else if_first_owner
+        try:
+            if_first_owner = soup.find_all('span', string='Pierwszy właściciel')[0].parent.contents[3].find(
+                'a').text.strip()
+            if_first_owner = True if if_first_owner == 'Tak' else if_first_owner
+            if_first_owner = False if if_first_owner == 'Nie' else if_first_owner
+        except:
+            pass
     # print('Pierwszy właściciel', if_first_owner)
 
     drive = None
     if soup.find_all('span', string='Napęd'):
-        drive= soup.find_all('span', string='Napęd')[0].parent.contents[3].find(
-            'a').text.strip()
+        try:
+            drive= soup.find_all('span', string='Napęd')[0].parent.contents[3].find(
+                'a').text.strip()
+        except:
+            pass
     # print('Napęd', drive)
 
     transmission_type = None
     if soup.find_all('span', string='Skrzynia biegów'):
-        transmission_type = soup.find_all('span', string='Skrzynia biegów')[0].parent.contents[3].find(
-            'a').text.strip()
+        try:
+            transmission_type = soup.find_all('span', string='Skrzynia biegów')[0].parent.contents[3].find(
+                'a').text.strip()
+        except:
+            pass
     # print('Skrzynia biegów', transmission_type)
 
     date = None
     if soup.find_all('span', {'class': 'offer-meta__value'}):
-        date = soup.find_all('span', {'class': 'offer-meta__value'})[0].string
-        date = date.split(' ')
-        tmp_month = ''
-        for k, v in lookup_table.items():
-            tmp_month = date[2]
-            if k == tmp_month:
-                tmp_month = v
-                break
-        date[2] = tmp_month
-        date = ' '.join(date)
-        #print(date)
-        date = datetime.strptime(date, '%H:%M, %d %m %Y')
+        try:
+            date = soup.find_all('span', {'class': 'offer-meta__value'})[0].string
+            date = date.split(' ')
+            tmp_month = ''
+            for k, v in lookup_table.items():
+                tmp_month = date[2]
+                if k == tmp_month:
+                    tmp_month = v
+                    break
+            date[2] = tmp_month
+            date = ' '.join(date)
+            #print(date)
+            date = datetime.strptime(date, '%H:%M, %d %m %Y')
+        except:
+            pass
     #print(date)
 
     # print('Data dodania', date)
@@ -278,7 +356,10 @@ def get_link_from_page(car_url, cars_dict):
 
                 for link, location in cars_link_dict.items():
                     # CALL A FUNCTION FOR EACH AUCTION TO SCRAP NEEDED DATA FROM THERE
-                    scrap_data_for_offer(brand, model, link, location)
+                    if link == tmp_url:
+                        break
+                    else:
+                        scrap_data_for_offer(brand, model, link, location)
             
 
 
