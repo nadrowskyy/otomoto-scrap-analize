@@ -44,6 +44,7 @@ def get_cars_model(cars_dict):
             car = '-'.join(el).lower().replace('(', '').replace(')', '')
             if car == 'inny':
                 car = 'other'
+            car = car.replace('.', '')
             car_names.append(car)
         # FOR EACH BRAND WE HAVE A LIST OF MODELS IN DICTIONARY
         cars_dict[brand] = car_names
