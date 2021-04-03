@@ -314,6 +314,10 @@ def scrap_data_for_offer(b, m, url, loc):
     print(tmp_data_frame)
     global DATA_FRAME
     DATA_FRAME = DATA_FRAME.append(tmp_data_frame, ignore_index=True)
+    if len(DATA_FRAME) == 1:
+        tmp_data_frame.to_csv('scrap.csv', index=False)
+    else:
+        tmp_data_frame.to_csv('scrap.csv', mode='a', index=False, header=False)
     print(len(DATA_FRAME), 'elementow')
     # print(DATA_FRAME)
     # print(DATA_FRAME.to_string())
@@ -368,4 +372,4 @@ cars_dict = pickle.load(pickle_in)
 pickle_in.close()
 url = 'https://www.otomoto.pl/osobowe'
 get_link_from_page(url, cars_dict)
-DATA_FRAME.to_csv('scrap.csv', index=False)
+
