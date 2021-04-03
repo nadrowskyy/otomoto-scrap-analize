@@ -237,6 +237,7 @@ def scrap_data_for_offer(b, m, url, loc):
     print(tmp_data_frame)
     global DATA_FRAME
     DATA_FRAME = DATA_FRAME.append(tmp_data_frame, ignore_index=True)
+    print(len(DATA_FRAME), 'elementow')
     # print(DATA_FRAME)
     # print(DATA_FRAME.to_string())
     # print('\n')
