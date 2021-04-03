@@ -14,11 +14,12 @@ lookup_table = {
 
 
 # GLOBAL DATA FRAME FOR ALL AUCTIONS
-DATA_FRAME = pandas.DataFrame(columns=['ID', 'Marka', 'Model', 'Moc', 'Poj. sil', 'Cena', 'Kraj poch.',
-                'Miasto', 'Wojewodztwo', 'Czy zabytek', 'Czy bezwypadkowy', 'Serwisowany w ASO',
-                'Filtr DPF', 'Generacja', 'Rok prod.', 'Przebieg', 'Oferta od', 'Leasing',
-                'Rodzaj paliwa', 'Emisja CO2', 'Typ', 'Kolor', 'Stan',
-                'Czy pierwsz. właśc', 'Napęd', 'Skrzynia biegów', 'Data dodania'])
+DATA_FRAME = pandas.DataFrame(columns=['ID', 'Marka', 'Model', 'Miasto', 'Wojewodztwo','Moc', 'Poj. sil', 'Cena',
+                                       'Kraj poch.', 'Czy zabytek', 'Czy zarej. w Polsce', 'Czy bezwypadkowy',
+                                       'Czy Anglik','Serwisowany w ASO', 'Czy faktura VAT', 'Filtr DPF', 'Generacja',
+                                       'Rok prod.', 'Pierwsza rejestracja','Przebieg', 'Oferta od', 'Czy leasing',
+                                       'Rodzaj paliwa', 'Emisja CO2', 'Typ', 'Kolor', 'Stan', 'Czy pierwsz. właśc',
+                                       'Napęd', 'Skrzynia biegów', 'Data dodania'])
 
 
 # SCRAPPING DATA FROM FOR EACH AUCTION
@@ -64,28 +65,56 @@ def scrap_data_for_offer(b, m, url, loc):
     if soup.find_all('span', string='Zarejestrowany jako zabytek'):
         if_vintage = soup.find_all('span', string='Zarejestrowany jako zabytek')[0].parent.contents[3].find('a')\
             .text.strip()
-        if_vintage = True if if_vintage == 'Tak' else False
+        if_vintage = True if if_vintage == 'Tak' else if_vintage
+        if_vintage = False if if_vintage == 'Nie' else if_vintage
     # print('Czy zabytek', if_vintage)
+
+    if_reg_in_poland = None
+    if soup.find_all('span', string='Zarejestrowany w Polsce'):
+        if_reg_in_poland = soup.find_all('span', string='Zarejestrowany w Polsce')[0].parent.contents[3].find('a') \
+            .text.strip()
+        if_reg_in_poland = True if if_reg_in_poland == 'Tak' else False
+        if_reg_in_poland = False if if_reg_in_poland == 'Nie' else False
+    print('Czy zar w polsce', if_reg_in_poland)
 
     if_acc_free = None
     if soup.find_all('span', string='Bezwypadkowy'):
         if_acc_free = soup.find_all('span', string='Bezwypadkowy')[0].parent.contents[3].find(
             'a').text.strip()
-        if_acc_free = True if if_acc_free == 'Tak' else False
+        if_acc_free = True if if_acc_free == 'Tak' else if_acc_free
+        if_acc_free = False if if_acc_free == 'Nie' else if_acc_free
     # print('Bezwypadkowy', if_acc_free)
+
+    if_right_wheel = None
+    if soup.find_all('span', string='Kierownica po prawej (Anglik)'):
+        if_right_wheel = soup.find_all('span', string='Kierownica po prawej (Anglik)')[0].parent.contents[3].find(
+            'a').text.strip()
+        if_right_wheel = True if if_right_wheel == 'Tak' else if_right_wheel
+        if_right_wheel = False if if_right_wheel == 'Nie' else if_right_wheel
+    # print('Czy anglik', if_right_wheel)
 
     if_aso = None
     if soup.find_all('span', string='Serwisowany w ASO'):
         if_aso = soup.find_all('span', string='Serwisowany w ASO')[0].parent.contents[3].find(
             'a').text.strip()
-        if_aso = True if if_aso == 'Tak' else False
+        if_aso = True if if_aso == 'Tak' else if_aso
+        if_aso = False if if_aso == 'Nie' else if_aso
     # print('Serwisowany w ASO', if_aso)
+
+    if_vat = None
+    if soup.find_all('span', string='Faktura VAT'):
+        if_vat = soup.find_all('span', string='Faktura VAT')[0].parent.contents[3].find(
+            'a').text.strip()
+        if_vat = True if if_vat == 'Tak' else if_vat
+        if_vat = False if if_vat == 'Nie' else if_vat
+    # print('Czy faktura VAT', if_vat)
 
     if_dpf = None
     if soup.find_all('span', string='Filtr cząstek stałych'):
         if_dpf = soup.find_all('span', string='Filtr cząstek stałych')[0].parent.contents[3].find(
             'a').text.strip()
-        if_dpf = True if if_dpf == 'Tak' else False
+        if_dpf = True if if_dpf == 'Tak' else if_dpf
+        if_dpf = False if if_dpf == 'Nie' else if_dpf
     # print('Filtr cząstek stałych', if_dpf)
 
     generation = None
@@ -98,6 +127,12 @@ def scrap_data_for_offer(b, m, url, loc):
     if soup.find_all('span', string='Rok produkcji'):
         prod_year = int(soup.find_all('span', string='Rok produkcji')[0].parent.contents[3].text.strip())
     # print('Rok produkcji', prod_year)
+
+    first_register = None
+    if soup.find_all('span', string='Pierwsza rejestracja'):
+        first_register = soup.find_all('span', string='Pierwsza rejestracja')[0].parent.contents[3].text.strip()
+        first_register = datetime.strptime(first_register, '%d/%m/%Y')
+    # print('Pierwsza rejestracja', first_register)
 
     mileage = None
     if soup.find_all('span', string='Przebieg'):
@@ -114,7 +149,8 @@ def scrap_data_for_offer(b, m, url, loc):
     if_leasing = None
     if soup.find_all('span', string='Leasing'):
         if_leasing = soup.find_all('span', string='Leasing')[0].parent.contents[3].find('a').text.strip()
-        if_leasing = True if if_leasing == 'Tak' else False
+        if_leasing = True if if_leasing == 'Tak' else if_leasing
+        if_leasing = False if if_leasing == 'Nie' else if_leasing
     # print('leasing', if_leasing)
 
     fuel_type = None
@@ -151,7 +187,8 @@ def scrap_data_for_offer(b, m, url, loc):
     if soup.find_all('span', string='Pierwszy właściciel'):
         if_first_owner = soup.find_all('span', string='Pierwszy właściciel')[0].parent.contents[3].find(
             'a').text.strip()
-        if_first_owner = True if if_first_owner == 'Tak' else False
+        if_first_owner = True if if_first_owner == 'Tak' else if_first_owner
+        if_first_owner = False if if_first_owner == 'Nie' else if_first_owner
     # print('Pierwszy właściciel', if_first_owner)
 
     drive = None
@@ -175,12 +212,13 @@ def scrap_data_for_offer(b, m, url, loc):
 
     # print('Data dodania', date)
     tmp_data_frame = pandas.DataFrame(
-        [(id_offer, brand, model, power, eng_cap, price, from_country, city, region, if_vintage, if_acc_free, if_aso,
-          if_dpf, generation, prod_year, mileage, offer_from, if_leasing, fuel_type, co2_emission, car_type, color,
+        [(id_offer, brand, model, city, region, power, eng_cap, price, from_country, if_vintage, if_reg_in_poland,
+          if_acc_free, if_right_wheel,if_aso, if_vat, if_dpf, generation, prod_year, first_register, mileage,
+          offer_from, if_leasing, fuel_type, co2_emission, car_type, color,
           condition, if_first_owner, drive, transmission_type, date)],
-        columns=['ID', 'Marka', 'Model', 'Moc', 'Poj. sil', 'Cena', 'Kraj poch.',
-                'Miasto', 'Wojewodztwo', 'Czy zabytek', 'Czy bezwypadkowy', 'Serwisowany w ASO',
-                'Filtr DPF', 'Generacja', 'Rok prod.', 'Przebieg', 'Oferta od', 'Leasing',
+        columns=['ID', 'Marka', 'Model', 'Miasto', 'Wojewodztwo','Moc', 'Poj. sil', 'Cena', 'Kraj poch.', 'Czy zabytek',
+                'Czy zarej. w Polsce', 'Czy bezwypadkowy', 'Czy Anglik','Serwisowany w ASO', 'Czy faktura VAT',
+                'Filtr DPF', 'Generacja', 'Rok prod.', 'Pierwsza rejestracja','Przebieg', 'Oferta od', 'Czy leasing',
                 'Rodzaj paliwa', 'Emisja CO2', 'Typ', 'Kolor', 'Stan',
                 'Czy pierwsz. właśc', 'Napęd', 'Skrzynia biegów', 'Data dodania']
         )

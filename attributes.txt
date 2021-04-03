@@ -1,21 +1,25 @@
 ID
 Marka
 Model
+Miasto
+Wojewodztwo
 Moc
 Poj. sil
 Cena
 Kraj poch.
-Miasto
-Wojewwdztwo
 Czy zabytek
+Czy zarej. w Polsce
 Czy bezwypadkowy
+Czy Anglik
 Serwisowany w ASO
+Czy faktura VAT
 Filtr DPF
 Generacja
 Rok prod.
+Pierwsza rejestracja
 Przebieg
 Oferta od
-Leasing
+Czy leasing
 Rodzaj paliwa
 Emisja CO2
 Typ
