@@ -24,7 +24,6 @@ DATA_FRAME = pandas.DataFrame(columns=['ID', 'Marka', 'Model', 'Miasto', 'Wojewo
 
 # SCRAPPING DATA FROM FOR EACH AUCTION
 def scrap_data_for_offer(b, m, url, loc):
-    url = 'https://www.otomoto.pl/oferta/polonez-1-6-polonez-1-6-benzyna-ID6DnDFr.html#9f36d15b24'
     page = requests.get(url)
     data = page.text
     soup = bs4.BeautifulSoup(data, 'html.parser')
