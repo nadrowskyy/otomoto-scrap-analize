@@ -16,7 +16,7 @@ lookup_table = {
 # GLOBAL DATA FRAME FOR ALL AUCTIONS
 DATA_FRAME = pandas.DataFrame(columns=['ID', 'Marka', 'Model', 'Miasto', 'Wojewodztwo','Moc', 'Poj. sil', 'Cena',
                                        'Kraj poch.', 'Czy zabytek', 'Czy zarej. w Polsce', 'Czy bezwypadkowy',
-                                       'Czy Anglik','Serwisowany w ASO', 'Czy faktura VAT', 'Filtr DPF', 'Generacja',
+                                       'Czy Anglik','Serwisowany w ASO', 'Filtr DPF', 'Generacja',
                                        'Rok prod.', 'Pierwsza rejestracja','Przebieg', 'Oferta od', 'Czy leasing',
                                        'Rodzaj paliwa', 'Emisja CO2', 'Typ', 'Kolor', 'Stan', 'Czy pierwsz. właśc',
                                        'Napęd', 'Skrzynia biegów', 'Data dodania'])
@@ -37,7 +37,7 @@ def scrap_data_for_offer(b, m, url, loc):
     id_offer = None
     if soup.find_all('span', {'id':'ad_id'}):
         id_offer = soup.find_all('span', {'id':'ad_id'})[0].text
-    # print('ID', id_offer)
+    print('ID', id_offer)
 
     power = None
     if soup.find_all('span', string='Moc'):
@@ -101,12 +101,14 @@ def scrap_data_for_offer(b, m, url, loc):
         if_aso = False if if_aso == 'Nie' else if_aso
     # print('Serwisowany w ASO', if_aso)
 
-    if_vat = None
-    if soup.find_all('span', string='Faktura VAT'):
-        if_vat = soup.find_all('span', string='Faktura VAT')[0].parent.contents[3].find(
-            'a').text.strip()
-        if_vat = True if if_vat == 'Tak' else if_vat
-        if_vat = False if if_vat == 'Nie' else if_vat
+
+    # NIE DZIALA DLA KAZDEGO OGLOSZENIA
+    # if_vat = None
+    # if soup.find_all('span', string='Faktura VAT'):
+    #     if_vat = soup.find_all('span', string='Faktura VAT')[0].parent.contents[3].find(
+    #         'a').text.strip()
+    #     if_vat = True if if_vat == 'Tak' else if_vat
+    #     if_vat = False if if_vat == 'Nie' else if_vat
     # print('Czy faktura VAT', if_vat)
 
     if_dpf = None
@@ -213,11 +215,11 @@ def scrap_data_for_offer(b, m, url, loc):
     # print('Data dodania', date)
     tmp_data_frame = pandas.DataFrame(
         [(id_offer, brand, model, city, region, power, eng_cap, price, from_country, if_vintage, if_reg_in_poland,
-          if_acc_free, if_right_wheel,if_aso, if_vat, if_dpf, generation, prod_year, first_register, mileage,
+          if_acc_free, if_right_wheel, if_aso, if_dpf, generation, prod_year, first_register, mileage,
           offer_from, if_leasing, fuel_type, co2_emission, car_type, color,
           condition, if_first_owner, drive, transmission_type, date)],
         columns=['ID', 'Marka', 'Model', 'Miasto', 'Wojewodztwo','Moc', 'Poj. sil', 'Cena', 'Kraj poch.', 'Czy zabytek',
-                'Czy zarej. w Polsce', 'Czy bezwypadkowy', 'Czy Anglik','Serwisowany w ASO', 'Czy faktura VAT',
+                'Czy zarej. w Polsce', 'Czy bezwypadkowy', 'Czy Anglik','Serwisowany w ASO',
                 'Filtr DPF', 'Generacja', 'Rok prod.', 'Pierwsza rejestracja','Przebieg', 'Oferta od', 'Czy leasing',
                 'Rodzaj paliwa', 'Emisja CO2', 'Typ', 'Kolor', 'Stan',
                 'Czy pierwsz. właśc', 'Napęd', 'Skrzynia biegów', 'Data dodania']

@@ -12,7 +12,7 @@ Czy zarej. w Polsce
 Czy bezwypadkowy
 Czy Anglik
 Serwisowany w ASO
-Czy faktura VAT
+# Czy faktura VAT - DZIALA DLA WIEKSZOSCI ALE NIE DLA WSZYSTKICH, NARAZIE TEGO NIE ZBIERAMY, JEST DO POPRAWY
 Filtr DPF
 Generacja
 Rok prod.
@@ -29,3 +29,9 @@ Czy pierwsz. w³aœc
 Napêd
 Skrzynia biegów
 Data dodania
+
+Micha³: Acura - Fiat
+Bartek K: Ford - Mercedes-Benz
+Bartek ¯: Mercury - Seat
+Tomek: Shuanghuan - Vanderhall
+
