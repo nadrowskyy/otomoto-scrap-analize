@@ -1,7 +1,6 @@
 import requests, bs4, pickle, pandas
 from datetime import datetime
-import locale
-locale.setlocale(locale.LC_ALL, 'pl_PL.UTF-8')
+
 
 lookup_table = {
     "stycznia": "01",   "lutego": "02",
@@ -361,7 +360,7 @@ def get_link_from_page(car_url, cars_dict):
                 for link, location in cars_link_dict.items():
                     # CALL A FUNCTION FOR EACH AUCTION TO SCRAP NEEDED DATA FROM THERE
                     if link == tmp_url:
-                        break
+                        continue
                     else:
                         scrap_data_for_offer(brand, model, link, location)
             
