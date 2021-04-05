@@ -4,8 +4,8 @@ import concurrent.futures
 import time
 headers = requests.utils.default_headers()
 headers['User-Agent'] = 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36'
-
-
+global ITERATOR
+ITERATOR = 0
 
 lookup_table = {
     "stycznia": "01",   "lutego": "02",
@@ -25,7 +25,7 @@ DATA_FRAME = pandas.DataFrame(columns=['ID', 'Marka', 'Model', 'Miasto', 'Wojewo
                                        'Rodzaj paliwa', 'Emisja CO2', 'Typ', 'Kolor', 'Stan', 'Czy pierwsz. właśc',
                                        'Napęd', 'Skrzynia biegów', 'Data dodania'])
 
-ITERATOR = 0
+
 
 # SCRAPPING DATA FROM FOR EACH AUCTION
 def scrap_data_for_offer(b, m, url, loc):
@@ -42,7 +42,7 @@ def scrap_data_for_offer(b, m, url, loc):
     id_offer = None
     if soup.find_all('span', {'id':'ad_id'}):
         try:
-            id_offer = soup.find_all('span', {'id':'ad_id'})[0].text
+            id_offer = str(soup.find_all('span', {'id':'ad_id'})[0].text)
         except:
             pass
     print('ID', id_offer)
@@ -316,31 +316,23 @@ def scrap_data_for_offer(b, m, url, loc):
                 'Rodzaj paliwa', 'Emisja CO2', 'Typ', 'Kolor', 'Stan',
                 'Czy pierwsz. właśc', 'Napęd', 'Skrzynia biegów', 'Data dodania']
         )
-    # print(tmp_data_frame)
-    # global DATA_FRAME
-    # DATA_FRAME = DATA_FRAME.append(tmp_data_frame, ignore_index=True)
     global ITERATOR
     ITERATOR+=1
     if ITERATOR == 1:
-        tmp_data_frame.to_csv('scrap.csv', index=False)
+        tmp_data_frame.to_csv(f'cars/{brand}.csv', index=False)
     else:
-        tmp_data_frame.to_csv('scrap.csv', mode='a', index=False, header=False)
+        tmp_data_frame.to_csv(f'cars/{brand}.csv', mode='a', index=False, header=False)
     print(ITERATOR, 'elementow')
-    # print(DATA_FRAME)
-    # print(DATA_FRAME.to_string())
-    # print('\n')
 
 
 # GETTING LINK TO AUCTION FOR EACH MODEL
-def get_link_from_page(car_url, cars_dict):
-    # auction_links = []
-
+def get_link_from_page(cars_dict):
+    car_url = 'https://www.otomoto.pl/osobowe'
     for brand, models in cars_dict.items():
+        print(brand)
         for model in models:
             print(model)
             tmp_url = f'{car_url}/{brand}/{model}/'
-            #print(tmp_url)
-            #print(tmp_url)
             page = requests.get(tmp_url, headers=headers)
             data = page.text
             soup = bs4.BeautifulSoup(data, 'html.parser')
@@ -350,17 +342,12 @@ def get_link_from_page(car_url, cars_dict):
                 num_pages = 1
             for i in range(1, num_pages+1):
                 cars_page = requests.get(f'{tmp_url}?page={i}')
-                #print(cars_page)
                 cars_data = cars_page.text
                 cars_soup = bs4.BeautifulSoup(cars_data, 'html.parser')
                 # LINKI DO AUKCJI
                 cars_links = cars_soup.find_all('a', class_='offer-title__link')
                 cars_cities = cars_soup.find_all('span', class_='ds-location-city')
                 cars_regions = cars_soup.find_all('span', class_='ds-location-region')
-                # print(len(cars_links))
-                # print(len(cars_cities))
-                # print(len(cars_regions))
-
                 cars_link_dict = {}
                 for link, city, region in zip(cars_links, cars_cities, cars_regions):
                     cars_link_dict[link.get('href')] = [city.string, region.string]
@@ -372,11 +359,9 @@ def get_link_from_page(car_url, cars_dict):
                         continue
                     else:
                         scrap_data_for_offer(brand, model, link, location)
+    global ITERATOR
+    ITERATOR = 0
 
 
-
-pickle_in = open('dict_cars.pickle', 'rb')
-cars_dict = pickle.load(pickle_in)
-pickle_in.close()
-url = 'https://www.otomoto.pl/osobowe'
-get_link_from_page(url, cars_dict)
+if __name__ == '__main__':
+    get_link_from_page(cars_dict)
