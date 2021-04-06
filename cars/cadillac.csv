@@ -1,0 +1,143 @@
+ID,Marka,Model,Miasto,Wojewodztwo,Moc,Poj. sil,Cena,Kraj poch.,Czy zabytek,Czy zarej. w Polsce,Czy bezwypadkowy,Czy Anglik,Serwisowany w ASO,Filtr DPF,Generacja,Rok prod.,Pierwsza rejestracja,Przebieg,Oferta od,Czy leasing,Rodzaj paliwa,Emisja CO2,Typ,Kolor,Stan,Czy pierwsz. właśc,Napęd,Skrzynia biegów,Data dodania
+6080251886,cadillac,ats,Busko-Zdrój,Świętokrzyskie,276,1998,81000,,False,False,,,,,,2018,,23600,Osoby prywatnej,,Benzyna,,Sedan,Srebrny,Używane,,4x4 (stały),Automatyczna,2021-04-05 14:34:00
+6083669199,cadillac,ats,Ostrów Wielkopolski,Wielkopolskie,470,3564,76900,Francja,False,,,,True,,,2017,,21404,Osoby prywatnej,,Benzyna,,Sedan,Srebrny,Używane,True,Na tylne koła,Automatyczna,2021-04-05 19:13:00
+6057338523,cadillac,ats,Łuków,Lubelskie,284,2000,62500,,False,False,,,True,,,2014,,43000,Osoby prywatnej,,Benzyna,,Sedan,Czarny,Używane,True,,Automatyczna,2021-04-05 14:33:00
+6077040780,cadillac,ats,Bydgoszcz,Kujawsko-pomorskie,320,3564,62000,Kanada,False,,,,,,,2013,,58000,Osoby prywatnej,,Benzyna,,Sedan,Beżowy,Używane,,4x4 (dołączany automatycznie),Automatyczna,2021-04-03 15:43:00
+6083191235,cadillac,ats,Wyszków,Mazowieckie,276,1998,62900,Stany Zjednoczone,False,False,,,,,,2015,,135350,Firmy,,Benzyna,195,Sedan,Czarny,Używane,,4x4 (stały),Automatyczna,2021-04-01 12:39:00
+6069470537,cadillac,ats,Śrem,Wielkopolskie,328,3600,49999,,False,,,,,,,2013,,73015,Firmy,,Benzyna,,Sedan,Czarny,Używane,,Na tylne koła,Automatyczna,2021-03-31 14:30:00
+6058033254,cadillac,ats,Siedlce,Mazowieckie,276,2000,69500,,False,,,,,,,2014,,43921,Firmy,,Benzyna,,Sedan,Czarny,Używane,,Na tylne koła,Automatyczna,2021-03-29 18:54:00
+6074711298,cadillac,bls,Puławy,Lubelskie,150,1910,13900,Holandia,False,False,True,,,,,2009,,218000,Firmy,,Diesel,,Sedan,Srebrny,Używane,,Na przednie koła,Manualna,2021-04-02 08:47:00
+6083795912,cadillac,bls,Myślenice,Małopolskie,150,1910,18000,,False,False,True,,,True,,2006,2006-03-02 00:00:00,280000,Osoby prywatnej,,Diesel,164,Sedan,Srebrny,Używane,,Na przednie koła,Manualna,2021-03-30 13:12:00
+6083066757,cadillac,bls,Nasielsk,Mazowieckie,175,1998,17800,Polska,False,False,,,,,,2006,2006-06-14 00:00:00,94900,Firmy,,Benzyna,216,Sedan,Szary,Używane,,Na przednie koła,Automatyczna,2021-03-29 08:17:00
+6083359024,cadillac,bls,Radom,Mazowieckie,255,2792,21900,Szwajcaria,False,,True,,True,,,2006,,154321,Firmy,,Benzyna,259,Sedan,Złoty,Używane,,Na przednie koła,Automatyczna,2021-03-28 07:54:00
+6083705146,cadillac,bls,Radom,Mazowieckie,255,2792,21900,Szwajcaria,False,,,,True,,,2006,2007-01-31 00:00:00,129000,Osoby prywatnej,,Benzyna,259,Sedan,Czarny,Używane,,Na przednie koła,Automatyczna,2021-03-27 15:35:00
+6078700023,cadillac,brougham,Będzin,Śląskie,188,5710,26600,,False,False,,,,,,1993,,297000,Osoby prywatnej,,Benzyna,,Sedan,Szary,Używane,,Na tylne koła,Automatyczna,2021-04-01 12:02:00
+6083732744,cadillac,brougham,Ostrołęka,Mazowieckie,200,5000,18000,,False,,,,,,,1988,,180000,Osoby prywatnej,,Benzyna,,Sedan,Biały,Używane,,,Automatyczna,2021-03-28 13:51:00
+6083368569,cadillac,ct6,Ciemne,Mazowieckie,417,2997,69950,,False,,,,,,,2017,,61462,Firmy,,Benzyna,218,Sedan,Bordowy,Używane,,4x4 (stały),Automatyczna,2021-04-05 13:26:00
+6083512989,cadillac,ct6,Tarnowskie Góry,Śląskie,340,3600,183000,,False,,,,,,,2016,2017-01-17 00:00:00,35000,Osoby prywatnej,,Benzyna,218,Sedan,Czarny,Używane,,4x4 (stały),Automatyczna,2021-04-01 21:25:00
+6079272778,cadillac,ct6,Sieraków,Wielkopolskie,335,3600,155000,Stany Zjednoczone,False,False,,,,,,2017,,63000,Osoby prywatnej,,Benzyna,,Sedan,Biały,Używane,,4x4 (stały),Automatyczna,2021-03-31 10:52:00
+6083387733,cadillac,cts,Radom,Mazowieckie,180,2600,17900,Niemcy,False,,True,,True,,,2004,,194899,Osoby prywatnej,,Benzyna,,Sedan,Inny kolor,Używane,,Na tylne koła,Automatyczna,2021-04-05 17:49:00
+6083203554,cadillac,cts,Warszawa,Mazowieckie,237,2000,124000,,False,,,,,,,2020,,1500,Firmy,,Benzyna,,Sedan,Szary,Używane,,Na tylne koła,Automatyczna,2021-04-05 17:12:00
+6082836434,cadillac,cts,Legionowo,Mazowieckie,217,3175,15000,,False,False,,,,,,2003,,229500,Osoby prywatnej,,Benzyna,,Sedan,Inny kolor,Używane,,Na tylne koła,Automatyczna,2021-04-05 16:03:00
+6074765959,cadillac,cts,Gdańsk,Pomorskie,306,3600,77900,Stany Zjednoczone,False,False,True,,,,,2011,,191000,Osoby prywatnej,,Benzyna,,Coupe,Bordowy,Używane,,4x4 (stały),Automatyczna,2021-04-04 18:34:00
+6052232323,cadillac,cts,Jarosław,Podkarpackie,276,2000,118000,Stany Zjednoczone,False,False,,,,,,2014,2018-08-27 00:00:00,45000,Osoby prywatnej,,Benzyna,,Sedan,Szary,Używane,,4x4 (stały),Automatyczna,2021-04-04 17:53:00
+6077526725,cadillac,cts,Radom,Mazowieckie,311,3564,39900,Szwajcaria,False,,True,,True,,,2008,,223554,Osoby prywatnej,,Benzyna,247,Sedan,Bordowy,Używane,,4x4 (stały),Automatyczna,2021-04-04 09:01:00
+6081287548,cadillac,cts,Gdańsk,Pomorskie,311,3564,37900,Dania,False,False,,,,,,2010,,287000,Firmy,,Benzyna,275,Sedan,Czarny,Używane,,4x4 (stały),Automatyczna,2021-04-02 15:21:00
+6069785459,cadillac,cts,Warszawa,Mazowieckie,270,3000,31900,Stany Zjednoczone,False,False,,,,,,2011,,138000,Osoby prywatnej,,Benzyna,,Sedan,Czarny,Używane,True,4x4 (stały),Automatyczna,2021-04-02 14:19:00
+6081802566,cadillac,cts,Ostrowiec Świętokrzyski,Świętokrzyskie,180,2597,24900,,False,False,True,,True,,,2006,,179247,Firmy,,Benzyna,284,Sedan,Szary,Używane,True,Na tylne koła,Manualna,2021-04-01 19:48:00
+6083642080,cadillac,cts,Garwolin,Mazowieckie,276,1998,99999,Szwajcaria,False,False,True,,True,,,2014,,31207,Firmy,,Benzyna,195,Sedan,Czarny,Używane,,4x4 (stały),Automatyczna,2021-04-01 08:17:00
+6081955924,cadillac,cts,Dobra,Zachodniopomorskie,276,2997,32999,Kanada,False,,True,,,,,2011,,246000,Osoby prywatnej,,Benzyna,249,Sedan,Czarny,Używane,,4x4 (stały),Automatyczna,2021-03-31 20:55:00
+6076366891,cadillac,cts,Sanok,Podkarpackie,311,3600,95000,Stany Zjednoczone,False,False,,,,,,2013,,66000,Osoby prywatnej,,Benzyna,,Coupe,Czarny,Używane,,4x4 (stały),Automatyczna,2021-03-31 20:32:00
+6083850064,cadillac,cts,Nowe Miasto nad Wartą,Wielkopolskie,257,3564,12000,,False,,,,,,,2007,,170000,Osoby prywatnej,,Benzyna+LPG,,Sedan,Czarny,Używane,,Na tylne koła,Manualna,2021-03-31 19:39:00
+6075705918,cadillac,cts,Piła Kościelecka,Małopolskie,220,3179,13000,Szwajcaria,False,,,,,,,2002,,154100,Firmy,,Benzyna,,Sedan,Srebrny,Używane,,Na tylne koła,Automatyczna,2021-03-31 13:36:00
+6079227973,cadillac,cts,Opole,Opolskie,565,6199,135000,,False,False,,,,,,2013,,120000,Osoby prywatnej,,Benzyna,,Sedan,Czarny,Używane,,Na tylne koła,Automatyczna,2021-03-31 08:12:00
+6083790132,cadillac,cts,Gdynia,Pomorskie,211,2792,31900,Niemcy,False,False,True,,,,,2008,,115500,Osoby prywatnej,,Benzyna,,Sedan,Inny kolor,Używane,,Na tylne koła,Manualna,2021-03-30 12:01:00
+6083047833,cadillac,cts,Słupsk,Pomorskie,276,1998,82900,Stany Zjednoczone,False,,,,,,,2015,,120892,Firmy,,Benzyna,,Sedan,Biały,Używane,,4x4 (stały),Automatyczna,2021-03-28 15:47:00
+6076470221,cadillac,cts,Oleśnica,Dolnośląskie,311,3564,41900,,False,False,True,,True,,,2009,,208600,Firmy,,Benzyna,,Sedan,Szary,Używane,True,Na tylne koła,Automatyczna,2021-03-27 22:06:00
+6083183340,cadillac,cts,Warszawa,Mazowieckie,311,3564,29999,,False,,True,,,,,2008,2008-08-05 00:00:00,198000,Firmy,,Benzyna,,Sedan,Czarny,Używane,,Na tylne koła,Automatyczna,2021-03-27 20:16:00
+6080846995,cadillac,cts,Pajęczno,Łódzkie,276,1998,44999,,False,False,,,,,,2013,2013-01-01 00:00:00,58900,Osoby prywatnej,,Benzyna,193,Sedan,Czarny,Używane,,Na tylne koła,Automatyczna,2021-03-27 18:28:00
+6083013381,cadillac,cts,Bydgoszcz,Kujawsko-pomorskie,311,3564,28000,,False,,,,,,,2008,,149000,Osoby prywatnej,,Benzyna,,Sedan,Czerwony,Używane,,,Automatyczna,2021-03-27 13:51:00
+6077753249,cadillac,cts,Lublin,Lubelskie,311,3564,35900,,False,False,,,True,,,2008,,175000,Firmy,,Benzyna,,Sedan,Biały,Używane,,4x4 (dołączany automatycznie),Automatyczna,2021-03-27 12:24:00
+6046279932,cadillac,deville,Kwidzyn,Pomorskie,350,7700,76000,,False,,,,,,,1969,,21789,Osoby prywatnej,,Benzyna,,Sedan,Czarny,Używane,,,Automatyczna,2021-04-05 17:33:00
+6080375613,cadillac,deville,Rzezawa,Małopolskie,375,7700,34000,Stany Zjednoczone,False,,,,,,,1969,,100000,Firmy,,Benzyna,,Kabriolet,Bordowy,Używane,,Na tylne koła,Automatyczna,2021-04-04 11:41:00
+6075346289,cadillac,deville,Nowy Sącz,Małopolskie,,4500,39999,,True,False,True,,,,,1988,,74500,Osoby prywatnej,,Benzyna,,Coupe,Srebrny,Używane,True,Na przednie koła,Automatyczna,2021-04-03 18:57:00
+6076696392,cadillac,deville,Krasne,Podkarpackie,195,6966,13900,,False,,,,,,,1979,,131000,Osoby prywatnej,,Benzyna,,Sedan,Inny kolor,Używane,,Na tylne koła,Automatyczna,2021-04-03 16:20:00
+6077904538,cadillac,deville,Włocławek,Kujawsko-pomorskie,275,4565,61500,Stany Zjednoczone,False,,,,,,,2003,2003-01-01 00:00:00,130000,Osoby prywatnej,,Benzyna,,Sedan,Srebrny,Używane,,,Automatyczna,2021-04-03 08:37:00
+6077805459,cadillac,deville,Chojnice,Pomorskie,180,4200,14444,,True,False,True,,,,,1986,,200000,Osoby prywatnej,,Benzyna+LPG,,Sedan,Biały,Używane,,,Automatyczna,2021-04-02 21:49:00
+6075143196,cadillac,deville,Szczekociny,Śląskie,193,8190,77000,Stany Zjednoczone,True,False,,,,,,1974,1974-01-01 00:00:00,250000,Osoby prywatnej,,Benzyna,,Sedan,Złoty,Używane,,Na tylne koła,Automatyczna,2021-04-02 12:00:00
+6077996004,cadillac,deville,Rzezawa,Małopolskie,340,7000,66000,,False,,,,,,,1970,,90000,Osoby prywatnej,,Benzyna,,Kabriolet,Czarny,Używane,,,Automatyczna,2021-04-01 21:03:00
+6083198201,cadillac,deville,Bolesławiec,Dolnośląskie,300,460,22000,,False,,,,,,,2000,2009-10-30 00:00:00,21000,Osoby prywatnej,,Benzyna+LPG,,Sedan,Zielony,Używane,,,Automatyczna,2021-04-01 15:12:00
+6057558432,cadillac,deville,Poznań,Wielkopolskie,163,7400,33950,,False,,,,,,,1972,,78420,Firmy,,Benzyna,,Coupe,Biały,Używane,,Na tylne koła,Automatyczna,2021-03-31 19:28:00
+6071935002,cadillac,deville,Łódź,Łódzkie,375,7600,63000,,False,,,,,,,1967,,250000,Osoby prywatnej,,Benzyna,,Sedan,Zielony,Używane,,,Automatyczna,2021-03-30 16:45:00
+6083440881,cadillac,deville,Bydgoszcz,Kujawsko-pomorskie,320,7000,80000,Stany Zjednoczone,True,False,True,,,,,1964,,99000,Osoby prywatnej,,Benzyna,,Coupe,Bordowy,Używane,True,Na tylne koła,Automatyczna,2021-03-30 16:00:00
+6075902113,cadillac,deville,Bochnia,Małopolskie,200,7700,37900,Stany Zjednoczone,False,,True,,,,,1973,,144000,Osoby prywatnej,,Benzyna,,Coupe,Czerwony,Używane,,Na tylne koła,Automatyczna,2021-03-29 13:20:00
+6075324761,cadillac,deville,Chełm,Lubelskie,275,4565,29900,,False,False,True,,True,,,2004,,204000,Firmy,,Benzyna,,Sedan,Biały,Używane,,Na przednie koła,Automatyczna,2021-03-08 20:04:00
+6082630158,cadillac,dts,Radomsko,Łódzkie,280,4600,89790,Belgia,False,,True,,,,,2007,2007-10-02 00:00:00,86000,Osoby prywatnej,,Benzyna,,Kombi,Szary,Używane,True,Na tylne koła,Automatyczna,2021-04-04 21:22:00
+6083741219,cadillac,dts,Poznań,Wielkopolskie,280,4600,34950,,False,,,,,,,2011,,121000,Firmy,,Benzyna,,Sedan,Inny kolor,Używane,,,Automatyczna,2021-04-04 13:25:00
+6083741382,cadillac,dts,Poznań,Wielkopolskie,279,4600,39950,,False,,,,,,,2011,,221000,Firmy,,Benzyna,,Sedan,Biały,Używane,,,Automatyczna,2021-04-03 18:21:00
+6081107023,cadillac,dts,Poznań,Wielkopolskie,279,4565,29950,,False,,,,,,,2011,,101000,Firmy,,Benzyna,,Sedan,Czarny,Używane,,,Automatyczna,2021-03-31 19:30:00
+6081666794,cadillac,dts,Poznań,Wielkopolskie,279,4600,27950,,False,,,,,,,2009,,151000,Firmy,,Benzyna,,Sedan,Biały,Używane,,,Automatyczna,2021-03-31 19:30:00
+6081089742,cadillac,dts,Poznań,Wielkopolskie,275,4600,27950,,False,,,,,,,2009,,136000,Firmy,,Benzyna,,Sedan,Brązowy,Używane,,,Automatyczna,2021-03-31 19:30:00
+6081953207,cadillac,dts,Poznań,Wielkopolskie,279,4600,22350,,False,,,,,,,2011,,226000,Firmy,,Benzyna,,Sedan,Czarny,Używane,,,Automatyczna,2021-03-31 19:29:00
+6063200353,cadillac,dts,Gniezno,Wielkopolskie,300,4600,24599,,False,False,,,,,,2008,,192560,Osoby prywatnej,,Benzyna,,Sedan,Złoty,Używane,,Na przednie koła,Automatyczna,2021-03-29 14:41:00
+6083281516,cadillac,eldorado,Jedlińsk,Mazowieckie,375,7000,95000,Stany Zjednoczone,False,,,,,,,1967,,49440,Osoby prywatnej,,Benzyna,,Coupe,Biały,Używane,,Na przednie koła,Automatyczna,2021-04-02 20:57:00
+6083311822,cadillac,eldorado,Dobra,Zachodniopomorskie,300,4572,18450,,False,False,,,,,,1995,1995-02-03 00:00:00,330450,Firmy,,Benzyna,,Coupe,Inny kolor,Używane,,,Automatyczna,2021-04-05 16:07:00
+6082786311,cadillac,eldorado,Lublin,Lubelskie,,,34900,,False,,,,,,,1996,,168000,Osoby prywatnej,,Benzyna,,Coupe,Zielony,Używane,,,Automatyczna,2021-04-04 22:11:00
+6073842289,cadillac,eldorado,Warszawa,Mazowieckie,305,4600,39900,Szwajcaria,False,,True,,True,,,1997,1997-08-08 00:00:00,162000,Firmy,,Benzyna,,Coupe,Czerwony,Używane,,Na przednie koła,Automatyczna,2021-04-04 17:27:00
+6077845859,cadillac,eldorado,Zambrów,Podlaskie,305,4600,27500,,False,False,,,,,,2001,,150000,Osoby prywatnej,,Benzyna,,Coupe,Złoty,Używane,True,Na przednie koła,Automatyczna,2021-04-04 16:48:00
+6079250892,cadillac,eldorado,Straszyn,Pomorskie,238,8200,209000,,False,False,True,,True,,,1971,,38000,Firmy,,Benzyna,,Kabriolet,Niebieski,Używane,True,Na przednie koła,Automatyczna,2021-04-03 14:28:00
+6068866074,cadillac,eldorado,Mazury,Podlaskie,300,7000,46000,,False,,,,,,,1978,,28000,Osoby prywatnej,,Benzyna,,Coupe,Czarny,Używane,,,Automatyczna,2021-04-03 10:16:00
+6076039181,cadillac,eldorado,Nowy Sącz,Małopolskie,182,4500,23800,,False,,,,,,,1987,,203000,Firmy,,Benzyna,,Coupe,Biały,Używane,,Na przednie koła,Automatyczna,2021-04-02 18:55:00
+6083538737,cadillac,eldorado,Radziejowice,Mazowieckie,220,8200,47000,,False,,,,,,,1975,,102600,Firmy,,Benzyna,,Kabriolet,Bordowy,Używane,,,Automatyczna,2021-04-02 14:59:00
+6083530497,cadillac,eldorado,Ostróda,Warmińsko-mazurskie,165,5700,31900,Stany Zjednoczone,True,False,True,,,,,1979,,200000,Firmy,,Benzyna,,Coupe,Brązowy,Używane,,Na przednie koła,Automatyczna,2021-04-02 12:16:00
+6083473046,cadillac,eldorado,Chałupki,Śląskie,200,4917,50000,,False,,True,,True,,,1991,1991-01-01 00:00:00,29000,Osoby prywatnej,,Benzyna,,Coupe,Inny kolor,Używane,True,Na tylne koła,Automatyczna,2021-04-01 12:06:00
+6072298792,cadillac,eldorado,Kraków,Małopolskie,370,8200,89000,Stany Zjednoczone,False,,,,,,,1971,,387800,Firmy,,Benzyna,,Kabriolet,Czerwony,Używane,,Na przednie koła,Automatyczna,2021-04-01 08:06:00
+6083171676,cadillac,eldorado,Szczecin,Zachodniopomorskie,220,8200,42000,Stany Zjednoczone,False,,,,,,,1975,,121000,Osoby prywatnej,,Benzyna,,Kabriolet,Niebieski,Używane,,Na przednie koła,Automatyczna,2021-03-31 19:50:00
+6083143314,cadillac,eldorado,Szczecin,Zachodniopomorskie,396,8200,47000,Stany Zjednoczone,False,,,,,,,1970,,147000,Osoby prywatnej,,Benzyna,,Coupe,Złoty,Używane,,Na przednie koła,Automatyczna,2021-03-31 16:41:00
+6076345990,cadillac,eldorado,Lubaczów,Podkarpackie,192,8200,53900,,False,False,,,,,,1975,,117600,Osoby prywatnej,,Benzyna,,Kabriolet,Niebieski,Używane,,Na przednie koła,Automatyczna,2021-03-29 17:26:00
+6083402257,cadillac,eldorado,Kotlin,Wielkopolskie,200,8200,41700,,False,,,,,,,1976,,70400,Firmy,,Benzyna,,Kabriolet,Inny kolor,Używane,,Na tylne koła,Automatyczna,2021-03-29 09:15:00
+6076328075,cadillac,eldorado,Warszawa,Mazowieckie,211,8200,64999,Stany Zjednoczone,True,False,True,,,,,1976,,80000,Osoby prywatnej,,Benzyna,,Kabriolet,Czerwony,Używane,,Na przednie koła,Automatyczna,2021-03-28 23:10:00
+6075648367,cadillac,eldorado,Cieszyn,Śląskie,155,4100,14900,,False,,,,,,,1985,,217372,Firmy,,Benzyna,,Coupe,Inny kolor,Używane,,,Automatyczna,2021-03-28 19:00:00
+6080111557,cadillac,eldorado,Koszalin,Zachodniopomorskie,135,4087,14900,Stany Zjednoczone,True,,,,,,,1984,1984-07-01 00:00:00,89500,Firmy,,Benzyna,,Coupe,Czarny,Używane,,Na tylne koła,Automatyczna,2021-03-28 01:17:00
+6083204603,cadillac,escalade,Warszawa,Mazowieckie,420,6200,190000,,False,,,,,,,2020,,32000,Firmy,,Benzyna,289,SUV,Czarny,Używane,,Na tylne koła,Automatyczna,2021-04-05 17:58:00
+6083198950,cadillac,escalade,Sade Budy,Mazowieckie,350,5967,39900,Holandia,False,,True,,True,,,2005,,177000,Firmy,,Benzyna+LPG,,SUV,Czarny,Używane,,4x4 (dołączany ręcznie),Automatyczna,2021-04-05 15:25:00
+6083929872,cadillac,escalade,Strzyżew,Mazowieckie,409,6162,55000,Polska,False,False,True,,,,,2007,2007-06-18 00:00:00,309000,Firmy,,Benzyna,,SUV,Czarny,Używane,,4x4 (dołączany automatycznie),Automatyczna,2021-04-03 16:00:00
+6077411971,cadillac,escalade,Wrocław,Dolnośląskie,426,6162,429900,Niemcy,False,,True,,True,,,2019,2019-07-31 00:00:00,8000,Firmy,True,Benzyna,,SUV,Biały,Używane,True,4x4 (dołączany automatycznie),Automatyczna,2021-04-03 14:33:00
+6083927146,cadillac,escalade,Ożarów Mazowiecki,Mazowieckie,409,6199,128900,Francja,False,False,True,,True,,,2012,,212257,Firmy,,Benzyna,383,SUV,Czarny,Używane,True,4x4 (stały),Automatyczna,2021-04-03 12:37:00
+6083295040,cadillac,escalade,Jaworzno,Śląskie,420,6200,148000,,False,,,,,,,2016,,75071,Firmy,,Benzyna,,SUV,Czarny,Używane,,,Automatyczna,2021-04-03 11:21:00
+6083466732,cadillac,escalade,Gdańsk,Pomorskie,409,6162,249000,,False,False,,,,,,2016,,132097,Firmy,,Benzyna,,SUV,Czarny,Używane,,4x4 (dołączany automatycznie),Automatyczna,2021-04-03 10:50:00
+6082226498,cadillac,escalade,Włocławek,Kujawsko-pomorskie,420,6200,219900,,False,,,,,,,2016,,59000,Firmy,,Benzyna,,SUV,Biały,Używane,,,Automatyczna,2021-04-02 20:02:00
+6083910950,cadillac,escalade,Katowice,Śląskie,425,6162,183900,,False,,,,,,,2016,2016-01-01 00:00:00,121462,Osoby prywatnej,,Benzyna,,SUV,Czarny,Używane,,,Automatyczna,2021-04-02 14:33:00
+6077679659,cadillac,escalade,Wrocław,Dolnośląskie,426,6162,399900,Szwajcaria,False,,True,,True,,,2019,2019-09-10 00:00:00,19000,Firmy,True,Benzyna,,SUV,Czarny,Używane,True,4x4 (dołączany automatycznie),Automatyczna,2021-04-02 14:32:00
+6083527707,cadillac,escalade,Kraków,Małopolskie,420,6200,135000,,False,,,,,,,2021,2021-03-10 00:00:00,30,Osoby prywatnej,,Benzyna,,Minivan,Inny kolor,Używane,,4x4 (dołączany automatycznie),Automatyczna,2021-04-02 11:23:00
+6071634301,cadillac,escalade,Żory,Śląskie,425,6200,199000,,False,,,,True,,,2016,,135000,Firmy,,Benzyna,,SUV,Czarny,Używane,True,4x4 (dołączany automatycznie),Automatyczna,2021-04-02 09:10:00
+6083437963,cadillac,escalade,Zielona Góra,Lubuskie,426,6200,259770,Niemcy,False,False,True,,,,,2015,2016-11-03 00:00:00,48876,Osoby prywatnej,,Benzyna,,SUV,Biały,Używane,True,4x4 (dołączany automatycznie),Automatyczna,2021-04-01 14:22:00
+6083416077,cadillac,escalade,Warszawa,Mazowieckie,420,6200,80700,Stany Zjednoczone,False,,,,,,,2016,,99917,Firmy,,Benzyna,,SUV,Czarny,Używane,,4x4 (dołączany automatycznie),Automatyczna,2021-04-01 00:50:00
+6081242220,cadillac,escalade,Sokołów Podlaski,Mazowieckie,409,6199,62900,Kanada,False,False,,,True,,,2007,,239000,Firmy,,Benzyna+LPG,383,SUV,Czarny,Używane,,4x4 (stały),Automatyczna,2021-03-31 18:09:00
+6081097020,cadillac,escalade,Racibory,Mazowieckie,420,6200,799000,Stany Zjednoczone,False,,True,,,,,2020,,10,Firmy,,Benzyna,,SUV,Biały,Nowe,,4x4 (dołączany automatycznie),Automatyczna,2021-03-31 11:48:00
+6081042762,cadillac,escalade,Racibory,Mazowieckie,420,6200,799000,Stany Zjednoczone,False,,True,,,,,2021,,10,Firmy,,Benzyna,,SUV,Szary,Nowe,,4x4 (dołączany automatycznie),Automatyczna,2021-03-31 11:48:00
+6083814846,cadillac,escalade,Warszawa,Mazowieckie,426,6200,239900,Stany Zjednoczone,False,False,,,,,,2015,,98100,Firmy,,Benzyna,,SUV,Biały,Używane,,4x4 (stały),Automatyczna,2021-03-30 18:03:00
+6082115532,cadillac,escalade,Sierakowice,Pomorskie,410,6200,260399,Stany Zjednoczone,False,False,,,,,,2015,,61000,Firmy,,Benzyna+LPG,,SUV,Biały,Używane,,4x4 (dołączany automatycznie),Manualna,2021-03-30 16:58:00
+6080543584,cadillac,escalade,Radom,Mazowieckie,409,6199,99000,,False,False,True,,,,,2011,,330000,Firmy,,Benzyna+LPG,,SUV,Czarny,Używane,True,4x4 (stały),Automatyczna,2021-03-30 13:16:00
+6082473813,cadillac,escalade,Warszawa,Mazowieckie,409,6199,99999,Stany Zjednoczone,False,False,,,,,,2011,2011-01-01 00:00:00,219300,Firmy,,Benzyna,383,SUV,Szary,Używane,,4x4 (stały),Automatyczna,2021-03-30 10:33:00
+6079939616,cadillac,escalade,Łódź,Łódzkie,409,6199,94500,Stany Zjednoczone,False,False,True,,,,,2010,,286400,Firmy,,Benzyna,383,SUV,Biały,Używane,True,4x4 (stały),Automatyczna,2021-03-29 23:38:00
+6080707211,cadillac,escalade,Międzyrzecze Dolne,Śląskie,458,6200,276750,Stany Zjednoczone,False,False,,,True,,,2017,,66000,Osoby prywatnej,True,Benzyna+LPG,,SUV,Inny kolor,Używane,,4x4 (dołączany automatycznie),Automatyczna,2021-03-29 08:47:00
+6080707307,cadillac,escalade,Międzyrzecze Dolne,Śląskie,458,6200,228000,Stany Zjednoczone,False,False,,,True,,,2015,,110000,Osoby prywatnej,,Benzyna,,SUV,Inny kolor,Używane,,4x4 (dołączany automatycznie),Automatyczna,2021-03-29 08:46:00
+6080758307,cadillac,escalade,Pyrzyce,Zachodniopomorskie,409,6199,110000,Stany Zjednoczone,False,False,,,,,,2012,,201000,Osoby prywatnej,,Benzyna,,SUV,Biały,Używane,True,4x4 (stały),Automatyczna,2021-03-28 20:31:00
+6070853677,cadillac,fleetwood,Prochowice,Dolnośląskie,152,5676,99500,,False,False,,,,,,1949,,126000,Osoby prywatnej,,Benzyna,,Sedan,Niebieski,Używane,,Na tylne koła,Automatyczna,2021-04-02 12:55:00
+6076094264,cadillac,fleetwood,Mińsk Mazowiecki,Mazowieckie,350,7000,19900,,False,,,,,,,1967,,12345,Osoby prywatnej,,Benzyna,,Sedan,Czarny,Używane,,,Automatyczna,2021-03-29 17:08:00
+6064817631,cadillac,fleetwood,Koszalin,Zachodniopomorskie,330,6382,65900,Stany Zjednoczone,True,,,,,,,1962,,188557,Firmy,,Benzyna,,Sedan,Zielony,Używane,,Na tylne koła,Automatyczna,2021-03-28 13:14:00
+6078878079,cadillac,other,Wrocław,Dolnośląskie,174,1995,299000,Niemcy,False,,True,,,,,2020,,50,Firmy,True,Diesel,,SUV,Czarny,Nowe,,4x4 (dołączany automatycznie),Automatyczna,2021-04-04 13:00:00
+6078891221,cadillac,other,Wrocław,Dolnośląskie,174,1995,299000,Niemcy,False,,True,,,,,2020,,50,Firmy,True,Diesel,,SUV,Niebieski,Nowe,,4x4 (dołączany automatycznie),Automatyczna,2021-04-04 12:58:00
+6077586872,cadillac,seville,Golub-Dobrzyń,Kujawsko-pomorskie,200,4917,24000,,False,False,True,,True,,,1990,,226300,Osoby prywatnej,,Benzyna,,Sedan,Srebrny,Używane,True,Na przednie koła,Automatyczna,2021-04-05 10:50:00
+6001405229,cadillac,seville,Warszawa,Mazowieckie,137,4096,79900,Stany Zjednoczone,False,False,True,,,,,1983,,116671,Firmy,,Benzyna,,Sedan,Inny kolor,Używane,,,Automatyczna,2021-04-03 12:10:00
+6083105880,cadillac,seville,Latowicz,Mazowieckie,305,4600,20000,Szwajcaria,False,False,,,,,,2002,,211880,Osoby prywatnej,,Benzyna,,Sedan,Inny kolor,Używane,,Na przednie koła,Automatyczna,2021-04-02 18:30:00
+6082900336,cadillac,srx,Poznań,Wielkopolskie,258,3564,20999,Dania,False,False,True,,,,,2005,2005-10-07 00:00:00,183871,Osoby prywatnej,,Benzyna+LPG,331,SUV,Srebrny,Używane,,4x4 (dołączany automatycznie),Automatyczna,2021-03-31 21:17:00
+6080623695,cadillac,srx,Świętoszówka,Śląskie,325,4565,15999,Szwajcaria,False,,,,True,,,2005,2005-11-22 00:00:00,229000,Firmy,,Benzyna,349,SUV,Czarny,Używane,,4x4 (stały),Automatyczna,2021-04-03 18:34:00
+6077466627,cadillac,srx,Radom,Mazowieckie,325,4600,37500,Szwajcaria,False,,True,,True,,,2008,,156000,Firmy,,Benzyna,,SUV,Biały,Używane,,4x4 (dołączany automatycznie),Automatyczna,2021-04-02 21:22:00
+6083905481,cadillac,srx,Tarnowskie Góry,Śląskie,258,3564,35000,,False,,True,,,,,2010,,272000,Osoby prywatnej,,Benzyna,331,SUV,Srebrny,Używane,,4x4 (stały),Automatyczna,2021-04-02 12:09:00
+6083692248,cadillac,srx,Garwolin,Mazowieckie,325,4565,18900,Holandia,False,,True,,,,,2004,,224730,Firmy,,Benzyna,,SUV,Srebrny,Używane,,4x4 (dołączany automatycznie),Automatyczna,2021-04-02 09:34:00
+6082193782,cadillac,srx,Zawiercie,Śląskie,258,3564,28900,,False,,True,,True,,,2008,,280000,Osoby prywatnej,,Benzyna+LPG,331,SUV,Czarny,Używane,True,4x4 (stały),Automatyczna,2021-04-01 16:23:00
+6077343306,cadillac,srx,Myszków,Śląskie,307,3564,59900,,False,False,True,,True,,,2012,,154000,Osoby prywatnej,,Benzyna,,SUV,Czarny,Używane,,Na przednie koła,Automatyczna,2021-04-01 15:30:00
+6083817665,cadillac,srx,Swarzędz,Wielkopolskie,258,3600,22900,Niemcy,False,,True,,,,,2006,,198765,Firmy,,Benzyna,,SUV,Czarny,Używane,True,Na przednie koła,Automatyczna,2021-03-30 19:32:00
+6081804725,cadillac,srx,Gorlice,Małopolskie,258,3564,27500,,False,,,,,,,2008,2008-01-04 00:00:00,178641,Osoby prywatnej,,Benzyna,331,SUV,Biały,Używane,,,Automatyczna,2021-03-30 09:02:00
+6075707891,cadillac,srx,Kalisz,Wielkopolskie,258,3564,26999,Belgia,False,,True,,True,,,2009,2009-09-01 00:00:00,215000,Firmy,,Benzyna,,SUV,Srebrny,Używane,,Na tylne koła,Automatyczna,2021-03-29 12:34:00
+6082725509,cadillac,srx,Bełżec,Lubelskie,258,3564,27000,Szwecja,False,,True,,,,,2007,2007-07-06 00:00:00,204000,Firmy,,Benzyna,,SUV,Szary,Używane,,Na tylne koła,Automatyczna,2021-03-28 23:11:00
+6082668505,cadillac,srx,Mosty,Pomorskie,325,4565,25000,Stany Zjednoczone,False,False,,,,,,2004,2007-05-29 00:00:00,133726,Osoby prywatnej,,Benzyna,349,SUV,Srebrny,Używane,,4x4 (stały),Automatyczna,2021-03-27 19:05:00
+6071920705,cadillac,sts,Złotoryja,Dolnośląskie,257,3564,27900,,False,,,,,,,2006,2006-07-14 00:00:00,168000,Osoby prywatnej,,Benzyna,,Sedan,Niebieski,Używane,,,Automatyczna,2021-04-05 10:31:00
+6065884682,cadillac,sts,Luboń,Wielkopolskie,325,4565,39900,,False,False,,,,,,2009,,119641,Osoby prywatnej,,Benzyna,,Sedan,Złoty,Używane,,Na tylne koła,Automatyczna,2021-04-04 16:39:00
+6058848776,cadillac,sts,Olsztyn,Śląskie,325,4565,25000,Belgia,False,False,True,,,,,2005,,228600,Osoby prywatnej,,Benzyna,343,Sedan,Srebrny,Używane,,4x4 (dołączany ręcznie),Automatyczna,2021-03-25 14:52:00
+6074046903,cadillac,sts-v,Włodawa,Lubelskie,476,4370,74000,Stany Zjednoczone,False,,,,,,,2008,,89300,Osoby prywatnej,,Benzyna,379,Sedan,Czarny,Używane,,Na tylne koła,Automatyczna,2021-04-05 08:45:00
+6083642165,cadillac,sts-v,Laski,Wielkopolskie,325,4600,5950,,False,,True,,,,,2005,,189000,Osoby prywatnej,,Benzyna+LPG,,Sedan,Srebrny,Używane,,,Automatyczna,2021-03-26 08:25:00
+6083285780,cadillac,xlr,Mińsk Mazowiecki,Mazowieckie,326,4565,92000,Szwajcaria,False,False,True,,,,,2006,,98000,Osoby prywatnej,,Benzyna,,Kabriolet,Czarny,Używane,,Na tylne koła,Automatyczna,2021-04-04 23:25:00
+6083325657,cadillac,xt5,Kępno,Wielkopolskie,310,3600,85000,,False,,,,,,,2019,,19770,Osoby prywatnej,,Benzyna,,SUV,Czerwony,Używane,,4x4 (dołączany automatycznie),Automatyczna,2021-04-05 22:55:00
+6077234285,cadillac,xt5,Płońsk,Mazowieckie,314,3649,186000,Niemcy,False,,True,,True,,,2018,2019-07-16 00:00:00,23000,Osoby prywatnej,,Benzyna,,SUV,Biały,Używane,True,4x4 (dołączany ręcznie),Automatyczna,2021-04-05 17:55:00
+6083370880,cadillac,xt5,Ciemne,Mazowieckie,314,3600,49950,,False,,,,,,,2018,,49615,Firmy,,Benzyna,,SUV,Czarny,Używane,,4x4 (stały),Automatyczna,2021-04-05 14:21:00
+6083849058,cadillac,xt5,Kostrzyn nad Odrą,Lubuskie,314,3600,145000,,False,False,,,,,,2017,,22131,Osoby prywatnej,,Benzyna,,SUV,Biały,Używane,True,4x4 (dołączany automatycznie),Automatyczna,2021-03-31 18:59:00
+6079759906,cadillac,xt5,Siedlce,Mazowieckie,314,3600,129000,,False,,,,,,,2017,,71235,Firmy,,Benzyna,,SUV,Czarny,Używane,True,4x4 (dołączany automatycznie),Automatyczna,2021-03-31 08:40:00
+6083446757,cadillac,xt5,Żywiec,Śląskie,314,3600,129000,,False,False,,,,,,2017,,30000,Osoby prywatnej,,Benzyna,,SUV,Czarny,Używane,,4x4 (dołączany ręcznie),Automatyczna,2021-03-30 21:47:00
+6076971167,cadillac,xt5,Wiśniewo,Mazowieckie,314,3649,138000,,False,False,,,,,,2019,,8000,Osoby prywatnej,,Benzyna,,SUV,Srebrny,Używane,,4x4 (stały),Automatyczna,2021-03-29 14:18:00
+6081138363,cadillac,xts,Warszawa,Mazowieckie,321,3600,79900,Stany Zjednoczone,False,False,,,True,,,2013,2013-01-01 00:00:00,97000,Osoby prywatnej,,Benzyna,,Sedan,Czarny,Używane,,4x4 (stały),Automatyczna,2021-04-03 21:50:00
+6083934064,cadillac,xts,Bydgoszcz,Kujawsko-pomorskie,310,3564,81500,,False,False,,,,,,2017,2017-01-01 00:00:00,1300000,Osoby prywatnej,,Benzyna,,Sedan,Czarny,Używane,,Na przednie koła,Automatyczna,2021-04-03 20:44:00
+6082916119,cadillac,xts,Warszawa,Mazowieckie,324,3564,139999,Stany Zjednoczone,False,False,True,,,,,2019,,25000,Firmy,,Benzyna,,Sedan,Czarny,Używane,,,Automatyczna,2021-04-02 16:17:00
+6082306584,cadillac,xts,Poznań,Wielkopolskie,311,3600,43950,,False,,,,,,,2014,,164000,Firmy,,Benzyna,,Sedan,Inny kolor,Używane,,,Automatyczna,2021-03-31 19:29:00

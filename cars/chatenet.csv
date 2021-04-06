@@ -1,0 +1,13 @@
+ID,Marka,Model,Miasto,Wojewodztwo,Moc,Poj. sil,Cena,Kraj poch.,Czy zabytek,Czy zarej. w Polsce,Czy bezwypadkowy,Czy Anglik,Serwisowany w ASO,Filtr DPF,Generacja,Rok prod.,Pierwsza rejestracja,Przebieg,Oferta od,Czy leasing,Rodzaj paliwa,Emisja CO2,Typ,Kolor,Stan,Czy pierwsz. właśc,Napęd,Skrzynia biegów,Data dodania
+6083279182,chatenet,ch22-barooder,Skalbmierz,Świętokrzyskie,5,500,11000,,False,False,True,,,,,2008,2008-11-06 00:00:00,64200,Osoby prywatnej,,Diesel,,Auta małe,Niebieski,Używane,True,Na przednie koła,Manualna,2021-04-04 20:16:00
+6080024926,chatenet,ch26,Koźmin Wielkopolski,Wielkopolskie,8,480,75500,Francja,False,False,True,,,,,2020,,1,Firmy,,Diesel,,Kompakt,Biały,Używane,,Na przednie koła,Automatyczna,2021-04-04 10:37:00
+6080024923,chatenet,ch26,Koźmin Wielkopolski,Wielkopolskie,8,480,79100,Francja,False,False,True,,,,,2020,,1,Firmy,,Diesel,,Kompakt,Niebieski,Używane,,Na przednie koła,Automatyczna,2021-04-04 10:37:00
+6080024929,chatenet,ch26,Koźmin Wielkopolski,Wielkopolskie,8,480,71000,Francja,False,,True,,,,,2020,,1,Firmy,,Diesel,,Kompakt,Szary,Używane,,Na przednie koła,Automatyczna,2021-04-04 10:37:00
+6083281388,chatenet,ch26,Kościerzyna,Pomorskie,5,523,17900,,False,,,,,,,2010,,67123,Firmy,,Diesel,,Auta małe,Srebrny,Używane,,,Automatyczna,2021-04-02 20:50:00
+6081234944,chatenet,ch26,Jaroszyn,Wielkopolskie,6,523,37500,,False,,,,,,,2015,,12004,Firmy,,Diesel,,Auta małe,Biały,Używane,,Na przednie koła,Automatyczna,2021-04-02 10:04:00
+6082166818,chatenet,ch26,Olsztyn,Warmińsko-mazurskie,5,523,15900,,False,,,,,,,2011,2011-12-12 00:00:00,79700,Osoby prywatnej,,Diesel,,Auta małe,Srebrny,Używane,,,Automatyczna,2021-04-02 08:21:00
+6083830798,chatenet,ch26,Iwkowa,Małopolskie,5,523,19900,,False,,,,,,,2012,,37000,Firmy,,Diesel,,Auta małe,Czerwony,Używane,,,Automatyczna,2021-04-02 07:57:00
+6083848156,chatenet,ch26,Koźmin Wielkopolski,Wielkopolskie,5,523,40500,Francja,False,False,,,,,,2017,,37397,Firmy,,Diesel,,Kompakt,Biały,Używane,,Na przednie koła,Automatyczna,2021-03-31 18:16:00
+6081351872,chatenet,ch26,Jaroszyn,Wielkopolskie,6,523,33000,,False,,True,,,,,2014,,29269,Firmy,,Diesel,,Auta małe,Szary,Używane,,Na przednie koła,Automatyczna,2021-03-31 15:28:00
+6083462843,chatenet,ch32,Jaroszyn,Wielkopolskie,6,523,27300,,False,,True,,,,,2014,,33800,Firmy,,Diesel,,Auta małe,Biały,Używane,,,Automatyczna,2021-04-03 09:43:00
+6083417232,chatenet,ch32,Jaroszyn,Wielkopolskie,6,523,33000,,False,,True,,,,,2015,,20376,Firmy,,Diesel,,Auta małe,Biały,Używane,,,Automatyczna,2021-03-31 15:13:00
