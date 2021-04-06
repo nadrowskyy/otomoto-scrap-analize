@@ -6,8 +6,13 @@ from scrap import get_link_from_page
 
 
 cls = lambda: system('cls')
-with open('dict_cars_tn.pickle', 'rb') as pickle_in:
+with open('dict_cars.pickle', 'rb') as pickle_in:
     cars_dict = pickle.load(pickle_in)
+    cars_keys = list(cars_dict.keys())[14:]
+    cars_values = list(cars_dict.values())[14:]
+    cars_dict = dict()
+    for i in range(len(cars_keys)):
+        cars_dict[cars_keys[i]] = cars_values[i]
     for k, v in cars_dict.items():
         print('here')
         tmp_dict = {k: v}
