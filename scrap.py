@@ -19,11 +19,11 @@ lookup_table = {
 
 # GLOBAL DATA FRAME FOR ALL AUCTIONS
 DATA_FRAME = pandas.DataFrame(columns=['ID', 'Marka', 'Model', 'Miasto', 'Wojewodztwo','Moc', 'Poj. sil', 'Cena',
-                                       'Kraj poch.', 'Czy zabytek', 'Czy zarej. w Polsce', 'Czy bezwypadkowy',
+                                       'Waluta','Kraj poch.', 'Czy zabytek', 'Czy zarej. w Polsce', 'Czy bezwypadkowy',
                                        'Czy Anglik','Serwisowany w ASO', 'Filtr DPF', 'Generacja',
                                        'Rok prod.', 'Pierwsza rejestracja','Przebieg', 'Oferta od', 'Czy leasing',
                                        'Rodzaj paliwa', 'Emisja CO2', 'Typ', 'Kolor', 'Stan', 'Czy pierwsz. właśc',
-                                       'Napęd', 'Skrzynia biegów', 'Data dodania'])
+                                       'Napęd', 'Skrzynia biegów', 'Data dodania', 'Link'])
 
 
 
@@ -72,6 +72,15 @@ def scrap_data_for_offer(b, m, url, loc):
         except:
             pass
     # print('Cena', price)
+
+    currency = None
+    if soup.find_all('span', {'class': 'offer-price__currency'}):
+        try:
+            currency = soup.find_all('span', {'class': 'offer-price__currency'})[1].text
+
+        except:
+            pass
+    # print('Waluta', currency)
 
     from_country = None
     if soup.find_all('span', string='Kraj pochodzenia'):
@@ -306,18 +315,19 @@ def scrap_data_for_offer(b, m, url, loc):
 
     # print('Data dodania', date)
     tmp_data_frame = pandas.DataFrame(
-        [(id_offer, brand, model, city, region, power, eng_cap, price, from_country, if_vintage, if_reg_in_poland,
-          if_acc_free, if_right_wheel, if_aso, if_dpf, generation, prod_year, first_register, mileage,
+        [(id_offer, brand, model, city, region, power, eng_cap, price, currency,from_country, if_vintage,
+          if_reg_in_poland, if_acc_free, if_right_wheel, if_aso, if_dpf, generation, prod_year, first_register, mileage,
           offer_from, if_leasing, fuel_type, co2_emission, car_type, color,
-          condition, if_first_owner, drive, transmission_type, date)],
-        columns=['ID', 'Marka', 'Model', 'Miasto', 'Wojewodztwo','Moc', 'Poj. sil', 'Cena', 'Kraj poch.', 'Czy zabytek',
-                'Czy zarej. w Polsce', 'Czy bezwypadkowy', 'Czy Anglik','Serwisowany w ASO',
+          condition, if_first_owner, drive, transmission_type, date, url)],
+        columns=['ID', 'Marka', 'Model', 'Miasto', 'Wojewodztwo','Moc', 'Poj. sil', 'Cena', 'Waluta','Kraj poch.',
+                 'Czy zabytek', 'Czy zarej. w Polsce', 'Czy bezwypadkowy', 'Czy Anglik','Serwisowany w ASO',
                 'Filtr DPF', 'Generacja', 'Rok prod.', 'Pierwsza rejestracja','Przebieg', 'Oferta od', 'Czy leasing',
                 'Rodzaj paliwa', 'Emisja CO2', 'Typ', 'Kolor', 'Stan',
-                'Czy pierwsz. właśc', 'Napęd', 'Skrzynia biegów', 'Data dodania']
+                'Czy pierwsz. właśc', 'Napęd', 'Skrzynia biegów', 'Data dodania', 'Link']
         )
     global ITERATOR
     ITERATOR+=1
+    print(tmp_data_frame.to_string())
     if ITERATOR == 1:
         tmp_data_frame.to_csv(f'cars/{brand}.csv', index=False)
     else:
@@ -355,10 +365,7 @@ def get_link_from_page(cars_dict):
                 for link, location in cars_link_dict.items():
                     # CALL A FUNCTION FOR EACH AUCTION TO SCRAP NEEDED DATA FROM THERE
                     time.sleep(0.25)
-                    if link == tmp_url:
-                        continue
-                    else:
-                        scrap_data_for_offer(brand, model, link, location)
+                    scrap_data_for_offer(brand, model, link, location)
     global ITERATOR
     ITERATOR = 0
 
