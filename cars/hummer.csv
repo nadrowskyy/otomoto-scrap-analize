@@ -1,0 +1,22 @@
+ID,Marka,Model,Miasto,Wojewodztwo,Moc,Poj. sil,Cena,Kraj poch.,Czy zabytek,Czy zarej. w Polsce,Czy bezwypadkowy,Czy Anglik,Serwisowany w ASO,Filtr DPF,Generacja,Rok prod.,Pierwsza rejestracja,Przebieg,Oferta od,Czy leasing,Rodzaj paliwa,Emisja CO2,Typ,Kolor,Stan,Czy pierwsz. właśc,Napęd,Skrzynia biegów,Data dodania
+6076655741,hummer,h1,Białystok,Podlaskie,150,6217,290000,,True,False,True,,,,,1989,,40000,Osoby prywatnej,,Diesel,,SUV,Czarny,Używane,,4x4 (dołączany ręcznie),Automatyczna,2021-04-07 12:40:00
+6083247162,hummer,h1,Toruń,Kujawsko-pomorskie,109,6217,115000,Stany Zjednoczone,True,False,,,,,,1986,,76000,Osoby prywatnej,,Diesel,,SUV,Zielony,Używane,,4x4 (stały),Automatyczna,2021-04-04 10:38:00
+6076138546,hummer,h1,Karnin,Lubuskie,150,6500,135500,Polska,False,,,,,,,2000,,68044,Osoby prywatnej,,Diesel,,SUV,Zielony,Używane,,,Automatyczna,2021-04-04 09:17:00
+6082685514,hummer,h2,Warszawa,Mazowieckie,329,5967,85000,,False,False,,,,,,2006,,215900,Osoby prywatnej,,Benzyna,,SUV,Niebieski,Używane,,4x4 (stały),Automatyczna,2021-03-28 16:48:00
+6081336237,hummer,h2,Grzmiąca,Zachodniopomorskie,325,5967,82000,Stany Zjednoczone,False,False,,,,,,2005,,195000,Osoby prywatnej,,Benzyna,,SUV,Szary,Używane,,4x4 (dołączany automatycznie),Automatyczna,2021-04-07 09:06:00
+6082988155,hummer,h2,Bydgoszcz,Kujawsko-pomorskie,325,5967,109999,,False,False,True,,True,,,2007,,203000,Osoby prywatnej,,Benzyna,,SUV,Czarny,Używane,,4x4 (stały),Automatyczna,2021-04-05 16:16:00
+6082559289,hummer,h2,Suków,Świętokrzyskie,325,5967,112000,,False,False,True,,,,,2003,2003-01-01 00:00:00,189500,Osoby prywatnej,,Benzyna+LPG,,SUV,Biały,Używane,,4x4 (stały),Automatyczna,2021-04-03 21:49:00
+6082181946,hummer,h2,Lublin,Lubelskie,329,5967,98000,,False,False,True,,,,,2003,2020-11-27 00:00:00,315000,Osoby prywatnej,,Benzyna,,SUV,Biały,Używane,True,4x4 (dołączany automatycznie),Automatyczna,2021-04-03 16:27:00
+6070153860,hummer,h2,Lublin,Lubelskie,325,5967,129000,,False,,True,,,,,2005,,135000,Osoby prywatnej,,Benzyna,,SUV,Biały,Używane,,,Automatyczna,2021-03-31 17:58:00
+6082353289,hummer,h2,Ruda Śląska,Śląskie,400,6000,135000,Stany Zjednoczone,False,,True,,,,,2003,,148000,Firmy,,Benzyna,,SUV,Czarny,Używane,True,,Automatyczna,2021-03-31 15:45:00
+6083708291,hummer,h2,Węgorzewo,Warmińsko-mazurskie,325,5967,76000,,False,False,,,,,,2006,2007-04-16 00:00:00,162000,Osoby prywatnej,,Benzyna+LPG,,SUV,Szary,Używane,,4x4 (stały),Automatyczna,2021-03-27 17:20:00
+6076149971,hummer,h2,Świdnica,Dolnośląskie,325,5967,169000,Stany Zjednoczone,False,False,,,,,,2004,,90000,Firmy,,Benzyna+LPG,,SUV,Czerwony,Używane,True,4x4 (dołączany automatycznie),Automatyczna,2021-03-19 13:10:00
+6082999644,hummer,h3,Krynica-Zdrój,Małopolskie,245,3653,16000,Stany Zjednoczone,False,False,,,,,,2008,2008-02-11 00:00:00,167000,Osoby prywatnej,,Benzyna+LPG,346,SUV,Czarny,Używane,,4x4 (stały),Automatyczna,2021-04-07 13:55:00
+6083991208,hummer,h3,Granowo,Wielkopolskie,245,3653,62900,Stany Zjednoczone,False,False,True,,,,,2007,2007-01-01 00:00:00,151000,Osoby prywatnej,,Benzyna+LPG,,SUV,Czarny,Używane,,4x4 (stały),Automatyczna,2021-04-06 18:04:00
+6083677449,hummer,h3,Rybnik,Śląskie,220,3500,53000,,False,False,,,,,,2007,,138000,Firmy,,Benzyna,,SUV,Niebieski,Używane,True,4x4 (stały),Automatyczna,2021-04-05 22:42:00
+6083323885,hummer,h3,Kraków,Małopolskie,220,3500,64500,Stany Zjednoczone,False,False,True,,,,,2005,2005-09-15 00:00:00,169000,Osoby prywatnej,,Benzyna+LPG,,SUV,Biały,Używane,,4x4 (dołączany automatycznie),Automatyczna,2021-04-05 21:47:00
+6083585824,hummer,h3,Szamocin,Wielkopolskie,220,3500,41900,Francja,False,,,,,,,2007,,119313,Firmy,,Benzyna,,SUV,Srebrny,Używane,,4x4 (dołączany automatycznie),Automatyczna,2021-04-05 19:20:00
+6082657675,hummer,h3,Kraków,Małopolskie,245,3653,57900,Stany Zjednoczone,False,False,,,True,,,2008,,88000,Firmy,,Benzyna+LPG,346,SUV,Złoty,Używane,,4x4 (stały),Automatyczna,2021-04-05 18:45:00
+6083945371,hummer,h3,Siedlce,Mazowieckie,305,5328,75000,,False,False,,,,,,2008,,126300,Osoby prywatnej,,Benzyna+LPG,344,SUV,Czarny,Używane,,4x4 (stały),Automatyczna,2021-04-05 11:02:00
+6069476180,hummer,h3,Koszalin,Zachodniopomorskie,223,3460,59900,,False,False,,,,,,2007,,164000,Firmy,,Benzyna+LPG,,SUV,Inny kolor,Używane,,4x4 (dołączany automatycznie),Manualna,2021-03-29 15:00:00
+6081204881,hummer,h3,Zgierz,Łódzkie,220,3500,79900,,False,,,,,,,2006,,140000,Osoby prywatnej,,Benzyna+LPG,,SUV,Zielony,Używane,,,Automatyczna,2021-03-25 18:46:00

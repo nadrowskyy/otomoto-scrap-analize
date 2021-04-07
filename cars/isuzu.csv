@@ -1,0 +1,76 @@
+ID,Marka,Model,Miasto,Wojewodztwo,Moc,Poj. sil,Cena,Kraj poch.,Czy zabytek,Czy zarej. w Polsce,Czy bezwypadkowy,Czy Anglik,Serwisowany w ASO,Filtr DPF,Generacja,Rok prod.,Pierwsza rejestracja,Przebieg,Oferta od,Czy leasing,Rodzaj paliwa,Emisja CO2,Typ,Kolor,Stan,Czy pierwsz. właśc,Napęd,Skrzynia biegów,Data dodania
+6076974278,isuzu,d-max,Wrocław,Dolnośląskie,163,1898,167280,,False,,True,,,,,2020,,900,Firmy,,Diesel,,SUV,Szary,Nowe,,4x4 (dołączany ręcznie),Automatyczna,2021-03-30 11:16:00
+6082381850,isuzu,d-max,Marki,Mazowieckie,163,1898,130257,Polska,False,,True,,True,,,2021,,1,Firmy,True,Diesel,,SUV,Biały,Nowe,True,4x4 (dołączany ręcznie),Manualna,2021-04-07 14:37:00
+6084029951,isuzu,d-max,Łomianki,Mazowieckie,163,2499,30627,,False,,,,,,,2013,2013-10-22 00:00:00,120964,Osoby prywatnej,,Diesel,220,SUV,Czarny,Używane,,4x4 (dołączany automatycznie),Automatyczna,2021-04-07 14:34:00
+6079597227,isuzu,d-max,Warszawa,Mazowieckie,163,1900,90900,Polska,False,False,True,,True,,,2017,,69000,Firmy,,Diesel,,Minivan,Biały,Używane,True,4x4 (dołączany ręcznie),Manualna,2021-04-07 12:44:00
+6079597216,isuzu,d-max,Warszawa,Mazowieckie,163,1900,87900,Polska,False,False,True,,True,,,2017,,117000,Firmy,,Diesel,,Minivan,Biały,Używane,True,4x4 (dołączany ręcznie),Manualna,2021-04-07 12:44:00
+6081231546,isuzu,d-max,Czosnów,Mazowieckie,163,1898,139000,,False,,True,,,,,2021,,1,Firmy,,Diesel,190,SUV,Srebrny,Nowe,,4x4 (dołączany automatycznie),Automatyczna,2021-04-07 10:01:00
+6065823230,isuzu,d-max,Czosnów,Mazowieckie,163,1898,137145,,False,,True,,,True,,2021,,5,Firmy,,Diesel,,SUV,Biały,Nowe,,4x4 (dołączany ręcznie),Manualna,2021-04-07 10:00:00
+6053117414,isuzu,d-max,Czosnów,Mazowieckie,163,1898,138000,,False,,True,,,,,2021,,5,Firmy,,Diesel,190,SUV,Niebieski,Nowe,,4x4 (dołączany automatycznie),Automatyczna,2021-04-07 10:00:00
+6034729592,isuzu,d-max,Czosnów,Mazowieckie,163,1898,129000,Polska,False,,True,,,True,,2021,,5,Firmy,,Diesel,205,SUV,Biały,Nowe,,4x4 (dołączany automatycznie),Automatyczna,2021-04-07 10:00:00
+6036937662,isuzu,d-max,Czosnów,Mazowieckie,163,1898,140097,,False,False,,,True,,,2021,,5,Firmy,,Diesel,180,SUV,Biały,Używane,True,4x4 (dołączany automatycznie),Manualna,2021-04-07 10:00:00
+6082034099,isuzu,d-max,Błonie,Mazowieckie,163,1898,143999,Polska,False,False,True,,,,,2020,,4999,Firmy,,Diesel,190,SUV,Biały,Nowe,True,4x4 (dołączany ręcznie),Automatyczna,2021-04-07 09:54:00
+6083430091,isuzu,d-max,Podborze,Mazowieckie,163,2999,39900,Niemcy,False,,True,,True,,,2010,,188000,Firmy,,Diesel,,SUV,Zielony,Używane,True,4x4 (dołączany ręcznie),Automatyczna,2021-04-07 00:46:00
+6083013706,isuzu,d-max,Błonie,Mazowieckie,163,1898,136999,Polska,False,,True,,,,,2020,,17,Firmy,,Diesel,183,SUV,Biały,Nowe,,4x4 (dołączany ręcznie),Manualna,2021-04-06 21:31:00
+6080727226,isuzu,d-max,Błonie,Mazowieckie,163,1898,129999,Polska,False,,True,,,,,2021,,10,Firmy,,Diesel,180,SUV,Biały,Nowe,,4x4 (dołączany automatycznie),Manualna,2021-04-06 20:21:00
+6082196200,isuzu,d-max,Poczesna,Śląskie,163,1898,167403,,False,,True,,,,,2020,,5,Firmy,True,Diesel,,SUV,Niebieski,Nowe,,4x4 (dołączany ręcznie),Automatyczna,2021-04-06 15:57:00
+6083983887,isuzu,d-max,Warszawa,Mazowieckie,163,2499,89000,Polska,False,False,True,,True,True,,2016,2017-06-09 00:00:00,107000,Osoby prywatnej,,Diesel,194,SUV,Srebrny,Używane,True,4x4 (dołączany automatycznie),Manualna,2021-04-06 15:01:00
+6083983568,isuzu,d-max,Marki,Mazowieckie,163,1898,176997,Polska,False,False,True,,True,,,2021,,1,Firmy,True,Diesel,190,SUV,Inny kolor,Nowe,True,4x4 (dołączany automatycznie),Automatyczna,2021-04-06 14:43:00
+6083982452,isuzu,d-max,Kraków,Małopolskie,163,2999,63900,Polska,False,False,,,,,,2011,2012-07-12 00:00:00,58000,Osoby prywatnej,,Diesel,,SUV,Szary,Używane,True,4x4 (dołączany ręcznie),Automatyczna,2021-04-06 14:17:00
+6083695927,isuzu,d-max,Radom,Mazowieckie,163,1898,116850,,False,,True,,,,,2020,,2,Firmy,,Diesel,183,SUV,Biały,Nowe,,4x4 (dołączany ręcznie),Manualna,2021-04-06 11:16:00
+6083336293,isuzu,d-max,Piotrków Trybunalski,Łódzkie,163,1898,129900,Polska,False,False,True,,True,,,2020,,55,Firmy,True,Diesel,,SUV,Biały,Nowe,True,4x4 (dołączany ręcznie),Automatyczna,2021-04-06 11:01:00
+6083417968,isuzu,d-max,Bydgoszcz,Kujawsko-pomorskie,163,2499,77900,Polska,False,False,True,,True,,,2014,2015-02-02 00:00:00,117000,Osoby prywatnej,,Diesel,,SUV,Biały,Używane,True,4x4 (dołączany ręcznie),Manualna,2021-04-06 10:50:00
+6059918099,isuzu,d-max,Czosnów,Mazowieckie,163,1898,105000,,False,,True,,,True,,2021,,5,Firmy,,Diesel,183,SUV,Srebrny,Nowe,,4x4 (dołączany ręcznie),Manualna,2021-04-06 09:39:00
+6081667179,isuzu,d-max,Czosnów,Mazowieckie,163,1898,110000,,False,,True,,,,,2021,,2,Firmy,,Diesel,180,SUV,Biały,Nowe,,4x4 (dołączany ręcznie),Manualna,2021-04-06 09:39:00
+6080245288,isuzu,d-max,Olsztyn,Warmińsko-mazurskie,163,1898,161253,Polska,False,,True,,,,,2020,,1,Firmy,True,Diesel,,SUV,Srebrny,Nowe,,4x4 (dołączany ręcznie),Automatyczna,2021-04-05 16:12:00
+6080238897,isuzu,d-max,Olsztyn,Warmińsko-mazurskie,163,1898,174783,Polska,False,,True,,,,,2020,,1,Firmy,True,Diesel,,SUV,Szary,Nowe,,4x4 (dołączany ręcznie),Automatyczna,2021-04-05 16:01:00
+6083660180,isuzu,d-max,Rumia,Pomorskie,163,2499,52500,,False,False,True,,True,,,2013,2013-12-13 00:00:00,186000,Firmy,,Diesel,220,SUV,Srebrny,Używane,True,4x4 (dołączany ręcznie),Automatyczna,2021-04-05 15:22:00
+6081306204,isuzu,d-max,Błonie,Mazowieckie,163,1898,144999,Polska,False,,True,,,,,2020,,10,Firmy,,Diesel,190,SUV,Inny kolor,Nowe,,4x4 (dołączany ręcznie),Automatyczna,2021-04-05 11:01:00
+6080890248,isuzu,d-max,Błonie,Mazowieckie,163,1898,128999,Polska,False,,True,,,,,2020,,11,Firmy,,Diesel,205,SUV,Biały,Używane,,4x4 (dołączany automatycznie),Automatyczna,2021-04-04 22:40:00
+6080940210,isuzu,d-max,Płock,Mazowieckie,163,1898,145000,,False,,True,,,,,2020,,15,Firmy,,Diesel,180,SUV,Czarny,Nowe,,,Manualna,2021-04-04 16:11:00
+6081523957,isuzu,d-max,Bydgoszcz,Kujawsko-pomorskie,163,1898,172900,,False,,True,,,,,2020,,2,Firmy,,Diesel,,SUV,Czarny,Nowe,,4x4 (dołączany ręcznie),Automatyczna,2021-04-04 13:41:00
+6081523543,isuzu,d-max,Bydgoszcz,Kujawsko-pomorskie,163,1898,169900,,False,,True,,,,,2020,,2000,Firmy,,Diesel,,SUV,Szary,Nowe,True,4x4 (dołączany ręcznie),Automatyczna,2021-04-04 13:21:00
+6083938730,isuzu,d-max,Błonie,Mazowieckie,163,2499,68999,Polska,False,False,,,True,,,2015,2016-03-03 00:00:00,125000,Firmy,,Diesel,220,SUV,Złoty,Używane,True,4x4 (dołączany ręcznie),Automatyczna,2021-04-04 11:29:00
+6078809865,isuzu,d-max,Marki,Mazowieckie,163,1898,130257,,False,,True,,True,,,2020,,1,Firmy,True,Diesel,,SUV,Biały,Nowe,True,4x4 (dołączany ręcznie),Manualna,2021-04-04 09:10:00
+6082258615,isuzu,d-max,Błonie,Mazowieckie,163,1898,131999,Polska,False,,True,,,,,2021,,1,Firmy,,Diesel,180,SUV,Biały,Nowe,,4x4 (dołączany ręcznie),Manualna,2021-04-03 22:02:00
+6080411815,isuzu,d-max,Międzybrodzie Bialskie,Śląskie,163,2499,75030,Niemcy,False,,,,,,,2014,,69000,Osoby prywatnej,,Diesel,220,SUV,Srebrny,Używane,,4x4 (dołączany automatycznie),Automatyczna,2021-04-03 20:14:00
+6080408729,isuzu,d-max,Błonie,Mazowieckie,163,1898,131999,Polska,False,,True,,,,,2020,,10,Firmy,,Diesel,183,SUV,Biały,Nowe,,4x4 (dołączany automatycznie),Manualna,2021-04-03 16:51:00
+6079638954,isuzu,d-max,Błonie,Mazowieckie,163,1898,146999,Polska,False,False,True,,True,,,2020,,10,Firmy,,Diesel,205,SUV,Niebieski,Nowe,True,4x4 (dołączany ręcznie),Automatyczna,2021-04-03 16:35:00
+6081251871,isuzu,d-max,Deszczno,Lubuskie,163,1898,121000,Polska,False,False,True,,True,,,2018,2019-02-04 00:00:00,15164,Firmy,,Diesel,205,SUV,Niebieski,Używane,True,4x4 (dołączany ręcznie),Automatyczna,2021-04-03 16:16:00
+6083311516,isuzu,d-max,Zielona Góra,Lubuskie,163,2499,77900,Polska,False,False,,,,,,2014,2014-12-04 00:00:00,105000,Osoby prywatnej,,Diesel,194,SUV,Inny kolor,Używane,True,4x4 (dołączany automatycznie),Manualna,2021-04-03 16:02:00
+6081859578,isuzu,d-max,Mogilany,Małopolskie,163,1898,166999,,False,,True,,,True,,2020,,2,Firmy,,Diesel,195,SUV,Niebieski,Nowe,,4x4 (dołączany automatycznie),Automatyczna,2021-04-03 14:41:00
+6079502337,isuzu,d-max,Warszawa,Mazowieckie,163,1898,160000,Polska,False,,True,,,,,2020,,10,Firmy,True,Diesel,190,SUV,Szary,Nowe,,4x4 (dołączany automatycznie),Automatyczna,2021-04-03 12:32:00
+6079506205,isuzu,d-max,Warszawa,Mazowieckie,163,1898,195385,Polska,False,,True,,,,,2020,,10,Firmy,True,Diesel,190,SUV,Szary,Nowe,,4x4 (dołączany automatycznie),Automatyczna,2021-04-03 12:32:00
+6079837991,isuzu,d-max,Warszawa,Mazowieckie,163,1898,148100,Polska,False,,True,,,,,2020,,10,Firmy,True,Diesel,190,SUV,Szary,Nowe,,4x4 (dołączany automatycznie),Automatyczna,2021-04-03 12:32:00
+6079919569,isuzu,d-max,Warszawa,Mazowieckie,163,1898,155540,Polska,False,,True,,,,,2020,,10,Firmy,True,Diesel,190,SUV,Szary,Nowe,,4x4 (dołączany automatycznie),Automatyczna,2021-04-03 12:32:00
+6080309177,isuzu,d-max,Warszawa,Mazowieckie,163,1898,157700,Polska,False,,True,,,,,2020,,10,Firmy,True,Diesel,,SUV,Szary,Nowe,,4x4 (dołączany ręcznie),Automatyczna,2021-04-03 12:32:00
+6080283136,isuzu,d-max,Przykona,Wielkopolskie,163,2499,27900,,False,,,,,,,2015,,102000,Firmy,,Diesel,,SUV,Szary,Używane,,,Manualna,2021-04-03 11:26:00
+6079652589,isuzu,d-max,Słupsk,Pomorskie,163,1898,159990,Polska,False,False,True,,True,True,,2020,2020-11-12 00:00:00,2700,Firmy,,Diesel,190,SUV,Szary,Nowe,True,4x4 (dołączany automatycznie),Automatyczna,2021-04-03 09:46:00
+6080324039,isuzu,d-max,Marki,Mazowieckie,163,1898,159777,,False,,True,,,,,2020,,1,Firmy,True,Diesel,205,SUV,Czarny,Używane,,4x4 (dołączany automatycznie),Automatyczna,2021-04-02 22:11:00
+6083918432,isuzu,d-max,Kielce,Świętokrzyskie,163,1898,71217,Francja,False,,,,,,,2017,,84000,Osoby prywatnej,,Diesel,205,SUV,Inny kolor,Używane,,4x4 (dołączany ręcznie),Automatyczna,2021-04-02 17:59:00
+6082579895,isuzu,d-max,Dąbrowa Górnicza,Śląskie,163,2999,40000,,False,False,,,,,,2011,,230000,Osoby prywatnej,,Diesel,237,SUV,Biały,Używane,,4x4 (dołączany ręcznie),Automatyczna,2021-04-02 17:39:00
+6082913991,isuzu,d-max,Radom,Mazowieckie,163,1898,98990,Polska,False,False,True,,True,,,2018,,69592,Firmy,,Diesel,205,SUV,Biały,Używane,True,4x4 (dołączany automatycznie),Automatyczna,2021-04-02 16:22:00
+6081526129,isuzu,d-max,Błonie,Mazowieckie,163,1898,109999,Polska,False,,True,,,,,2021,,9,Firmy,,Diesel,183,SUV,Biały,Nowe,,4x4 (dołączany ręcznie),Manualna,2021-04-02 14:42:00
+6077690393,isuzu,d-max,Mogilany,Małopolskie,163,1898,176505,,False,,True,,,True,,2020,,1,Firmy,,Diesel,,SUV,Biały,Nowe,,4x4 (dołączany ręcznie),Automatyczna,2021-04-02 13:52:00
+6081454670,isuzu,d-max,Warszawa,Mazowieckie,163,1898,116950,Polska,False,,True,,,,,2020,,10,Firmy,True,Diesel,180,SUV,Biały,Nowe,,4x4 (dołączany automatycznie),Manualna,2021-04-02 11:15:00
+6079630716,isuzu,d-max,Wejherowo,Pomorskie,163,1898,178227,,False,,,,,True,,2020,,2000,Firmy,,Diesel,,SUV,Niebieski,Używane,,4x4 (dołączany ręcznie),Automatyczna,2021-04-02 08:20:00
+6083676353,isuzu,d-max,Leszno,Wielkopolskie,163,2999,35900,,False,,True,,True,,,2010,,249500,Osoby prywatnej,,Diesel,222,SUV,Szary,Używane,True,4x4 (dołączany ręcznie),Manualna,2021-04-01 22:06:00
+6083515098,isuzu,d-max,Słupca,Wielkopolskie,163,1898,73900,,False,,,,,,,2020,,25000,Osoby prywatnej,,Diesel,,SUV,Biały,Używane,,4x4 (dołączany ręcznie),Manualna,2021-04-01 21:37:00
+6083493147,isuzu,d-max,Piotrków Trybunalski,Łódzkie,163,1898,105950,Polska,False,False,True,,,,,2020,,5,Firmy,True,Diesel,,SUV,Biały,Nowe,True,4x4 (dołączany ręcznie),Manualna,2021-04-01 15:21:00
+6083493122,isuzu,d-max,Piotrków Trybunalski,Łódzkie,163,1898,143900,Polska,False,False,True,,,,,2020,,5,Firmy,True,Diesel,,SUV,Biały,Nowe,True,4x4 (dołączany ręcznie),Manualna,2021-04-01 15:20:00
+6083190730,isuzu,d-max,Radom,Mazowieckie,163,2499,63900,,False,False,True,,True,True,,2014,2014-05-19 00:00:00,296222,Osoby prywatnej,,Diesel,194,SUV,Srebrny,Używane,,4x4 (dołączany automatycznie),Manualna,2021-04-01 12:48:00
+6081793533,isuzu,d-max,Błonie,Mazowieckie,163,1898,148999,Polska,False,,True,,,,,2020,,10,Firmy,,Diesel,190,SUV,Bordowy,Nowe,,4x4 (dołączany automatycznie),Automatyczna,2021-03-31 21:24:00
+6082399331,isuzu,d-max,Krośniewice,Łódzkie,163,1898,14300,,False,,,,,,,2018,2018-06-11 00:00:00,33000,Osoby prywatnej,,Diesel,205,SUV,Czarny,Używane,,4x4 (dołączany automatycznie),Automatyczna,2021-03-31 18:31:00
+6081259329,isuzu,d-max,Świlcza,Podkarpackie,163,1898,172077,,False,,,,,,,2020,2020-12-16 00:00:00,15,Firmy,,Diesel,190,SUV,Czerwony,Używane,,4x4 (dołączany automatycznie),Automatyczna,2021-03-31 13:38:00
+6081454469,isuzu,d-max,Błonie,Mazowieckie,163,1898,112998,Polska,False,,True,,,,,2021,,1,Firmy,,Diesel,183,SUV,Czerwony,Nowe,,4x4 (dołączany ręcznie),Manualna,2021-03-31 11:32:00
+6080309679,isuzu,d-max,Błonie,Mazowieckie,163,1898,116999,Polska,False,,True,,,,,2020,,12,Firmy,,Diesel,,SUV,Biały,Nowe,,4x4 (dołączany ręcznie),Manualna,2021-03-30 17:31:00
+6083130583,isuzu,d-max,Błonie,Mazowieckie,163,1898,153999,Polska,False,,True,,,,,2020,,16,Firmy,,Diesel,190,SUV,Niebieski,Nowe,,4x4 (dołączany ręcznie),Automatyczna,2021-03-30 12:10:00
+6079524307,isuzu,d-max,Radom,Mazowieckie,163,1898,105850,Polska,False,,True,,,,,2020,,1,Firmy,True,Diesel,180,SUV,Biały,Nowe,True,4x4 (dołączany automatycznie),Manualna,2021-03-30 11:11:00
+6079513462,isuzu,d-max,Radom,Mazowieckie,163,1898,142100,Polska,False,,True,,,,,2020,,12,Firmy,,Diesel,,SUV,Szary,Nowe,,4x4 (dołączany ręcznie),Automatyczna,2021-03-29 15:01:00
+6075890227,isuzu,d-max,Radom,Mazowieckie,163,1898,89777,Polska,False,False,True,,True,,,2018,2019-01-09 00:00:00,13300,Firmy,True,Diesel,,SUV,Biały,Używane,True,4x4 (dołączany ręcznie),Manualna,2021-03-29 15:01:00
+6080282300,isuzu,d-max,Błonie,Mazowieckie,163,1898,105999,Polska,False,,True,,,,,2020,,10,Firmy,,Diesel,183,SUV,Biały,Nowe,,4x4 (dołączany ręcznie),Manualna,2021-03-28 22:42:00
+6081980003,isuzu,d-max,Jaworznia,Świętokrzyskie,163,1898,35900,,False,,,,,,,2019,,28000,Firmy,,Diesel,,SUV,Inny kolor,Używane,,4x4 (dołączany ręcznie),Manualna,2021-03-28 19:07:00
+6080775719,isuzu,d-max,Błonie,Mazowieckie,163,1898,189999,Polska,False,,True,,,,,2020,,10,Firmy,,Diesel,190,SUV,Biały,Używane,,4x4 (dołączany automatycznie),Automatyczna,2021-03-28 18:22:00
+6079486287,isuzu,d-max,Błonie,Mazowieckie,163,1898,98999,Francja,False,False,True,,True,,,2018,,41800,Firmy,,Diesel,205,SUV,Niebieski,Używane,True,4x4 (dołączany ręcznie),Automatyczna,2021-03-28 15:43:00
+6083883454,isuzu,other,Tarnów,Małopolskie,215,3494,59000,,False,False,,,,,,2001,,272500,Osoby prywatnej,,Benzyna,,SUV,Bordowy,Używane,,4x4 (dołączany automatycznie),Automatyczna,2021-04-01 16:21:00
+6083109725,isuzu,other,Tarnów,Małopolskie,215,3494,52500,,False,,,,,,,1999,,229800,Osoby prywatnej,,Benzyna,,SUV,Biały,Używane,,4x4 (dołączany automatycznie),Automatyczna,2021-03-29 20:15:00

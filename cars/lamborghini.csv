@@ -1,0 +1,23 @@
+ID,Marka,Model,Miasto,Wojewodztwo,Moc,Poj. sil,Cena,Kraj poch.,Czy zabytek,Czy zarej. w Polsce,Czy bezwypadkowy,Czy Anglik,Serwisowany w ASO,Filtr DPF,Generacja,Rok prod.,Pierwsza rejestracja,Przebieg,Oferta od,Czy leasing,Rodzaj paliwa,Emisja CO2,Typ,Kolor,Stan,Czy pierwsz. właśc,Napęd,Skrzynia biegów,Data dodania
+6053669624,lamborghini,aventador,Straszyn,Pomorskie,750,6498,2300000,Polska,False,False,True,,True,,,2016,,5500,Firmy,,Benzyna,,Coupe,Czarny,Używane,True,4x4 (stały),Automatyczna,2021-04-03 07:30:00
+6081296698,lamborghini,aventador,Kraków,Małopolskie,700,6498,189000,,False,,,,,,,2013,,38000,Osoby prywatnej,,Benzyna,370,Coupe,Biały,Używane,,4x4 (stały),Automatyczna,2021-03-31 15:44:00
+6079183428,lamborghini,aventador,Warszawa,Mazowieckie,700,6498,1490000,Polska,False,False,True,,True,,,2014,,37500,Firmy,True,Benzyna,370,Kabriolet,Czarny,Używane,True,4x4 (stały),Automatyczna,2021-03-31 14:23:00
+6077813219,lamborghini,aventador,Bielsko-Biała,Śląskie,,,360000,,False,,,,,,,2016,,19999,Osoby prywatnej,,Benzyna,,Kabriolet,Czarny,Używane,,,,2021-03-30 13:26:00
+6080385763,lamborghini,diablo,Warszawa,Mazowieckie,492,5707,1049900,,False,False,,,,,,1993,,32164,Firmy,,Benzyna,,Coupe,Czerwony,Używane,,Na tylne koła,Manualna,2021-04-02 17:12:00
+6082273003,lamborghini,gallardo,Olsztynek,Warmińsko-mazurskie,500,4970,486000,,False,,,,,,,2007,,92300,Firmy,,Benzyna,,Coupe,Żółty,Używane,,,Automatyczna,2021-04-04 12:05:00
+6078747215,lamborghini,gallardo,Gdańsk,Pomorskie,500,4961,449520,,False,False,True,,True,,,2006,,25000,Firmy,,Benzyna,450,Coupe,Niebieski,Używane,True,4x4 (stały),Automatyczna,2021-04-01 16:03:00
+6080235763,lamborghini,huracan,Warszawa,Mazowieckie,640,5204,1349000,Polska,False,False,True,,True,,,2018,2018-09-14 00:00:00,6500,Firmy,,Benzyna,,Coupe,Zielony,Używane,True,4x4 (stały),Automatyczna,2021-04-07 13:22:00
+6084008697,lamborghini,huracan,Koszalin,Zachodniopomorskie,610,5204,499000,,False,,,,,,,2017,,9000,Osoby prywatnej,,Benzyna,290,Coupe,Czarny,Używane,,4x4 (stały),Automatyczna,2021-04-07 09:46:00
+6083429876,lamborghini,huracan,Piotrków Trybunalski,Łódzkie,640,5204,1549900,Niemcy,False,,True,,,,,2019,,5415,Firmy,,Benzyna,,Coupe,Szary,Używane,True,4x4 (stały),Automatyczna,2021-04-06 23:48:00
+6082228164,lamborghini,huracan,Warszawa,Mazowieckie,640,5204,1350000,Polska,False,,True,,,,,2018,2018-06-29 00:00:00,2000,Firmy,,Benzyna,,Coupe,Zielony,Używane,True,4x4 (stały),Automatyczna,2021-04-06 19:02:00
+6083745550,lamborghini,huracan,Katowice,Śląskie,640,5204,1353000,Polska,False,False,True,,True,,,2018,2018-10-10 00:00:00,13600,Firmy,True,Benzyna,,Coupe,Inny kolor,Używane,True,4x4 (dołączany automatycznie),Automatyczna,2021-04-03 20:29:00
+6081822469,lamborghini,huracan,Warszawa,Mazowieckie,640,5204,1561000,Polska,False,,,,,,,2020,2021-01-19 00:00:00,589,Firmy,True,Benzyna,,Coupe,Żółty,Używane,,4x4 (stały),Automatyczna,2021-04-02 13:11:00
+6079755537,lamborghini,huracan,Warszawa,Mazowieckie,610,5204,890000,,False,,,,,,,2016,,12144,Firmy,,Benzyna,,Coupe,Biały,Używane,,,Automatyczna,2021-04-02 12:23:00
+6080276317,lamborghini,huracan,Warszawa,Mazowieckie,610,5204,840000,Polska,False,False,True,,True,,,2014,,50700,Firmy,,Benzyna,,Coupe,Biały,Używane,,4x4 (stały),Automatyczna,2021-03-30 10:45:00
+6046801632,lamborghini,huracan,Kraków,Małopolskie,610,5204,140000,,False,,True,,True,,,2016,2017-01-10 00:00:00,21000,Osoby prywatnej,,Benzyna,290,Coupe,Inny kolor,Używane,,4x4 (stały),Automatyczna,2021-03-29 10:46:00
+6083143997,lamborghini,murcielago,Łódź,Łódzkie,640,6496,550000,,False,,,,,,,2006,,60000,Firmy,,Benzyna,495,Kabriolet,Inny kolor,Używane,,4x4 (stały),Automatyczna,2021-03-30 20:22:00
+6082636846,lamborghini,urus,Warszawa,Mazowieckie,650,3996,1490000,Polska,False,False,True,,True,,,2018,2019-01-10 00:00:00,15815,Firmy,,Benzyna,,SUV,Szary,Używane,True,4x4 (stały),Automatyczna,2021-04-07 11:22:00
+6083203513,lamborghini,urus,Warszawa,Mazowieckie,641,4000,750000,,False,,,,,,,2019,,22300,Firmy,,Benzyna,,SUV,Szary,Używane,,4x4 (dołączany automatycznie),Automatyczna,2021-04-05 17:10:00
+6082230875,lamborghini,urus,Kraków,Małopolskie,650,6000,215000,,False,,True,,True,,,2019,,39000,Osoby prywatnej,,Benzyna,,SUV,Inny kolor,Używane,True,4x4 (stały),Automatyczna,2021-04-04 07:30:00
+6081829623,lamborghini,urus,Warszawa,Mazowieckie,650,3996,1650000,Polska,False,False,True,,True,,,2020,2020-03-09 00:00:00,16000,Firmy,,Benzyna,,SUV,Żółty,Używane,True,4x4 (dołączany automatycznie),Automatyczna,2021-04-02 15:50:00
+6081816569,lamborghini,urus,Warszawa,Mazowieckie,650,3996,1650000,Polska,False,False,True,,True,,,2020,2020-03-10 00:00:00,8000,Firmy,,Benzyna,,SUV,Szary,Używane,True,4x4 (stały),Automatyczna,2021-04-02 11:14:00

@@ -1,0 +1,58 @@
+ID,Marka,Model,Miasto,Wojewodztwo,Moc,Poj. sil,Cena,Kraj poch.,Czy zabytek,Czy zarej. w Polsce,Czy bezwypadkowy,Czy Anglik,Serwisowany w ASO,Filtr DPF,Generacja,Rok prod.,Pierwsza rejestracja,Przebieg,Oferta od,Czy leasing,Rodzaj paliwa,Emisja CO2,Typ,Kolor,Stan,Czy pierwsz. właśc,Napęd,Skrzynia biegów,Data dodania
+6084028963,lincoln,aviator,Poznań,Wielkopolskie,306,4600,26900,,False,,,,,,,2003,2003-04-07 00:00:00,345000,Osoby prywatnej,,Benzyna,,SUV,Złoty,Używane,,,Automatyczna,2021-04-07 14:10:00
+6083888746,lincoln,aviator,Warszawa,Mazowieckie,406,2967,329900,,False,,True,,,,,2019,2021-02-09 00:00:00,2524,Firmy,True,Benzyna,,Kombi,Czarny,Używane,True,4x4 (dołączany automatycznie),Automatyczna,2021-04-07 18:20:00
+6083932562,lincoln,continental,Warszawa,Mazowieckie,220,7500,48000,,False,False,,,,,,1976,,52000,Osoby prywatnej,,Benzyna,,Coupe,Złoty,Używane,,Na tylne koła,Automatyczna,2021-04-03 18:29:00
+6083656581,lincoln,continental,Jasło,Podkarpackie,211,7536,64000,Stany Zjednoczone,True,False,True,,,,,1976,,60000,Osoby prywatnej,,Benzyna,,Coupe,Inny kolor,Używane,,Na tylne koła,Automatyczna,2021-04-07 14:13:00
+6084019474,lincoln,continental,Poznań,Wielkopolskie,158,3797,5950,,False,,,,,,,1991,,110000,Firmy,,Benzyna,,Sedan,Biały,Używane,,,Automatyczna,2021-04-07 10:55:00
+6057324584,lincoln,continental,Włoszczowa,Świętokrzyskie,222,7539,95000,Stany Zjednoczone,False,False,True,,,,,1972,,31000,Firmy,,Benzyna,,Sedan,Biały,Używane,,,Automatyczna,2021-04-05 12:30:00
+6083837099,lincoln,continental,Gliwice,Śląskie,,,24500,,False,,,,,,,2000,,235000,Osoby prywatnej,,Benzyna,,Sedan,Złoty,Używane,,,,2021-03-31 13:53:00
+6081791489,lincoln,continental,Żywiec,Śląskie,380,7500,54000,,False,,,,,,,1969,,77000,Osoby prywatnej,,Benzyna,,Coupe,Bordowy,Używane,,,Automatyczna,2021-03-29 08:17:00
+6079283129,lincoln,mark,Toruń,Kujawsko-pomorskie,365,7500,55000,,False,,,,,,,1969,,94000,Osoby prywatnej,,Benzyna,,Coupe,Inny kolor,Używane,,Na tylne koła,Automatyczna,2021-04-07 19:37:00
+6069034379,lincoln,mark,Rybnik,Śląskie,227,4942,29000,Niemcy,False,,,,,,,1991,,52200,Firmy,,Benzyna,,Coupe,Czarny,Używane,,Na tylne koła,Automatyczna,2021-04-05 16:45:00
+6050765731,lincoln,mark,Schodnia,Opolskie,370,7536,79990,,False,,,,,,,1969,,94930,Firmy,,Benzyna,,Sedan,Beżowy,Używane,,Na tylne koła,Automatyczna,2021-03-30 19:44:00
+6083890029,lincoln,mark-lt,Oświęcim,Małopolskie,304,5409,39000,Stany Zjednoczone,False,False,True,,,,,2006,2006-01-01 00:00:00,279000,Firmy,,Benzyna+LPG,,SUV,Bordowy,Używane,,4x4 (dołączany ręcznie),Automatyczna,2021-04-01 19:21:00
+6074918669,lincoln,mkx,Pyskowice,Śląskie,309,3700,54000,Inny,False,False,,,,,,2013,,270000,Firmy,,Benzyna,,SUV,Biały,Używane,,4x4 (stały),Automatyczna,2021-04-07 12:27:00
+6083933645,lincoln,mkx,Skała,Małopolskie,265,3496,46000,Stany Zjednoczone,False,False,,,,,,2007,2008-01-01 00:00:00,271142,Osoby prywatnej,,Benzyna,,SUV,Inny kolor,Używane,,4x4 (stały),Automatyczna,2021-04-03 19:38:00
+6083928518,lincoln,mkx,Zawiercie,Śląskie,245,2000,135000,Polska,False,False,,,,,,2019,2019-01-01 00:00:00,12000,Osoby prywatnej,,Benzyna,,SUV,Srebrny,Używane,,4x4 (dołączany automatycznie),Automatyczna,2021-04-03 14:17:00
+6068230496,lincoln,mkx,Rzeszów,Podkarpackie,243,2000,102000,,False,False,,,,,,2017,,28000,Firmy,,Benzyna,,SUV,Czarny,Używane,True,,Automatyczna,2021-04-03 10:09:00
+6082067427,lincoln,mkx,Kraków,Małopolskie,241,1999,68000,,False,False,,,,,,2015,2015-01-01 00:00:00,129000,Osoby prywatnej,,Benzyna,,SUV,Czerwony,Używane,,Na przednie koła,Automatyczna,2021-04-01 21:27:00
+6078050067,lincoln,mkz,Chojnice,Pomorskie,188,1999,79900,Stany Zjednoczone,False,False,,,,,,2017,2017-01-01 00:00:00,82500,Osoby prywatnej,,Hybryda,,Sedan,Czarny,Używane,,Na przednie koła,Automatyczna,2021-04-03 16:29:00
+6080205668,lincoln,mkz,Warszawa,Mazowieckie,355,3000,84900,Stany Zjednoczone,False,False,,,,,,2017,2017-01-01 00:00:00,28030,Firmy,,Benzyna,,Sedan,Szary,Używane,,Na tylne koła,Automatyczna,2021-04-03 10:17:00
+6083455497,lincoln,mkz,Bydgoszcz,Kujawsko-pomorskie,280,2300,77000,Kanada,False,,,,,,,2016,2016-08-01 00:00:00,38000,Osoby prywatnej,,Benzyna,,SUV,Czarny,Używane,,4x4 (dołączany automatycznie),Automatyczna,2021-04-02 17:06:00
+6082687150,lincoln,navigator,Poznań,Wielkopolskie,300,5408,75000,,False,False,,,,,,2011,,237000,Firmy,,Benzyna+LPG,,SUV,Czarny,Używane,,4x4 (dołączany automatycznie),Automatyczna,2021-04-07 20:58:00
+6084039937,lincoln,navigator,Olsztyn,Warmińsko-mazurskie,380,3496,99000,Kanada,False,,,,,,,2017,,61500,Osoby prywatnej,,Benzyna,,SUV,Biały,Używane,,4x4 (stały),Automatyczna,2021-04-07 19:32:00
+6083715575,lincoln,navigator,Biała Podlaska,Lubelskie,300,5408,32500,,False,,,,,,,2005,,210872,Osoby prywatnej,,Benzyna+LPG,,SUV,Czarny,Używane,,,Automatyczna,2021-04-06 21:13:00
+6083715177,lincoln,navigator,Zwoleń,Mazowieckie,300,5401,29900,,False,,True,,,,,2000,2000-02-05 00:00:00,162000,Osoby prywatnej,,Benzyna,,SUV,Bordowy,Używane,,4x4 (dołączany ręcznie),Automatyczna,2021-04-06 20:51:00
+6082688458,lincoln,navigator,Marki,Mazowieckie,300,5408,27500,Stany Zjednoczone,False,,,,,,,2008,,184778,Osoby prywatnej,,Benzyna,,SUV,Czarny,Używane,,4x4 (dołączany automatycznie),Automatyczna,2021-04-06 15:13:00
+6083704539,lincoln,navigator,Marki,Mazowieckie,300,5408,22000,Stany Zjednoczone,False,,,,,,,2007,,217510,Osoby prywatnej,,Benzyna,,SUV,Niebieski,Używane,,4x4 (dołączany automatycznie),Automatyczna,2021-04-06 15:12:00
+6081688969,lincoln,navigator,Radzymin,Mazowieckie,300,5408,35500,Stany Zjednoczone,False,,,,,,,2010,,139000,Osoby prywatnej,,Benzyna,,SUV,Czarny,Używane,,4x4 (dołączany automatycznie),Automatyczna,2021-04-06 15:08:00
+6083636566,lincoln,navigator,Sokółka,Podlaskie,230,5401,28000,,False,False,,,,,,1998,1998-01-01 00:00:00,310000,Osoby prywatnej,,Benzyna+LPG,,SUV,Szary,Używane,,4x4 (dołączany ręcznie),Automatyczna,2021-04-04 23:40:00
+6079271324,lincoln,navigator,Jelenia Góra,Dolnośląskie,305,5403,34999,Stany Zjednoczone,False,False,,,,,,2006,,370000,Firmy,,Benzyna,,SUV,Czarny,Używane,,4x4 (dołączany automatycznie),Automatyczna,2021-04-03 13:44:00
+6081768533,lincoln,navigator,Częstochowa,Śląskie,379,3500,210900,Stany Zjednoczone,False,False,,,,,,2017,,18800,Firmy,,Benzyna,,SUV,Biały,Używane,,4x4 (dołączany automatycznie),Automatyczna,2021-04-02 12:04:00
+6076750984,lincoln,navigator,Gliwice,Śląskie,300,5401,42900,,False,False,True,,True,,,2001,,104350,Firmy,,Benzyna,,SUV,Czarny,Używane,True,4x4 (dołączany ręcznie),Automatyczna,2021-04-02 08:23:00
+6081567812,lincoln,navigator,Drzewica,Łódzkie,300,5408,72000,Stany Zjednoczone,False,False,,,,,,2007,,171500,Osoby prywatnej,,Benzyna,,SUV,Biały,Używane,,4x4 (dołączany automatycznie),Automatyczna,2021-03-30 22:34:00
+6083785233,lincoln,navigator,Łaskarzew,Mazowieckie,300,5408,11500,,False,,,,,,,2002,,250000,Osoby prywatnej,,Benzyna,,SUV,Czarny,Używane,,,Automatyczna,2021-03-30 10:20:00
+6076425002,lincoln,navigator,Ostróda,Warmińsko-mazurskie,305,5400,25900,,False,,,,,,,2005,,190000,Osoby prywatnej,,Benzyna,,SUV,Biały,Używane,,,Automatyczna,2021-03-24 12:01:00
+6080314968,lincoln,other,Szczecin,Zachodniopomorskie,290,3778,27900,,False,False,,,,,,2009,,202500,Osoby prywatnej,,Benzyna,,Sedan,Biały,Używane,,4x4 (stały),Automatyczna,2021-04-06 17:19:00
+6081476670,lincoln,other,Stare Bielice,Zachodniopomorskie,275,3726,59900,Stany Zjednoczone,False,False,,,,,,2010,,182000,Firmy,,Benzyna,,Minivan,Czarny,Używane,,,Automatyczna,2021-04-06 08:50:00
+6083664796,lincoln,other,Sokoły,Podlaskie,273,3700,39900,,False,,,,,,,2011,,54000,Osoby prywatnej,,Benzyna,,Sedan,Niebieski,Używane,,Na przednie koła,Automatyczna,2021-04-05 18:34:00
+6080804971,lincoln,other,Gdańsk,Pomorskie,268,3700,69000,Stany Zjednoczone,False,False,,,,,,2010,,199000,Osoby prywatnej,,Benzyna,,SUV,Brązowy,Używane,,Na przednie koła,Automatyczna,2021-04-02 23:06:00
+6074620437,lincoln,other,Olsztyn,Warmińsko-mazurskie,303,3700,73000,,False,,,,,,,2016,,160000,Osoby prywatnej,,Benzyna,,SUV,Czarny,Używane,,4x4 (dołączany automatycznie),Automatyczna,2021-04-01 16:34:00
+6058531290,lincoln,town-car,Wierzbica,Mazowieckie,220,4601,28999,,False,False,,,,,,2005,,130000,Osoby prywatnej,,Benzyna,,Sedan,Złoty,Używane,,Na tylne koła,Automatyczna,2021-04-07 19:49:00
+6078907956,lincoln,town-car,Ośno Lubuskie,Lubuskie,240,4600,42000,Stany Zjednoczone,False,False,True,,,,,2006,2008-11-07 00:00:00,216000,Osoby prywatnej,,Benzyna+LPG,,Sedan,Biały,Używane,,Na tylne koła,Automatyczna,2021-04-07 16:20:00
+6081644308,lincoln,town-car,Jelenia Góra,Dolnośląskie,210,4601,18500,,False,False,True,,,,,1997,2004-09-22 00:00:00,220000,Osoby prywatnej,,Benzyna,,Sedan,Biały,Używane,,Na tylne koła,Automatyczna,2021-04-07 07:19:00
+6082811601,lincoln,town-car,Poznań,Wielkopolskie,200,4601,24900,,False,False,,,,,,1999,,320500,Firmy,,Benzyna+LPG,,Sedan,Czarny,Używane,,Na tylne koła,Automatyczna,2021-04-06 15:16:00
+6083322456,lincoln,town-car,Chodzież,Wielkopolskie,210,4601,12900,Stany Zjednoczone,False,False,,,,,,1996,1996-12-31 00:00:00,567000,Osoby prywatnej,,Benzyna,,Sedan,Biały,Używane,,Na tylne koła,Automatyczna,2021-04-06 10:21:00
+6060963770,lincoln,town-car,Toruń,Kujawsko-pomorskie,240,4600,99000,Stany Zjednoczone,False,False,,,,,,2003,,199000,Osoby prywatnej,,Benzyna,,Sedan,Srebrny,Używane,,,Automatyczna,2021-04-05 18:15:00
+6078693113,lincoln,town-car,Nowy Sącz,Małopolskie,204,7536,39900,,False,,,,,,,1978,,83124,Osoby prywatnej,,Benzyna,,Sedan,Niebieski,Używane,,,Automatyczna,2021-04-04 22:34:00
+6083417271,lincoln,town-car,Łąg-Kolonia,Pomorskie,220,4601,19900,,False,False,,,,,,2001,,251000,Firmy,,Benzyna,,Sedan,Czarny,Używane,,Na tylne koła,Automatyczna,2021-04-04 09:21:00
+6081214971,lincoln,town-car,Drezdenko,Lubuskie,220,4601,28300,,False,,,,,,,2003,,64000,Osoby prywatnej,,Benzyna,,Sedan,Złoty,Używane,,Na tylne koła,Automatyczna,2021-04-03 16:08:00
+6078494158,lincoln,town-car,Morawica,Świętokrzyskie,230,4700,55000,,False,False,,,,,,2000,,200000,Osoby prywatnej,,Benzyna+LPG,,Sedan,Czarny,Używane,,Na tylne koła,Automatyczna,2021-04-03 11:35:00
+6083913145,lincoln,town-car,Łódź,Łódzkie,200,4601,24598,,False,False,,,,,,2001,2001-01-01 00:00:00,299941,Osoby prywatnej,,Benzyna,,Sedan,Biały,Używane,,,Manualna,2021-04-02 16:09:00
+6083211845,lincoln,town-car,Trzebnica,Dolnośląskie,200,4601,17500,,False,,,,,,,2000,,175000,Osoby prywatnej,,Benzyna,,Sedan,Biały,Używane,,Na tylne koła,Automatyczna,2021-04-02 08:54:00
+6083892389,lincoln,town-car,Duszniki-Zdrój,Dolnośląskie,210,4601,39999,Niemcy,False,,True,,,,,1998,,143000,Firmy,,Benzyna,,Sedan,Czarny,Używane,,Na tylne koła,Automatyczna,2021-04-01 20:53:00
+6083873232,lincoln,town-car,Paniówki,Śląskie,210,4601,13990,,False,False,,,,,,1996,1996-06-30 00:00:00,166690,Firmy,,Benzyna,,Sedan,Biały,Używane,,Na tylne koła,Automatyczna,2021-04-01 13:21:00
+6083828141,lincoln,town-car,Szczecin,Zachodniopomorskie,210,4601,33000,,False,False,,,,,,1997,,215000,Osoby prywatnej,,Benzyna,,Sedan,Biały,Używane,,Na tylne koła,Automatyczna,2021-03-31 09:19:00
+6078519190,lincoln,town-car,Białystok,Podlaskie,210,4598,20000,,False,,,,,,,1998,,163000,Osoby prywatnej,,Benzyna,,Sedan,Biały,Używane,,,Automatyczna,2021-03-30 20:19:00
+6081187335,lincoln,town-car,Ozorków,Łódzkie,210,4601,15000,,False,False,,,,,,1998,,322000,Osoby prywatnej,,Benzyna,,Sedan,Biały,Używane,,Na tylne koła,Automatyczna,2021-03-30 16:56:00
+6080932987,lincoln,town-car,Warszawa,Mazowieckie,220,4601,25900,Stany Zjednoczone,False,False,,,,,,2002,,136000,Firmy,,Benzyna,,Kombi,Inny kolor,Używane,,,Automatyczna,2021-03-29 12:20:00
