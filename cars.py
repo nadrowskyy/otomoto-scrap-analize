@@ -19,6 +19,11 @@ def get_cars_brand(url):
     for car in cars[1:]:
         if car['value'] == 'warszawa':
             cars_dict['marka_warszawa'] = ''
+            continue
+        if car['value'] == 'radical':
+            continue
+        if car['value'] == 'other':
+            continue
         else:
             cars_dict[car['value']] = ''
     print(cars_dict)
@@ -39,16 +44,53 @@ def get_cars_model(cars_dict):
         select = driver.find_element_by_xpath("//select[@id='param573']")
         splitted_list = select.text.splitlines()
         car_names = []
+        print('------------MARKA', brand)
         for el in splitted_list[1:]:
+            print(el)
             el = el.split(' ')[:-1]
             car = '-'.join(el).lower().replace('(', '').replace(')', '')
+
+            # SUPPORT FOR NON-TYPICAL MODELS NAME'S
             if car == 'inny':
                 car = 'other'
             car = car.replace('.', '')
+            if car == 'ka+':
+                car = 'ka_plus'
+            if car == 'town-&-country':
+                car = 'town-country'
+            if car == "pro_cee'd":
+                car = 'pro-ceed'
+            if car == 'eighty---eight':
+                car = 'eighty-eight'
+            if car == 'wagon-r+':
+                car = 'wagon-r-'
+            if car == 'prius+':
+                car = 'prius_plus'
+            if car == 'up!':
+                car = 'up'
+            if car == 'klasa-a':
+                car = 'a-klasa'
+            if car == 'klasa-b':
+                car = 'b-klasa'
+            if car == 'klasa-c':
+                car = 'c-klasa'
+            if car == 'klasa-e':
+                car = 'e-klasa'
+            if car == 'klasa-g':
+                car = 'g-klasa'
+            if car == 'klasa - r':
+                car = 'r-klasa'
+            if car == 'klasa-s':
+                car = 's-klasa'
+            if car == 'klasa-v':
+                car = 'v-klasa'
+            if car == 'klasa-v':
+                car = 'x-klasa'
+            print(car)
             car_names.append(car)
         # FOR EACH BRAND WE HAVE A LIST OF MODELS IN DICTIONARY
         cars_dict[brand] = car_names
-        print(cars_dict)
+        #print(cars_dict)
     # DATA IS DUMPED TO A PICKLE SO WE CAN USE IT LATER
     pickle_out = open('dict_cars.pickle', 'wb')
     pickle.dump(cars_dict, pickle_out)
