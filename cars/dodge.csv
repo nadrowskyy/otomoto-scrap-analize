@@ -1,0 +1,707 @@
+ID,Marka,Model,Miasto,Wojewodztwo,Moc,Poj. sil,Cena,Kraj poch.,Czy zabytek,Czy zarej. w Polsce,Czy bezwypadkowy,Czy Anglik,Serwisowany w ASO,Filtr DPF,Generacja,Rok prod.,Pierwsza rejestracja,Przebieg,Oferta od,Czy leasing,Rodzaj paliwa,Emisja CO2,Typ,Kolor,Stan,Czy pierwsz. właśc,Napęd,Skrzynia biegów,Data dodania
+6082921425,dodge,avenger,Mielec,Podkarpackie,189,2736,35000,,False,False,True,,True,,,2008,,136000,Osoby prywatnej,,Benzyna,,Sedan,Czerwony,Używane,,Na przednie koła,Automatyczna,2021-04-03 23:21:00
+6083907057,dodge,avenger,Łódź,Łódzkie,156,1998,13500,,False,False,,,,,,2010,,141000,Osoby prywatnej,,Benzyna,,Sedan,Srebrny,Używane,,Na przednie koła,Automatyczna,2021-04-03 19:46:00
+6082254943,dodge,avenger,Ruda Śląska,Śląskie,140,1968,10947,Polska,False,False,,,,,,2007,,259710,Firmy,,Diesel,170,Sedan,Szary,Używane,,Na przednie koła,Manualna,2021-04-01 19:25:00
+6082797371,dodge,avenger,Zawiercie,Śląskie,156,1998,15900,Niemcy,False,,,,True,,,2005,,180000,Firmy,,Benzyna+LPG,185,Sedan,Srebrny,Używane,True,Na przednie koła,Manualna,2021-03-30 19:43:00
+6083409533,dodge,avenger,Tomaszewo,Wielkopolskie,140,1968,12500,,False,,,,,,,2008,,241131,Osoby prywatnej,,Diesel,170,Sedan,Srebrny,Używane,,Na przednie koła,Manualna,2021-03-29 12:23:00
+6083934393,dodge,caliber,Swarzędz,Wielkopolskie,170,2359,17900,Niemcy,False,,True,,True,,,2008,2008-07-03 00:00:00,199000,Osoby prywatnej,,Benzyna,4,Kompakt,Czarny,Używane,,Na przednie koła,Manualna,2021-04-03 20:46:00
+6083929959,dodge,caliber,Płock,Mazowieckie,156,1998,18900,,False,False,True,,True,,,2007,,199000,Osoby prywatnej,,Benzyna,192,SUV,Inny kolor,Używane,True,Na przednie koła,Automatyczna,2021-04-03 16:10:00
+6083984891,dodge,caliber,Zamość,Lubelskie,150,1798,19900,Niemcy,False,,,,True,,,2009,,112000,Firmy,,Benzyna,174,SUV,Czarny,Używane,,Na przednie koła,Manualna,2021-04-06 15:21:00
+6083222633,dodge,caliber,Czechy,Łódzkie,150,1798,22700,Polska,False,,True,,True,,,2009,,142000,Firmy,,Benzyna,174,Kompakt,Czarny,Używane,,Na przednie koła,Manualna,2021-04-06 15:17:00
+6083593016,dodge,caliber,Świnoujście,Zachodniopomorskie,140,1968,13900,,False,False,True,,,,,2007,,280000,Osoby prywatnej,,Diesel,,SUV,Czarny,Używane,,,Manualna,2021-04-06 14:55:00
+6083982588,dodge,caliber,Ostrówek,Łódzkie,140,1968,8900,Niemcy,False,False,,,,,,2007,,261000,Firmy,,Diesel,161,Kompakt,Szary,Używane,,Na przednie koła,Manualna,2021-04-06 14:07:00
+6083699831,dodge,caliber,Wrocław,Dolnośląskie,156,1998,19900,Stany Zjednoczone,False,False,,,,,,2009,2009-01-01 00:00:00,129000,Osoby prywatnej,,Benzyna,,Sedan,Czarny,Używane,,,Automatyczna,2021-04-06 13:21:00
+6081218178,dodge,caliber,Toruń,Kujawsko-pomorskie,150,1798,15999,,False,,True,,,,,2009,,154000,Osoby prywatnej,,Benzyna,174,Kompakt,Inny kolor,Używane,,Na przednie koła,Manualna,2021-04-05 22:49:00
+6082687725,dodge,caliber,Myszków,Śląskie,140,1968,18700,,False,False,True,,,,,2008,,139000,Firmy,,Diesel,161,SUV,Czarny,Używane,,Na przednie koła,Manualna,2021-04-05 20:01:00
+6082993439,dodge,caliber,Wrocław,Dolnośląskie,140,1968,21555,Niemcy,False,False,True,,True,,,2008,2008-01-31 00:00:00,175000,Osoby prywatnej,,Diesel,,Kompakt,Czarny,Używane,,Na przednie koła,Manualna,2021-04-05 18:51:00
+6083362052,dodge,caliber,Bielsk,Mazowieckie,150,1798,13700,Niemcy,False,,,,True,,,2008,,185000,Firmy,,Benzyna,174,Kompakt,Inny kolor,Używane,True,Na przednie koła,Manualna,2021-04-05 10:26:00
+6083361737,dodge,caliber,Bielsk,Mazowieckie,140,1968,13700,,False,,,,True,,,2007,,214000,Firmy,,Diesel,161,Kompakt,Czarny,Używane,True,Na przednie koła,Manualna,2021-04-05 10:11:00
+6082992352,dodge,caliber,Ostrowiec Świętokrzyski,Świętokrzyskie,150,1798,19400,Niemcy,False,False,True,,True,,,2009,,187573,Firmy,,Benzyna,174,Kompakt,Srebrny,Używane,True,Na przednie koła,Manualna,2021-04-05 08:56:00
+6080802197,dodge,caliber,Skarszewy,Pomorskie,140,1968,17500,Niemcy,False,,,,,True,,2010,2010-05-06 00:00:00,294000,Firmy,,Diesel,161,Kompakt,Biały,Używane,,Na przednie koła,Manualna,2021-04-05 06:38:00
+6083633403,dodge,caliber,Bełchatów,Łódzkie,150,1798,19900,Niemcy,False,,True,,,,,2007,2007-09-11 00:00:00,13063,Osoby prywatnej,,Benzyna,174,Kompakt,Niebieski,Używane,,Na przednie koła,Manualna,2021-04-04 21:53:00
+6083942218,dodge,caliber,Błażowa,Podkarpackie,150,1798,24700,,False,,,,,,,2008,,128500,Osoby prywatnej,,Benzyna+LPG,,Kompakt,Niebieski,Używane,,,Manualna,2021-04-04 20:30:00
+6082270490,dodge,caliber,Warszawa,Mazowieckie,156,1998,18900,Włochy,False,False,,,,,,2007,,133216,Firmy,,Benzyna,,Kompakt,Czarny,Używane,,Na przednie koła,Manualna,2021-04-04 10:07:00
+6079656914,dodge,caliber,Malbork,Pomorskie,150,1798,14300,Inny,False,False,,,,,,2008,,216000,Firmy,,Benzyna+LPG,,Kompakt,Inny kolor,Używane,,,Manualna,2021-04-04 10:07:00
+6083553839,dodge,caliber,Kielce,Świętokrzyskie,150,1798,25999,,False,,True,,True,,,2011,2011-05-07 00:00:00,127854,Firmy,,Benzyna,174,Kompakt,Czarny,Używane,True,,Manualna,2021-04-04 08:38:00
+6083745985,dodge,caliber,Częstochowa,Śląskie,150,1798,14500,,False,False,True,,,,,2007,2007-07-31 00:00:00,233575,Osoby prywatnej,,Benzyna,174,SUV,Czarny,Używane,,Na przednie koła,Manualna,2021-04-03 21:45:00
+6082394176,dodge,caliber,Płock,Mazowieckie,150,1798,24500,Szwajcaria,False,,True,,,,,2009,,164000,Osoby prywatnej,,Benzyna,,Auta miejskie,Srebrny,Używane,,Na przednie koła,Manualna,2021-04-03 20:20:00
+6083931235,dodge,caliber,Poznań,Wielkopolskie,140,1968,7200,,False,False,,,,,,2007,2007-01-01 00:00:00,154000,Osoby prywatnej,,Diesel,161,SUV,Czarny,Używane,,Na przednie koła,Manualna,2021-04-03 17:25:00
+6083929127,dodge,caliber,Żary,Lubuskie,150,1798,17800,,False,False,,,,,,2008,2009-07-02 00:00:00,150000,Osoby prywatnej,,Benzyna,174,SUV,Srebrny,Używane,,Na przednie koła,Manualna,2021-04-03 15:04:00
+6083927715,dodge,caliber,Wilczyn,Wielkopolskie,140,1968,13999,Hiszpania,False,,,,,,,2007,2007-07-05 00:00:00,212000,Osoby prywatnej,,Diesel,161,SUV,Czarny,Używane,,Na przednie koła,Manualna,2021-04-03 13:30:00
+6083476867,dodge,caliber,Czechy,Łódzkie,156,1998,27700,Polska,False,False,True,,True,,,2011,,147000,Firmy,True,Benzyna,176,Kompakt,Czarny,Używane,,Na przednie koła,Manualna,2021-04-03 12:47:00
+6079722486,dodge,caliber,Łódź,Łódzkie,170,2359,19800,Niemcy,False,False,True,,,,,2008,,232000,Osoby prywatnej,,Benzyna+LPG,190,Kompakt,Czarny,Używane,,Na przednie koła,Manualna,2021-04-03 12:13:00
+6083926194,dodge,caliber,Radom,Mazowieckie,170,2359,18900,,False,,True,,True,,,2007,2008-04-29 00:00:00,184000,Osoby prywatnej,,Benzyna,190,Kompakt,Bordowy,Używane,True,Na przednie koła,Manualna,2021-04-03 11:26:00
+6083228460,dodge,caliber,Koszalin,Zachodniopomorskie,140,1968,13200,Niemcy,False,False,,,,,,2009,2010-04-30 00:00:00,252000,Osoby prywatnej,,Diesel,161,Kompakt,Biały,Używane,,Na przednie koła,Manualna,2021-04-03 09:17:00
+6083922777,dodge,caliber,Pawłowice,Śląskie,150,1798,16400,,False,False,True,,,,,2006,,150000,Firmy,,Benzyna,174,SUV,Inny kolor,Używane,,Na przednie koła,Manualna,2021-04-02 22:52:00
+6083225948,dodge,caliber,Łosice,Mazowieckie,140,1968,12300,,False,,,,,,,2009,,207462,Osoby prywatnej,,Diesel,161,Kompakt,Czarny,Używane,,Na przednie koła,Manualna,2021-04-02 20:08:00
+6072078691,dodge,caliber,Wisznice,Lubelskie,150,1798,18500,,False,False,,,,,,2008,,206000,Firmy,,Benzyna,,Kompakt,Srebrny,Używane,,Na przednie koła,Manualna,2021-04-02 15:20:00
+6083532694,dodge,caliber,Chełm Śląski,Śląskie,150,1800,18500,,False,False,,,True,,,2010,,150000,Firmy,,Benzyna,,Kompakt,Srebrny,Używane,True,Na przednie koła,Manualna,2021-04-02 13:02:00
+6083214138,dodge,caliber,Grodzisk Mazowiecki,Mazowieckie,156,1998,13000,,False,,,,,,,2009,2009-12-14 00:00:00,225500,Osoby prywatnej,,Benzyna,190,Kompakt,Srebrny,Używane,,Na przednie koła,Automatyczna,2021-04-02 10:35:00
+6083894225,dodge,caliber,Modliborzyce,Lubelskie,150,1798,17600,Holandia,False,,,,,,,2007,2007-04-14 00:00:00,130000,Firmy,,Benzyna,174,Kompakt,Czarny,Używane,,Na przednie koła,Manualna,2021-04-01 22:15:00
+6083514813,dodge,caliber,Sosnowiec,Śląskie,140,1968,12600,,False,False,,,,,,2007,2007-10-29 00:00:00,213000,Firmy,,Diesel,,Kompakt,Czarny,Używane,,,Manualna,2021-04-01 21:24:00
+6083458596,dodge,caliber,Piekary Śląskie,Śląskie,140,1968,12999,Polska,False,False,,,,,,2007,,190000,Osoby prywatnej,,Diesel,161,Kompakt,Czarny,Używane,,Na przednie koła,Manualna,2021-04-01 20:02:00
+6083861076,dodge,caliber,Sieradz,Łódzkie,140,1968,13900,Niemcy,False,False,True,,,,,2007,2007-08-29 00:00:00,200000,Osoby prywatnej,,Diesel,161,SUV,Czarny,Używane,,Na przednie koła,Manualna,2021-04-01 08:32:00
+6083227109,dodge,caliber,Sade Budy,Mazowieckie,295,2400,29900,Niemcy,False,,True,,True,,,2009,,155000,Firmy,,Benzyna,,Kompakt,Czarny,Używane,,Na przednie koła,Manualna,2021-03-31 22:24:00
+6083455865,dodge,caliber,Stęszew,Wielkopolskie,140,1968,21000,Polska,False,False,True,,,True,,2010,2010-04-19 00:00:00,219000,Osoby prywatnej,,Diesel,161,Kompakt,Czarny,Używane,,Na przednie koła,Manualna,2021-03-31 21:43:00
+6081279684,dodge,caliber,Jelenia Góra,Dolnośląskie,295,2359,38000,,False,,,,,,,2008,2008-06-02 00:00:00,116800,Osoby prywatnej,,Benzyna,211,Kompakt,Czarny,Używane,,Na przednie koła,Manualna,2021-03-31 19:03:00
+6083841434,dodge,caliber,Nowy Duninów,Mazowieckie,170,2359,17900,,False,,,,,,,2008,2008-01-01 00:00:00,154000,Osoby prywatnej,,Benzyna+LPG,190,Kompakt,Czarny,Używane,,Na przednie koła,Manualna,2021-03-31 17:33:00
+6083846965,dodge,caliber,Kopiec,Śląskie,150,1798,14500,,False,False,True,,,,,2007,,188000,Osoby prywatnej,,Benzyna,,SUV,Bordowy,Używane,,Na przednie koła,Manualna,2021-03-31 17:20:00
+6083796868,dodge,caliber,Częstochowa,Śląskie,140,1968,12900,,False,,,,,,,2007,,216420,Osoby prywatnej,,Diesel,,Kompakt,Czarny,Używane,,,Manualna,2021-03-31 13:15:00
+6083149398,dodge,caliber,Rzeszów,Podkarpackie,140,1968,18900,Szwajcaria,False,False,,,,,,2010,,172000,Osoby prywatnej,,Diesel,,Kompakt,Czarny,Używane,,Na przednie koła,Manualna,2021-03-31 08:01:00
+6080268815,dodge,caliber,Białogard,Zachodniopomorskie,140,1968,14000,,False,False,True,,,,,2007,,205000,Osoby prywatnej,,Diesel,,Kompakt,Czarny,Używane,,,Manualna,2021-03-31 07:23:00
+6083143141,dodge,caliber,Chmielnik,Świętokrzyskie,140,1968,14800,,False,,True,,True,,,2006,,154000,Osoby prywatnej,,Diesel,161,Minivan,Czarny,Używane,,Na przednie koła,Manualna,2021-03-30 19:34:00
+6081040297,dodge,caliber,Warszawa,Mazowieckie,150,1798,19900,,False,False,,,,,,2009,,190931,Firmy,,Benzyna,174,Kompakt,Bordowy,Używane,,Na przednie koła,Manualna,2021-03-30 18:37:00
+6080649006,dodge,caliber,Żyrardów,Mazowieckie,170,2359,18900,Niemcy,False,,True,,True,,,2008,,264200,Firmy,,Benzyna,190,Kompakt,Bordowy,Używane,True,Na przednie koła,Manualna,2021-03-30 09:59:00
+6083777029,dodge,caliber,Konstantynów Łódzki,Łódzkie,150,1798,18300,,False,False,True,,,,,2009,2010-07-02 00:00:00,178000,Osoby prywatnej,,Benzyna+LPG,174,Kompakt,Biały,Używane,,Na przednie koła,Manualna,2021-03-29 23:15:00
+6079666520,dodge,caliber,Ciechanów,Mazowieckie,140,1968,11000,,False,,,,,,,2007,,275000,Osoby prywatnej,,Diesel,,SUV,Srebrny,Używane,,,Manualna,2021-03-29 22:29:00
+6082020476,dodge,caliber,Ostrów Mazowiecka,Mazowieckie,150,1798,18700,,False,,True,,True,,,2007,,212000,Firmy,,Benzyna,174,Kompakt,Czarny,Używane,True,Na przednie koła,Manualna,2021-03-29 16:27:00
+6083400832,dodge,caliber,Ryki,Lubelskie,149,1798,23900,Niemcy,False,False,True,,True,,,2010,,155500,Osoby prywatnej,,Benzyna,,SUV,Złoty,Używane,,Na przednie koła,Manualna,2021-03-29 11:54:00
+6083755797,dodge,caliber,Poznań,Wielkopolskie,156,1998,16500,Niemcy,False,False,,,,,,2007,,217000,Firmy,,Benzyna,192,Kompakt,Czarny,Używane,,Na przednie koła,Automatyczna,2021-03-29 09:04:00
+6083401660,dodge,caliber,Dębica,Podkarpackie,156,1998,24500,,False,,,,,,,2010,,121820,Firmy,,Benzyna+LPG,,Kompakt,Biały,Używane,,Na przednie koła,Manualna,2021-03-29 09:00:00
+6077471737,dodge,caliber,Brzoza,Kujawsko-pomorskie,140,1968,9500,,False,,,,,,,2008,,282641,Osoby prywatnej,,Diesel,,Kompakt,Czarny,Używane,,,Manualna,2021-03-28 22:46:00
+6083390218,dodge,caliber,Bełchatów,Łódzkie,150,1798,19999,Niemcy,False,,True,,,,,2007,2007-02-02 00:00:00,9500,Osoby prywatnej,,Benzyna,174,Kompakt,Inny kolor,Używane,,Na przednie koła,Manualna,2021-03-28 20:11:00
+6083740923,dodge,caliber,Strzelce Krajeńskie,Lubuskie,140,1968,10350,Belgia,False,False,,,,,,2010,2010-08-10 00:00:00,215080,Osoby prywatnej,,Diesel,161,Kompakt,Inny kolor,Używane,,Na przednie koła,Manualna,2021-03-28 18:51:00
+6082321726,dodge,caliber,Siedlce,Mazowieckie,156,1998,12999,,False,,,,,,,2007,,212000,Osoby prywatnej,,Benzyna,,Kompakt,Niebieski,Używane,,,Automatyczna,2021-03-28 15:08:00
+6083733481,dodge,caliber,Bełchatów,Łódzkie,170,2359,15900,Stany Zjednoczone,False,False,,,,,,2007,,157000,Osoby prywatnej,,Benzyna,,SUV,Czarny,Używane,,4x4 (stały),Manualna,2021-03-28 14:19:00
+6083732039,dodge,caliber,Tychy,Śląskie,140,1968,13000,,False,False,,,,,,2007,,255000,Osoby prywatnej,,Diesel,,Kompakt,Czarny,Używane,,Na przednie koła,Manualna,2021-03-28 14:14:00
+6079115129,dodge,caliber,Rzeszów,Podkarpackie,150,1798,18500,,False,,True,,True,,,2007,,66000,Osoby prywatnej,,Benzyna,,Kompakt,Szary,Używane,,Na przednie koła,Manualna,2021-03-28 10:26:00
+6077207931,dodge,caliber,Słupsk,Pomorskie,140,1968,19900,,False,,,,,,,2008,,216000,Firmy,,Diesel,161,Kompakt,Czarny,Używane,,Na przednie koła,Manualna,2021-03-28 09:11:00
+6083163313,dodge,caliber,Nowy Świętów,Opolskie,140,1968,5500,,False,False,,,,,,2007,2007-08-29 00:00:00,289909,Osoby prywatnej,,Diesel,161,Kompakt,Zielony,Używane,,Na przednie koła,Manualna,2021-03-26 12:59:00
+6082230165,dodge,caravan,Warszawa,Mazowieckie,180,3300,8700,,False,False,True,,True,,III (2001-),2002,,350000,Firmy,,Benzyna+LPG,,Minivan,Niebieski,Używane,,Na przednie koła,Automatyczna,2021-04-05 21:48:00
+6083306593,dodge,caravan,Błonie,Mazowieckie,180,3300,2900,,False,False,,,,,III (2001-),2002,2002-11-06 00:00:00,260000,Firmy,,Benzyna,,Minivan,Niebieski,Używane,,Na przednie koła,Automatyczna,2021-04-05 14:52:00
+6083942728,dodge,caravan,Kotórz Mały,Opolskie,150,2966,5900,Kanada,False,False,,,,,II (1995-2001),2001,2005-01-10 00:00:00,334867,Osoby prywatnej,,Benzyna+LPG,,Minivan,Bordowy,Używane,,Na przednie koła,Automatyczna,2021-04-04 19:31:00
+6079788177,dodge,caravan,Chojnice,Pomorskie,180,3300,14499,Stany Zjednoczone,False,,,,,,III (2001-),2008,,206000,Osoby prywatnej,,Benzyna,,Minivan,Niebieski,Używane,,Na przednie koła,Automatyczna,2021-04-04 10:55:00
+6080293412,dodge,caravan,Skarżysko-Kamienna,Świętokrzyskie,180,3300,27500,Stany Zjednoczone,False,False,True,,,,III (2001-),2004,,88950,Osoby prywatnej,,Benzyna,,Minivan,Srebrny,Używane,,Na przednie koła,Automatyczna,2021-04-04 08:28:00
+6083457229,dodge,caravan,Bydgoszcz,Kujawsko-pomorskie,287,3604,66000,Kanada,False,False,,,,,III (2001-),2015,2016-01-01 00:00:00,90300,Osoby prywatnej,,Benzyna,,Minivan,Bordowy,Używane,,Na przednie koła,Automatyczna,2021-04-02 19:23:00
+6083905707,dodge,caravan,Jachranka,Mazowieckie,180,3300,4800,,False,,,,,,III (2001-),2003,2003-01-01 00:00:00,221000,Osoby prywatnej,,Benzyna+LPG,,Minivan,Bordowy,Używane,,Na przednie koła,Automatyczna,2021-04-02 12:17:00
+6080817952,dodge,caravan,Chojnice,Pomorskie,280,3600,16499,Stany Zjednoczone,False,,,,,,III (2001-),2014,,140000,Osoby prywatnej,,Benzyna,,Minivan,Biały,Używane,,Na przednie koła,Automatyczna,2021-04-01 15:49:00
+6077909159,dodge,caravan,Nieporęt,Mazowieckie,175,3301,9900,,False,False,True,,,,III (2001-),2002,2002-01-01 00:00:00,195000,Firmy,,Benzyna+LPG,,Minivan,Niebieski,Używane,,Na przednie koła,Automatyczna,2021-04-01 14:36:00
+6083472659,dodge,caravan,Warszawa,Mazowieckie,180,3300,11900,,False,False,,,,,III (2001-),2005,,224586,Firmy,,Benzyna+LPG,,Minivan,Niebieski,Używane,,Na przednie koła,Automatyczna,2021-04-01 11:59:00
+6082050627,dodge,caravan,Nowa Dęba,Podkarpackie,152,2429,5300,,False,False,,,,,III (2001-),2005,,141000,Firmy,,Benzyna+LPG,,Minivan,Czerwony,Używane,,Na przednie koła,Automatyczna,2021-03-31 09:28:00
+6083445374,dodge,caravan,Warszawa,Mazowieckie,283,3600,52000,,False,,,,,,III (2001-),2016,2016-01-01 00:00:00,133000,Osoby prywatnej,,Benzyna+LPG,,Minivan,Niebieski,Używane,,Na przednie koła,Automatyczna,2021-03-30 19:36:00
+6081643281,dodge,challenger,Złotów,Wielkopolskie,308,3604,58500,Stany Zjednoczone,False,False,,,,,,2013,,154000,Osoby prywatnej,,Benzyna,,Coupe,Czarny,Używane,,Na tylne koła,Automatyczna,2021-04-06 11:16:00
+6082778980,dodge,challenger,Alwernia,Małopolskie,774,6166,245000,,False,False,,,,,,2015,2015-10-12 00:00:00,24608,Osoby prywatnej,,Benzyna,,Coupe,Czerwony,Używane,True,Na tylne koła,Manualna,2021-04-05 14:53:00
+6082679765,dodge,challenger,Kostrzyn,Wielkopolskie,309,3600,33500,Polska,False,,,,,,,2014,,169000,Osoby prywatnej,,Benzyna,,Coupe,Czarny,Używane,,Na tylne koła,Automatyczna,2021-04-01 17:52:00
+6082792889,dodge,challenger,Nowy Sącz,Małopolskie,376,5654,74500,,False,,,,,,,2009,,139885,Osoby prywatnej,,Benzyna,,Coupe,Srebrny,Używane,,Na tylne koła,Automatyczna,2021-04-01 08:31:00
+6083343338,dodge,challenger,Baranowo,Wielkopolskie,716,6200,249900,Stany Zjednoczone,False,False,,,,,,2015,2015-01-01 00:00:00,13500,Firmy,,Benzyna,,Coupe,Czerwony,Używane,,Na tylne koła,Automatyczna,2021-04-06 14:46:00
+6080995448,dodge,challenger,Poznań,Wielkopolskie,305,3604,139000,,False,False,,,True,,,2019,2020-12-30 00:00:00,9500,Osoby prywatnej,,Benzyna,,Coupe,Czarny,Używane,True,Na tylne koła,Automatyczna,2021-04-06 13:12:00
+6083408914,dodge,challenger,Tychy,Śląskie,305,3604,143900,,False,,,,,,,2019,,57943,Firmy,True,Benzyna,,Coupe,Biały,Używane,,4x4 (dołączany automatycznie),Automatyczna,2021-04-06 12:06:00
+6074267749,dodge,challenger,Wrocław,Dolnośląskie,450,5700,59900,Stany Zjednoczone,False,,,,,,,2018,,48600,Firmy,,Benzyna,,Coupe,Niebieski,Używane,,Na tylne koła,Automatyczna,2021-04-06 09:10:00
+6074659679,dodge,challenger,Wrocław,Dolnośląskie,320,3600,41900,Stany Zjednoczone,False,,,,,,,2016,,45000,Firmy,,Benzyna,,Coupe,Szary,Używane,,Na tylne koła,Automatyczna,2021-04-06 09:10:00
+6081819484,dodge,challenger,Barlinek,Zachodniopomorskie,309,3604,67900,Stany Zjednoczone,False,False,,,,,,2013,,108000,Firmy,,Benzyna,235,Coupe,Czarny,Używane,,Na tylne koła,Automatyczna,2021-04-06 08:16:00
+6083679112,dodge,challenger,Zelów,Łódzkie,381,5654,114900,,False,False,,,,,,2016,2020-12-07 00:00:00,135500,Osoby prywatnej,,Benzyna,332,Coupe,Biały,Używane,,Na tylne koła,Automatyczna,2021-04-05 23:50:00
+6081100876,dodge,challenger,Gdynia,Pomorskie,370,5654,70000,Polska,False,False,,,,,,2010,2018-11-01 00:00:00,148200,Osoby prywatnej,,Benzyna,,Coupe,Bordowy,Używane,,Na tylne koła,Automatyczna,2021-04-05 22:04:00
+6083208845,dodge,challenger,Łomazy,Lubelskie,381,5654,64800,Stany Zjednoczone,False,,,,,,,2018,,17704,Firmy,,Benzyna,332,Coupe,Czerwony,Używane,,Na tylne koła,Manualna,2021-04-05 22:02:00
+6083208842,dodge,challenger,Łomazy,Lubelskie,309,3604,59800,Stany Zjednoczone,False,,,,,,,2018,,45416,Firmy,,Benzyna,235,Coupe,Czerwony,Używane,,Na tylne koła,Automatyczna,2021-04-05 22:02:00
+6081632263,dodge,challenger,Toruń,Kujawsko-pomorskie,370,5654,83900,Stany Zjednoczone,False,False,,,,,,2013,,137000,Osoby prywatnej,,Benzyna,,Coupe,Czarny,Używane,,Na tylne koła,Automatyczna,2021-04-05 21:13:00
+6080621548,dodge,challenger,Garwolin,Mazowieckie,305,3604,115000,Stany Zjednoczone,False,False,,,,,,2019,0019-01-01 00:00:00,19900,Osoby prywatnej,,Benzyna+LPG,,Coupe,Czarny,Używane,True,Na tylne koła,Automatyczna,2021-04-05 20:38:00
+6077082993,dodge,challenger,Gryfino,Zachodniopomorskie,309,3604,87999,Stany Zjednoczone,False,False,,,,,,2017,2017-01-01 00:00:00,112000,Osoby prywatnej,,Benzyna,235,Coupe,Biały,Używane,True,Na tylne koła,Automatyczna,2021-04-05 19:33:00
+6083204514,dodge,challenger,Warszawa,Mazowieckie,305,3604,74000,,False,,,,,,,2019,,28000,Firmy,,Benzyna,289,Coupe,Zielony,Używane,,4x4 (dołączany automatycznie),Automatyczna,2021-04-05 17:55:00
+6083311175,dodge,challenger,Toruń,Kujawsko-pomorskie,400,5700,120000,Stany Zjednoczone,False,False,,,True,,,2015,,41000,Osoby prywatnej,,Benzyna,,Coupe,Niebieski,Używane,,Na tylne koła,Automatyczna,2021-04-05 15:58:00
+6077715066,dodge,challenger,Milanówek,Mazowieckie,492,6400,159000,Stany Zjednoczone,False,False,True,,True,,,2015,,81754,Osoby prywatnej,,Benzyna,,Coupe,Czerwony,Używane,True,Na tylne koła,Automatyczna,2021-04-05 14:35:00
+6083946583,dodge,challenger,Książ Wielki,Małopolskie,380,5654,136000,Stany Zjednoczone,False,False,,,,,,2015,,61500,Osoby prywatnej,,Benzyna,,Coupe,Czerwony,Używane,,Na tylne koła,Automatyczna,2021-04-05 12:57:00
+6083552001,dodge,challenger,Legnica,Dolnośląskie,305,3604,82000,Stany Zjednoczone,False,,,,,,,2019,2019-12-07 00:00:00,21321,Osoby prywatnej,,Benzyna,,Coupe,Biały,Używane,True,4x4 (stały),Automatyczna,2021-04-05 12:55:00
+6078988398,dodge,challenger,Warszawa,Mazowieckie,492,6417,196800,Stany Zjednoczone,False,False,,,,,,2019,,40700,Osoby prywatnej,,Benzyna,333,Coupe,Czarny,Używane,True,Na tylne koła,Automatyczna,2021-04-05 12:01:00
+6082398607,dodge,challenger,Rąbień,Łódzkie,717,6166,315000,,False,,,,,,,2018,2018-01-01 00:00:00,6500,Osoby prywatnej,,Benzyna,,Coupe,Biały,Używane,,Na tylne koła,Automatyczna,2021-04-05 11:33:00
+6083788520,dodge,challenger,Sulejówek,Mazowieckie,305,3600,84000,,False,,,,,,,2020,,33000,Firmy,,Benzyna,,Coupe,Czarny,Używane,,Na tylne koła,Automatyczna,2021-04-05 11:31:00
+6067384947,dodge,challenger,Bielsk Podlaski,Podlaskie,309,3600,55900,,False,,,,,,,2011,,146000,Osoby prywatnej,,Benzyna,,Coupe,Biały,Używane,,Na tylne koła,Automatyczna,2021-04-05 11:31:00
+6076627897,dodge,challenger,Gręzów,Mazowieckie,380,5700,73000,Stany Zjednoczone,False,False,,,,,,2014,,50000,Firmy,True,Benzyna,,Coupe,Czerwony,Używane,,Na tylne koła,Automatyczna,2021-04-05 11:09:00
+6083945347,dodge,challenger,Busko-Zdrój,Świętokrzyskie,492,6417,189000,,False,False,True,,,,,2018,,50000,Firmy,,Benzyna,333,Coupe,Żółty,Używane,,Na tylne koła,Manualna,2021-04-05 10:48:00
+6083290492,dodge,challenger,Rzeszów,Podkarpackie,305,3600,52000,,False,,,,,,,2017,,50000,Firmy,,Benzyna,,Coupe,Biały,Używane,,Na tylne koła,Automatyczna,2021-04-05 09:34:00
+6083408142,dodge,challenger,Kraków,Małopolskie,309,3604,32000,Stany Zjednoczone,False,,,,,,,2016,,87542,Firmy,,Benzyna,235,Coupe,Inny kolor,Używane,,Na tylne koła,Automatyczna,2021-04-04 20:27:00
+6082969447,dodge,challenger,Kozy,Śląskie,477,6410,107000,Stany Zjednoczone,False,False,,,,,,2013,2013-01-01 00:00:00,148000,Osoby prywatnej,,Benzyna,,Coupe,Szary,Używane,,Na tylne koła,Automatyczna,2021-04-04 20:10:00
+6083629663,dodge,challenger,Długołęka,Dolnośląskie,400,5700,109900,,False,,,,,,,2018,,23500,Firmy,True,Benzyna,,Coupe,Niebieski,Używane,,Na tylne koła,Manualna,2021-04-04 20:10:00
+6075890203,dodge,challenger,Warszawa,Mazowieckie,372,5654,141000,Stany Zjednoczone,False,False,True,,,,,2019,,36000,Osoby prywatnej,,Benzyna,,Coupe,Biały,Używane,,Na tylne koła,Automatyczna,2021-04-04 17:26:00
+6083619499,dodge,challenger,Niedźwiada Duża,Lubelskie,381,5654,138000,,False,,,,,,,2018,,160000,Osoby prywatnej,,Benzyna,,Coupe,Szary,Używane,,,Automatyczna,2021-04-04 17:08:00
+6082576480,dodge,challenger,Nowiny,Świętokrzyskie,492,6417,89900,,False,,,,,,,2011,,101210,Firmy,,Benzyna,,Coupe,Czarny,Używane,,Na tylne koła,Manualna,2021-04-04 16:13:00
+6078165969,dodge,challenger,Warszawa,Mazowieckie,492,6417,369900,Polska,False,,True,,,,,2020,,30,Firmy,True,Benzyna,,Coupe,Srebrny,Nowe,,Na tylne koła,Automatyczna,2021-04-04 15:46:00
+6079212936,dodge,challenger,Warszawa,Mazowieckie,717,6166,519900,Polska,False,,True,,,,,2020,,10,Firmy,,Benzyna,,Coupe,Czarny,Nowe,,Na tylne koła,Automatyczna,2021-04-04 15:45:00
+6082297717,dodge,challenger,Warszawa,Mazowieckie,305,3604,229900,Polska,False,,True,,,,,2021,,15,Firmy,,Benzyna,,Coupe,Niebieski,Nowe,,Na tylne koła,Automatyczna,2021-04-04 15:13:00
+6080973259,dodge,challenger,Kraków,Małopolskie,381,5654,105000,,False,False,,,,,,2015,,56000,Osoby prywatnej,,Benzyna,332,Coupe,Zielony,Używane,True,Na tylne koła,Automatyczna,2021-04-04 14:39:00
+6083258284,dodge,challenger,Brzeg,Opolskie,492,6417,168000,Stany Zjednoczone,False,False,,,,,,2016,,26600,Osoby prywatnej,,Benzyna,,Coupe,Czerwony,Używane,,Na tylne koła,Manualna,2021-04-04 13:29:00
+6083760786,dodge,challenger,Ciemne,Mazowieckie,370,5700,34950,Stany Zjednoczone,False,,,,,,,2014,,59681,Firmy,,Benzyna,,Coupe,Inny kolor,Używane,,Na tylne koła,Automatyczna,2021-04-04 12:00:00
+6083760998,dodge,challenger,Tychy,Śląskie,475,6417,239900,,False,,,,,,,2018,,52000,Firmy,True,Benzyna,,Coupe,Czerwony,Używane,,Na tylne koła,Automatyczna,2021-04-04 11:57:00
+6079787640,dodge,challenger,Sosnowiec,Śląskie,305,3604,119900,Stany Zjednoczone,False,False,,,True,,,2019,,9250,Osoby prywatnej,,Benzyna,,Coupe,Niebieski,Używane,True,Na tylne koła,Automatyczna,2021-04-04 08:40:00
+6083148871,dodge,challenger,Tarnów,Małopolskie,372,5654,75000,Stany Zjednoczone,False,,,,,,,2017,,29782,Firmy,,Benzyna,,Coupe,Szary,Używane,,Na tylne koła,Automatyczna,2021-04-04 03:13:00
+6083242545,dodge,challenger,Katowice,Śląskie,492,6417,99999,Stany Zjednoczone,False,,,,,,,2016,2017-05-17 00:00:00,79361,Osoby prywatnej,,Benzyna,333,Coupe,Biały,Używane,,Na tylne koła,Automatyczna,2021-04-03 23:43:00
+6080108509,dodge,challenger,Trzebnica,Dolnośląskie,380,5700,147000,Stany Zjednoczone,False,False,,,,,,2019,,33000,Osoby prywatnej,True,Benzyna,,Coupe,Czerwony,Używane,,Na tylne koła,Automatyczna,2021-04-03 20:56:00
+6081688381,dodge,challenger,Świętochłowice,Śląskie,309,3604,61000,Stany Zjednoczone,False,False,,,True,,,2013,2013-01-01 00:00:00,93300,Osoby prywatnej,,Benzyna,235,Coupe,Czarny,Używane,,Na tylne koła,Automatyczna,2021-04-03 19:30:00
+6082790086,dodge,challenger,Poznań,Wielkopolskie,250,3518,59950,,False,False,,,,,,2010,,103000,Firmy,,Benzyna,,Coupe,Czarny,Używane,,Na tylne koła,Automatyczna,2021-04-03 18:22:00
+6083237099,dodge,challenger,Legionowo,Mazowieckie,381,5654,117000,,False,False,,,,,,2017,2020-03-30 00:00:00,108000,Osoby prywatnej,,Benzyna,332,Coupe,Bordowy,Używane,,Na tylne koła,Automatyczna,2021-04-03 17:41:00
+6080132118,dodge,challenger,Krosno,Podkarpackie,381,5700,147600,Stany Zjednoczone,False,,,,True,,,2015,,56000,Osoby prywatnej,,Benzyna+LPG,,Coupe,Czarny,Używane,True,Na tylne koła,Automatyczna,2021-04-03 17:16:00
+6083929412,dodge,challenger,Chocianów,Dolnośląskie,380,5700,47700,Stany Zjednoczone,False,,,,,,,2009,,66000,Osoby prywatnej,,Benzyna,,Coupe,Inny kolor,Używane,,Na tylne koła,Automatyczna,2021-04-03 17:05:00
+6083579287,dodge,challenger,Bilcza,Świętokrzyskie,370,5654,45555,,False,False,,,,,,2013,,97300,Firmy,,Benzyna,,Auta miejskie,Biały,Używane,,Na tylne koła,Automatyczna,2021-04-03 16:56:00
+6079855020,dodge,challenger,Bielsko-Biała,Śląskie,381,5654,153750,Stany Zjednoczone,False,False,True,,True,,,2017,2020-11-06 00:00:00,80000,Osoby prywatnej,,Benzyna,332,Coupe,Czarny,Używane,,Na tylne koła,Automatyczna,2021-04-03 16:36:00
+6083312692,dodge,challenger,Jaworzno,Śląskie,492,6417,109000,Stany Zjednoczone,False,,,,,,,2016,,63595,Firmy,,Benzyna,,Coupe,Czarny,Używane,,,Manualna,2021-04-03 16:20:00
+6082242730,dodge,challenger,Warszawa,Mazowieckie,309,3604,89700,Stany Zjednoczone,False,False,,,,,,2016,,65014,Firmy,,Benzyna,235,Coupe,Czarny,Używane,,Na tylne koła,Automatyczna,2021-04-03 15:39:00
+6083731180,dodge,challenger,Warszawa,Mazowieckie,308,3604,89000,,False,False,,,,,,2015,,134000,Osoby prywatnej,,Benzyna,,Coupe,Czarny,Używane,,Na tylne koła,Automatyczna,2021-04-03 13:16:00
+6082848550,dodge,challenger,Gręzów,Mazowieckie,309,3604,30000,,False,,,,,,,2013,,160000,Firmy,,Benzyna,235,Coupe,Czarny,Używane,,Na tylne koła,Automatyczna,2021-04-03 13:15:00
+6083478701,dodge,challenger,Łódź,Łódzkie,350,5700,99900,,False,False,,,,,,2014,2014-01-01 00:00:00,65000,Firmy,,Benzyna,,Coupe,Czarny,Używane,,Na tylne koła,Automatyczna,2021-04-03 13:01:00
+6079352721,dodge,challenger,Bydgoszcz,Kujawsko-pomorskie,305,3604,121500,Stany Zjednoczone,False,False,,,,,,2019,,6155,Osoby prywatnej,,Benzyna,,Coupe,Czarny,Używane,True,Na tylne koła,Automatyczna,2021-04-03 10:17:00
+6077314513,dodge,challenger,Warszawa,Mazowieckie,305,3600,76999,Stany Zjednoczone,False,,,,,,,2016,,87342,Firmy,,Benzyna,,Coupe,Biały,Używane,,Na tylne koła,Automatyczna,2021-04-03 10:17:00
+6080802061,dodge,challenger,Lublin,Lubelskie,309,3604,82500,Stany Zjednoczone,False,,,,,,,2016,,94000,Osoby prywatnej,,Benzyna,235,Coupe,Szary,Używane,,Na tylne koła,Automatyczna,2021-04-03 08:48:00
+6081096058,dodge,challenger,Mirosławiec,Zachodniopomorskie,381,5654,84000,Stany Zjednoczone,False,False,True,,,,,2014,2015-05-03 00:00:00,161000,Osoby prywatnej,,Benzyna,332,Coupe,Czarny,Używane,True,Na tylne koła,Automatyczna,2021-04-02 23:11:00
+6082565246,dodge,challenger,Lublin,Lubelskie,370,5654,86900,Stany Zjednoczone,False,,,,,,,2012,,105465,Osoby prywatnej,,Benzyna,,Coupe,Czarny,Używane,,Na tylne koła,Automatyczna,2021-04-02 21:00:00
+6083920310,dodge,challenger,Jarocin,Wielkopolskie,306,3600,122000,,False,False,,,,,,2017,,28000,Osoby prywatnej,,Benzyna,,Coupe,Biały,Używane,True,4x4 (dołączany automatycznie),Automatyczna,2021-04-02 19:58:00
+6083457647,dodge,challenger,Warszawa,Mazowieckie,372,5700,82000,,False,,,,,,,2015,,85700,Firmy,,Benzyna,,Coupe,Czarny,Używane,,Na tylne koła,Automatyczna,2021-04-02 19:57:00
+6083711736,dodge,challenger,Warszawa,Mazowieckie,309,3604,43900,,False,,,,,,,2016,,51736,Firmy,,Benzyna,235,Coupe,Szary,Używane,,Na tylne koła,Automatyczna,2021-04-02 19:12:00
+6083919377,dodge,challenger,Małecz,Łódzkie,381,5654,78000,Stany Zjednoczone,False,False,,,,,,2013,2013-01-01 00:00:00,207000,Osoby prywatnej,,Benzyna,332,Coupe,Beżowy,Używane,,Na tylne koła,Automatyczna,2021-04-02 19:03:00
+6083914837,dodge,challenger,Warszawa,Mazowieckie,372,5654,123999,Stany Zjednoczone,False,False,,,,,,2017,2017-04-04 00:00:00,59000,Osoby prywatnej,,Benzyna,,Coupe,Szary,Używane,True,Na tylne koła,Automatyczna,2021-04-02 18:29:00
+6077810998,dodge,challenger,Łódź,Łódzkie,475,6417,369000,,False,,True,,,,,2020,,20,Firmy,,Benzyna,,Coupe,Czarny,Nowe,,Na tylne koła,Automatyczna,2021-04-02 17:42:00
+6083098494,dodge,challenger,Dziekanów Polski,Mazowieckie,309,3604,43500,Stany Zjednoczone,False,,,,,,,2016,,113227,Firmy,,Benzyna,235,Coupe,Szary,Używane,,Na tylne koła,Automatyczna,2021-04-02 16:20:00
+6083912603,dodge,challenger,Elbląg,Warmińsko-mazurskie,376,5654,109000,,False,False,,,,,,2015,,82000,Firmy,,Benzyna,,Coupe,Biały,Używane,,Na tylne koła,Automatyczna,2021-04-02 15:43:00
+6077812670,dodge,challenger,Siedlce,Mazowieckie,309,3600,73000,Stany Zjednoczone,False,False,True,,True,,,2016,,76000,Osoby prywatnej,,Benzyna,,Coupe,Szary,Używane,,Na tylne koła,Automatyczna,2021-04-02 15:39:00
+6082435062,dodge,challenger,Zamość,Lubelskie,492,6417,95000,Stany Zjednoczone,False,False,,,,,,2012,,148500,Osoby prywatnej,,Benzyna,333,Coupe,Czarny,Używane,,Na tylne koła,Automatyczna,2021-04-02 14:27:00
+6083533719,dodge,challenger,Gdańsk,Pomorskie,372,5654,105000,,False,False,,,,,,2014,,106000,Osoby prywatnej,,Benzyna,,Coupe,Biały,Używane,True,Na tylne koła,Automatyczna,2021-04-02 13:51:00
+6079768477,dodge,challenger,Andrychów,Małopolskie,797,6166,99999,,False,False,True,,,,,2019,,16500,Osoby prywatnej,,Benzyna,,Coupe,Biały,Używane,,Na tylne koła,Automatyczna,2021-04-02 13:35:00
+6081218259,dodge,challenger,Bydgoszcz,Kujawsko-pomorskie,309,3604,76900,,False,False,,,True,,,2015,2015-01-07 00:00:00,76200,Osoby prywatnej,,Benzyna,235,Coupe,Czarny,Używane,,Na tylne koła,Automatyczna,2021-04-02 12:56:00
+6083906617,dodge,challenger,Warszawa,Mazowieckie,707,6166,240000,,False,,,,,,,2015,,64200,Osoby prywatnej,,Benzyna,,Coupe,Niebieski,Używane,,,Automatyczna,2021-04-02 12:42:00
+6083450886,dodge,challenger,Bytom,Śląskie,492,6417,139000,Stany Zjednoczone,False,,,,,,,2020,,2716,Firmy,,Benzyna,333,Coupe,Czarny,Używane,,Na tylne koła,Automatyczna,2021-04-02 12:18:00
+6083694565,dodge,challenger,Szczytno,Warmińsko-mazurskie,381,5654,134900,Stany Zjednoczone,False,False,,,,,,2016,,31000,Osoby prywatnej,,Benzyna,,Coupe,Fioletowy,Używane,,Na tylne koła,Manualna,2021-04-02 11:41:00
+6080597874,dodge,challenger,Długołęka,Dolnośląskie,492,6417,368699,,False,,True,,,,,2020,,20,Firmy,True,Benzyna,333,Coupe,Czarny,Nowe,,Na tylne koła,Automatyczna,2021-04-02 10:31:00
+6079720611,dodge,challenger,Augustów,Podlaskie,309,3604,60000,,False,,,,,,,2015,2015-01-01 00:00:00,250000,Osoby prywatnej,,Benzyna,235,Coupe,Szary,Używane,,Na tylne koła,Automatyczna,2021-04-02 08:00:00
+6080451656,dodge,challenger,Wojnicz,Małopolskie,380,5700,75900,Stany Zjednoczone,False,,,,,,,2014,,132757,Firmy,,Benzyna,,Coupe,Szary,Używane,,Na tylne koła,Automatyczna,2021-04-02 06:46:00
+6083447715,dodge,challenger,Bytom,Śląskie,309,3604,43500,Stany Zjednoczone,False,,,,,,,2016,,120895,Firmy,,Benzyna,235,Coupe,Szary,Używane,,Na tylne koła,Automatyczna,2021-04-02 01:20:00
+6083057993,dodge,challenger,Warszawa,Mazowieckie,305,3604,62300,Stany Zjednoczone,False,,,,True,,,2019,,7320,Firmy,,Benzyna,235,Coupe,Niebieski,Używane,,4x4 (stały),Automatyczna,2021-04-01 23:17:00
+6083057895,dodge,challenger,Warszawa,Mazowieckie,372,5654,97400,Stany Zjednoczone,False,,,,True,,,2020,,10371,Firmy,,Benzyna,333,Coupe,Niebieski,Używane,,Na tylne koła,Automatyczna,2021-04-01 23:11:00
+6074522189,dodge,challenger,Pyskowice,Śląskie,710,6200,244999,Inny,False,,True,,True,,,2015,,55000,Firmy,,Benzyna,,Coupe,Biały,Używane,True,Na tylne koła,Automatyczna,2021-04-01 21:24:00
+6083514565,dodge,challenger,Dąbrowa Białostocka,Podlaskie,304,3564,98000,Stany Zjednoczone,False,False,,,,,,2017,,51000,Osoby prywatnej,,Benzyna,235,Coupe,Czarny,Używane,True,Na tylne koła,Automatyczna,2021-04-01 21:13:00
+6083512397,dodge,challenger,Katowice,Śląskie,370,5654,75000,,False,False,,,,,,2010,,125000,Osoby prywatnej,,Benzyna,,Coupe,Niebieski,Używane,,Na tylne koła,Automatyczna,2021-04-01 20:44:00
+6082425101,dodge,challenger,Wrocław,Dolnośląskie,492,6417,324990,Polska,False,,True,,,,,2020,,26,Firmy,,Benzyna,333,Coupe,Niebieski,Nowe,,Na tylne koła,Automatyczna,2021-04-01 20:29:00
+6083206804,dodge,challenger,Piaseczno,Mazowieckie,400,5700,95999,,False,False,,,True,,,2014,,230,Osoby prywatnej,,Benzyna,,Coupe,Czarny,Używane,True,,Automatyczna,2021-04-01 20:06:00
+6083888751,dodge,challenger,Mińsk Mazowiecki,Mazowieckie,305,3604,43500,Stany Zjednoczone,False,,,,,,,2017,,114500,Firmy,,Benzyna,,Coupe,Szary,Używane,,Na tylne koła,Automatyczna,2021-04-01 18:20:00
+6080040747,dodge,challenger,Warszawa,Mazowieckie,492,6417,293970,Polska,False,False,True,,True,,,2019,,9000,Firmy,True,Benzyna,333,Coupe,Czarny,Używane,True,Na tylne koła,Automatyczna,2021-04-01 17:38:00
+6079352969,dodge,challenger,Warszawa,Mazowieckie,492,6417,309900,Polska,False,,True,,,,,2020,,30,Firmy,True,Benzyna,,Coupe,Srebrny,Nowe,,Na tylne koła,Automatyczna,2021-04-01 17:37:00
+6083236516,dodge,challenger,Poznań,Wielkopolskie,305,3604,111700,Stany Zjednoczone,False,False,,,,,,2019,2019-01-01 00:00:00,22400,Osoby prywatnej,,Benzyna,,Coupe,Inny kolor,Używane,True,Na tylne koła,Automatyczna,2021-04-01 17:06:00
+6074982403,dodge,challenger,Zagościniec,Mazowieckie,305,3604,119900,Stany Zjednoczone,False,False,,,,,,2019,,13500,Osoby prywatnej,,Benzyna,,Coupe,Bordowy,Używane,True,Na tylne koła,Automatyczna,2021-04-01 16:33:00
+6083235222,dodge,challenger,Warszawa,Mazowieckie,425,6100,65000,,False,,,,,,,2009,,108000,Firmy,,Benzyna,,Coupe,Czarny,Używane,,Na tylne koła,Automatyczna,2021-04-01 15:41:00
+6083186728,dodge,challenger,Łódź,Łódzkie,309,3604,93000,Stany Zjednoczone,False,,,,,,,2016,2016-01-01 00:00:00,65000,Osoby prywatnej,,Benzyna,235,Coupe,Biały,Używane,,Na tylne koła,Automatyczna,2021-04-01 14:02:00
+6066831679,dodge,challenger,Chrzanów,Małopolskie,370,5654,88999,,False,False,,,,,,2010,,60000,Firmy,,Benzyna,,Coupe,Czarny,Używane,True,Na tylne koła,Automatyczna,2021-04-01 09:29:00
+6082885575,dodge,challenger,Kraków,Małopolskie,309,3600,65000,Stany Zjednoczone,False,False,,,,,,2014,,111500,Osoby prywatnej,,Benzyna,,Coupe,Czarny,Używane,,Na tylne koła,Automatyczna,2021-04-01 09:19:00
+6080899657,dodge,challenger,Zdzieszowice,Opolskie,717,6166,287000,Stany Zjednoczone,False,,,,,,,2017,,11600,Osoby prywatnej,,Benzyna,388,Coupe,Szary,Używane,,Na tylne koła,Automatyczna,2021-04-01 09:12:00
+6079921496,dodge,challenger,Piekary Śląskie,Śląskie,730,6200,300000,Stany Zjednoczone,False,False,,,,,,2015,,24500,Osoby prywatnej,,Benzyna,,Coupe,Biały,Używane,,Na tylne koła,Manualna,2021-04-01 07:43:00
+6077258603,dodge,challenger,Zielona Góra,Lubuskie,380,5700,119900,Stany Zjednoczone,False,,,,,,,2018,2020-06-01 00:00:00,19117,Osoby prywatnej,,Benzyna,,Coupe,Biały,Używane,,Na tylne koła,Automatyczna,2021-03-31 21:59:00
+6083458776,dodge,challenger,Radom,Mazowieckie,305,3604,169000,,False,False,,,True,,,2020,,2850,Osoby prywatnej,,Benzyna,,Coupe,Srebrny,Używane,True,4x4 (stały),Automatyczna,2021-03-31 21:54:00
+6083427589,dodge,challenger,Gręzów,Mazowieckie,381,5654,56000,,False,,,,,,,2017,,60000,Firmy,,Benzyna,332,Coupe,Czerwony,Używane,,Na tylne koła,Automatyczna,2021-03-31 21:05:00
+6083020049,dodge,challenger,Warszawa,Mazowieckie,305,3604,44500,Stany Zjednoczone,False,,,,,,,2016,,64000,Firmy,,Benzyna,,Coupe,Czarny,Używane,,Na tylne koła,Automatyczna,2021-03-31 20:14:00
+6083425520,dodge,challenger,Ochaby Małe,Śląskie,306,3600,69900,Stany Zjednoczone,False,False,True,,True,,,2015,2015-06-15 00:00:00,68300,Firmy,True,Benzyna,,Coupe,Biały,Używane,True,Na tylne koła,Automatyczna,2021-03-31 19:09:00
+6083456167,dodge,challenger,Tomaszów Mazowiecki,Łódzkie,309,3600,66000,Stany Zjednoczone,False,,,,True,,,2015,,149000,Osoby prywatnej,,Benzyna,,Coupe,Szary,Używane,,Na tylne koła,Automatyczna,2021-03-31 18:13:00
+6077608091,dodge,challenger,Warszawa,Mazowieckie,717,6166,439900,Polska,False,,True,,,,,2019,,10,Firmy,,Benzyna,,Coupe,Czarny,Nowe,,Na tylne koła,Automatyczna,2021-03-31 16:02:00
+6083160229,dodge,challenger,Secemin,Świętokrzyskie,492,6417,135000,,False,,,,,,,2020,,2717,Firmy,,Benzyna,333,Coupe,Czarny,Używane,,Na tylne koła,Automatyczna,2021-03-31 13:49:00
+6082799235,dodge,challenger,Kwidzyn,Pomorskie,305,3604,92000,Stany Zjednoczone,False,,,,,,,2019,2019-01-01 00:00:00,17700,Firmy,,Benzyna,,Coupe,Zielony,Używane,,4x4 (dołączany automatycznie),Automatyczna,2021-03-31 13:30:00
+6075752415,dodge,challenger,Warszawa,Mazowieckie,309,3605,79000,,False,,,,,,,2016,,112000,Osoby prywatnej,,Benzyna,,Coupe,Srebrny,Używane,,Na tylne koła,Automatyczna,2021-03-31 10:29:00
+6081460573,dodge,challenger,Warszawa,Mazowieckie,305,3604,166050,,False,,,,,,,2019,2020-01-01 00:00:00,19000,Osoby prywatnej,,Benzyna,,Coupe,Czarny,Używane,,4x4 (dołączany automatycznie),Automatyczna,2021-03-30 18:08:00
+6083123481,dodge,challenger,Zduńska Wola,Łódzkie,477,6417,135000,,False,,,,,,,2015,,63000,Osoby prywatnej,,Benzyna,,Coupe,Niebieski,Używane,,Na tylne koła,Manualna,2021-03-30 15:47:00
+6083797120,dodge,challenger,Rawicz,Wielkopolskie,306,3604,64000,Stany Zjednoczone,False,False,,,,,,2014,2014-01-01 00:00:00,153200,Osoby prywatnej,,Benzyna,,Coupe,Czarny,Używane,,Na tylne koła,Automatyczna,2021-03-30 13:42:00
+6082675371,dodge,challenger,Sierakowice,Pomorskie,309,3604,105000,,False,,,,,,,2015,,145000,Firmy,,Benzyna,235,Coupe,Niebieski,Używane,,Na tylne koła,Automatyczna,2021-03-30 13:24:00
+6083437044,dodge,challenger,Kłodawa,Wielkopolskie,309,3604,89000,Stany Zjednoczone,False,False,,,,,,2017,2020-11-19 00:00:00,59000,Osoby prywatnej,,Benzyna,235,Coupe,Niebieski,Używane,,Na tylne koła,Automatyczna,2021-03-30 12:52:00
+6080287299,dodge,challenger,Sopot,Pomorskie,492,6417,270600,,False,,,,,,,2019,,19000,Osoby prywatnej,,Benzyna,,Coupe,Srebrny,Używane,True,,Manualna,2021-03-30 11:16:00
+6083427562,dodge,challenger,Brzezinka,Małopolskie,309,3604,61500,Stany Zjednoczone,False,False,,,,,,2014,2014-01-01 00:00:00,199000,Firmy,,Benzyna,,Coupe,Beżowy,Używane,,Na tylne koła,Automatyczna,2021-03-29 21:21:00
+6083427036,dodge,challenger,Sosnowiec,Śląskie,465,5700,126900,,False,,,,,,,2015,,45000,Osoby prywatnej,,Benzyna,,Coupe,Szary,Używane,,Na tylne koła,Automatyczna,2021-03-29 20:05:00
+6083420402,dodge,challenger,Korwinów,Śląskie,381,5654,88000,,False,,,,,,,2018,,50000,Firmy,,Benzyna,332,Coupe,Czerwony,Używane,,Na tylne koła,Automatyczna,2021-03-29 16:24:00
+6079761578,dodge,challenger,Kraków,Małopolskie,492,6417,365900,,False,,True,,,,,2020,,10,Firmy,,Benzyna,,Coupe,Inny kolor,Nowe,,Na tylne koła,Automatyczna,2021-03-29 15:53:00
+6083767193,dodge,challenger,Michałowice,Mazowieckie,308,3604,69900,Stany Zjednoczone,False,False,,,,,,2014,,89024,Firmy,,Benzyna,,Coupe,Niebieski,Używane,,Na tylne koła,Automatyczna,2021-03-29 15:21:00
+6083765316,dodge,challenger,Dziekanów Polski,Mazowieckie,305,3604,36500,Stany Zjednoczone,False,,,,,,,2016,,112569,Firmy,,Benzyna,,Coupe,Szary,Używane,,Na tylne koła,Automatyczna,2021-03-29 14:20:00
+6083747619,dodge,challenger,Poznań,Wielkopolskie,304,3604,81900,,False,False,,,,,,2015,2015-06-05 00:00:00,80000,Osoby prywatnej,,Benzyna,,Coupe,Szary,Używane,,Na tylne koła,Automatyczna,2021-03-28 21:52:00
+6073641633,dodge,challenger,Lidzbark Warmiński,Warmińsko-mazurskie,372,5654,170000,Stany Zjednoczone,False,False,,,,,,2019,,12000,Osoby prywatnej,,Benzyna,,Coupe,Szary,Używane,True,Na tylne koła,Automatyczna,2021-03-28 21:22:00
+6083743041,dodge,challenger,Myszków,Śląskie,309,3604,95000,,False,,,,,,,2016,,76000,Osoby prywatnej,,Benzyna,235,Coupe,Szary,Używane,True,Na tylne koła,Automatyczna,2021-03-28 19:16:00
+6078303286,dodge,challenger,Wrocław,Dolnośląskie,309,3600,70000,,False,False,,,,,,2015,,115000,Osoby prywatnej,,Benzyna,,Coupe,Czarny,Używane,,Na tylne koła,Automatyczna,2021-03-28 18:47:00
+6082278825,dodge,challenger,Lublin,Lubelskie,309,3604,103000,Inny,False,False,,,,,,2018,2018-01-01 00:00:00,4200,Osoby prywatnej,,Benzyna,235,Coupe,Czarny,Używane,True,Na tylne koła,Automatyczna,2021-03-28 15:19:00
+6081123183,dodge,challenger,Imielin,Śląskie,309,3604,99900,,False,,,,,,,2018,2018-01-01 00:00:00,20000,Osoby prywatnej,,Benzyna,235,Coupe,Biały,Używane,,Na tylne koła,Automatyczna,2021-03-28 11:27:00
+6080831674,dodge,challenger,Aleksandrów Łódzki,Łódzkie,381,5654,139000,Stany Zjednoczone,False,False,,,,,,2018,,18900,Osoby prywatnej,,Benzyna,,Coupe,Czarny,Używane,,Na tylne koła,Manualna,2021-03-27 20:50:00
+6083019869,dodge,challenger,Warszawa,Mazowieckie,370,5654,75000,,False,False,,,,,,2010,2010-10-28 00:00:00,140000,Osoby prywatnej,,Benzyna,,Coupe,Biały,Używane,,Na tylne koła,Automatyczna,2021-03-27 20:11:00
+6083708758,dodge,challenger,Pieńkowo,Zachodniopomorskie,370,5654,109900,,False,False,,,True,,,2013,,81000,Firmy,,Benzyna,,Coupe,Czarny,Używane,,Na tylne koła,Automatyczna,2021-03-27 17:36:00
+6082990041,dodge,challenger,Długołęka,Dolnośląskie,309,3604,109900,Stany Zjednoczone,False,False,,,,,,2018,2018-01-01 00:00:00,9000,Firmy,,Benzyna,235,Coupe,Czarny,Używane,,Na tylne koła,Automatyczna,2021-03-26 19:15:00
+6083645025,dodge,challenger,Kraków,Małopolskie,475,6417,55000,,False,,,,,,,2016,,40521,Firmy,,Benzyna,,Coupe,Szary,Używane,,Na tylne koła,Automatyczna,2021-03-26 10:12:00
+6083644552,dodge,challenger,Kraków,Małopolskie,717,6166,79000,,False,,,,,,,2016,,62320,Firmy,,Benzyna,,Coupe,Biały,Używane,,Na tylne koła,Automatyczna,2021-03-26 09:48:00
+6077909702,dodge,challenger,Kraków,Małopolskie,370,5654,28000,Stany Zjednoczone,False,,,,,,,2012,,154344,Firmy,,Benzyna,,Coupe,Czarny,Używane,,Na tylne koła,Automatyczna,2021-03-24 07:56:00
+6082216986,dodge,challenger,Częstochowa,Śląskie,305,3604,93900,Stany Zjednoczone,False,False,,,,,,2017,,91000,Firmy,,Benzyna,,Coupe,Szary,Używane,,4x4 (dołączany automatycznie),Automatyczna,2021-03-23 15:05:00
+6083001758,dodge,challenger,Przeźmierowo,Wielkopolskie,308,3605,64900,,False,False,,,,,,2013,,125000,Firmy,,Benzyna,,Coupe,Biały,Używane,,Na tylne koła,Automatyczna,2021-03-23 11:04:00
+,dodge,challenger,Kamionki,Wielkopolskie,,,,,False,,,,,,,,,,,,,,,,,,,,
+6078716233,dodge,charger,Kwidzyn,Pomorskie,345,5654,45000,Stany Zjednoczone,False,False,,,,,,2010,,146579,Osoby prywatnej,,Benzyna+LPG,,Sedan,Inny kolor,Używane,,Na tylne koła,Automatyczna,2021-04-06 11:18:00
+6074346578,dodge,charger,Katowice,Śląskie,292,3600,85000,Stany Zjednoczone,False,False,,,,,,2015,2015-01-01 00:00:00,96000,Osoby prywatnej,,Benzyna,,Sedan,Czarny,Używane,,4x4 (stały),Automatyczna,2021-04-04 21:16:00
+6083737163,dodge,charger,Ostrowiec Świętokrzyski,Świętokrzyskie,492,6417,205000,Stany Zjednoczone,False,False,,,,,,2019,,26000,Osoby prywatnej,,Benzyna,,Sedan,Czarny,Używane,,Na tylne koła,Automatyczna,2021-04-03 16:57:00
+6082759058,dodge,charger,Zamość,Lubelskie,304,3604,82000,,False,,,,,,,2015,,77500,Osoby prywatnej,,Benzyna,,Sedan,Niebieski,Używane,,Na tylne koła,Automatyczna,2021-04-02 17:52:00
+6082799891,dodge,charger,Tychy,Śląskie,190,2736,26000,,False,,,,,,,2006,,188000,Osoby prywatnej,,Benzyna+LPG,,Sedan,Szary,Używane,,Na tylne koła,Automatyczna,2021-03-31 19:03:00
+6083702425,dodge,charger,Bystrzyca Kłodzka,Dolnośląskie,345,5700,30900,,False,,,,,,,2005,,145000,Osoby prywatnej,,Benzyna+LPG,,Sedan,Inny kolor,Używane,,Na tylne koła,Automatyczna,2021-04-06 14:10:00
+6078697788,dodge,charger,Warszawa,Mazowieckie,296,3604,79900,Stany Zjednoczone,False,False,,,,,,2015,,78000,Firmy,,Benzyna,,Sedan,Biały,Używane,,,Automatyczna,2021-04-06 12:34:00
+6083395789,dodge,charger,Gniezno,Wielkopolskie,370,5654,109470,Stany Zjednoczone,False,,,,,,,2017,,151000,Osoby prywatnej,True,Benzyna,333,Sedan,Czarny,Używane,,Na tylne koła,Automatyczna,2021-04-06 00:10:00
+6083196475,dodge,charger,Warszawa,Mazowieckie,370,5654,34500,Stany Zjednoczone,False,,,,,,,2014,,155826,Firmy,,Benzyna,,Sedan,Czarny,Używane,,4x4 (stały),Automatyczna,2021-04-06 00:02:00
+6083196889,dodge,charger,Warszawa,Mazowieckie,370,5654,88200,Stany Zjednoczone,False,,,,,,,2020,,4365,Firmy,,Benzyna,270,Sedan,Czarny,Używane,,Na tylne koła,Automatyczna,2021-04-06 00:02:00
+6083590470,dodge,charger,Daleszynek,Wielkopolskie,305,3604,39000,Stany Zjednoczone,False,,,,,,,2016,,149700,Firmy,,Benzyna,270,Sedan,Srebrny,Używane,,Na tylne koła,Automatyczna,2021-04-05 22:49:00
+6083208841,dodge,charger,Łomazy,Lubelskie,305,3604,25900,Stany Zjednoczone,False,,,,,,,2013,,152092,Firmy,,Benzyna,270,Sedan,Biały,Używane,,Na tylne koła,Automatyczna,2021-04-05 22:02:00
+6082365614,dodge,charger,Warszawa,Mazowieckie,492,6417,369900,Polska,False,,True,,,,,2021,,23,Firmy,,Benzyna,,Sedan,Szary,Nowe,,Na tylne koła,Automatyczna,2021-04-05 18:17:00
+6083384078,dodge,charger,Ciemne,Mazowieckie,492,6417,69850,,False,,,,,,,2018,,39927,Firmy,,Benzyna,333,Sedan,Zielony,Używane,,Na tylne koła,Automatyczna,2021-04-05 17:20:00
+6083949089,dodge,charger,Czerniewo,Pomorskie,305,3604,53000,,False,False,,,,,,2011,,256000,Osoby prywatnej,,Benzyna,270,Sedan,Biały,Używane,,Na tylne koła,Automatyczna,2021-04-05 16:29:00
+6083311446,dodge,charger,Secemin,Świętokrzyskie,492,6417,125000,,False,,,,,,,2020,,7195,Firmy,,Benzyna,333,Sedan,Biały,Używane,,Na tylne koła,Automatyczna,2021-04-05 16:00:00
+6078719541,dodge,charger,Suszec,Śląskie,380,5700,62000,,False,False,True,,,,,2012,,225100,Osoby prywatnej,,Benzyna+LPG,,Sedan,Biały,Używane,,Na tylne koła,Automatyczna,2021-04-05 15:54:00
+6083375442,dodge,charger,Dziekanów Polski,Mazowieckie,305,3604,48500,,False,,,,,,,2018,,55837,Firmy,,Benzyna,270,Sedan,Czarny,Używane,,Na tylne koła,Automatyczna,2021-04-05 14:50:00
+6082697494,dodge,charger,Wrocław,Dolnośląskie,492,6417,379990,Polska,False,,True,,,,,2020,,20,Firmy,,Benzyna,333,Sedan,Szary,Nowe,,Na tylne koła,Automatyczna,2021-04-05 14:26:00
+6081565645,dodge,charger,Rybnik,Śląskie,717,6166,239000,Stany Zjednoczone,False,False,,,,,,2016,,61000,Osoby prywatnej,True,Benzyna,394,Sedan,Szary,Używane,True,Na tylne koła,Automatyczna,2021-04-05 10:58:00
+6083293045,dodge,charger,Poznań,Wielkopolskie,250,3518,27999,,False,,,,,,,2008,,290000,Osoby prywatnej,,Benzyna+LPG,,Sedan,Szary,Używane,,Na tylne koła,Automatyczna,2021-04-05 10:30:00
+6083181114,dodge,charger,Olsztyn,Warmińsko-mazurskie,717,6166,389000,Polska,False,,True,,,,,2019,2019-05-21 00:00:00,12750,Firmy,True,Benzyna,394,Sedan,Biały,Używane,True,Na tylne koła,Automatyczna,2021-04-05 09:54:00
+6081570102,dodge,charger,Lublin,Lubelskie,707,6166,278500,,False,False,,,,,,2019,,15000,Osoby prywatnej,,Benzyna,,Sedan,Czarny,Używane,,Na tylne koła,Automatyczna,2021-04-04 20:48:00
+6078508487,dodge,charger,Inowrocław,Kujawsko-pomorskie,388,5700,79800,Stany Zjednoczone,False,False,True,,True,,,2014,,112300,Firmy,,Benzyna,,Sedan,Inny kolor,Używane,True,Na tylne koła,Automatyczna,2021-04-04 18:47:00
+6083942456,dodge,charger,Bobowicko,Lubuskie,305,3604,85000,,False,,,,,,,2015,,105000,Osoby prywatnej,,Benzyna,270,Sedan,Szary,Używane,,Na tylne koła,Automatyczna,2021-04-04 18:45:00
+6083350092,dodge,charger,Gręzów,Mazowieckie,305,3604,43500,,False,,,,,,,2016,,115000,Firmy,,Benzyna,270,Sedan,Niebieski,Używane,,Na tylne koła,Automatyczna,2021-04-04 17:27:00
+6083768965,dodge,charger,Lesznowola,Mazowieckie,250,3518,28900,Niemcy,False,False,True,,True,,,2006,2006-01-01 00:00:00,148477,Firmy,,Benzyna+LPG,,Sedan,Inny kolor,Używane,,Na tylne koła,Automatyczna,2021-04-04 16:21:00
+6083941181,dodge,charger,Białystok,Podlaskie,292,3604,79000,Stany Zjednoczone,False,False,,,,,,2015,2021-03-31 00:00:00,118400,Osoby prywatnej,,Benzyna,,Sedan,Biały,Używane,,Na tylne koła,Automatyczna,2021-04-04 16:00:00
+6079128615,dodge,charger,Warszawa,Mazowieckie,492,6417,334900,Polska,False,,True,,,,,2020,,23,Firmy,,Benzyna,,Sedan,Czarny,Nowe,,Na tylne koła,Automatyczna,2021-04-04 15:46:00
+6079274881,dodge,charger,Grajewo,Podlaskie,385,5700,97800,Stany Zjednoczone,False,False,,,,,,2016,,88350,Osoby prywatnej,,Benzyna,,Sedan,Bordowy,Używane,,Na tylne koła,Automatyczna,2021-04-04 14:32:00
+6083159359,dodge,charger,Warszawa,Mazowieckie,492,6417,100000,,False,,,,,,,2018,,59000,Firmy,,Benzyna,333,Sedan,Biały,Używane,,Na tylne koła,Automatyczna,2021-04-04 13:23:00
+6075715342,dodge,charger,Wrocław,Dolnośląskie,300,3604,38900,,False,,,,,,,2019,,14279,Firmy,,Benzyna,,Sedan,Szary,Używane,,Na tylne koła,Automatyczna,2021-04-04 13:18:00
+6082561779,dodge,charger,Tuszyn,Łódzkie,381,5654,63900,Stany Zjednoczone,False,False,,,,,,2012,2012-01-01 00:00:00,213000,Osoby prywatnej,,Benzyna,,Sedan,Czarny,Używane,,Na tylne koła,Automatyczna,2021-04-04 10:18:00
+6079888169,dodge,charger,Giebułtów,Małopolskie,375,5700,67900,Stany Zjednoczone,False,False,,,,,,2013,2013-01-01 00:00:00,168800,Osoby prywatnej,,Benzyna,,Sedan,Srebrny,Używane,,4x4 (dołączany automatycznie),Automatyczna,2021-04-04 09:45:00
+6079353458,dodge,charger,Płock,Mazowieckie,380,5698,107008,,False,False,,,True,,,2016,,95455,Osoby prywatnej,True,Benzyna,,Sedan,Czarny,Używane,,Na tylne koła,Automatyczna,2021-04-03 23:01:00
+6078085774,dodge,charger,Ostrzeszów,Wielkopolskie,296,3604,74999,Stany Zjednoczone,False,False,True,,,,,2015,,123000,Osoby prywatnej,,Benzyna,,Sedan,Szary,Używane,,Na tylne koła,Automatyczna,2021-04-03 21:13:00
+6083227449,dodge,charger,Warszawa,Mazowieckie,250,3518,45000,,False,False,True,,,,,2008,,168000,Osoby prywatnej,,Benzyna,,Sedan,Czarny,Używane,,,Automatyczna,2021-04-03 19:39:00
+6083933615,dodge,charger,Zgierz,Łódzkie,300,3604,74900,Stany Zjednoczone,False,False,,,,,,2017,,95000,Osoby prywatnej,,Benzyna,,Sedan,Brązowy,Używane,,Na tylne koła,Automatyczna,2021-04-03 19:35:00
+6079528100,dodge,charger,Wrocław,Dolnośląskie,492,6417,364990,Polska,False,,True,,,,,2020,,20,Firmy,,Benzyna,333,Sedan,Zielony,Nowe,,Na tylne koła,Automatyczna,2021-04-03 18:00:00
+6083930453,dodge,charger,Mysłowice,Śląskie,233,5200,54900,,False,,,,,,,1966,,100000,Osoby prywatnej,,Benzyna,,Coupe,Czerwony,Używane,,Na tylne koła,Automatyczna,2021-04-03 16:44:00
+6083572805,dodge,charger,Secemin,Świętokrzyskie,292,3604,55900,,False,,,,,,,2019,,67200,Firmy,,Benzyna,,Sedan,Szary,Używane,,4x4 (stały),Automatyczna,2021-04-03 15:21:00
+6082246451,dodge,charger,Banino,Pomorskie,250,3518,39999,,False,,,,,,,2007,,340000,Firmy,,Benzyna,,Sedan,Żółty,Używane,,Na tylne koła,Automatyczna,2021-04-03 15:20:00
+6078978971,dodge,charger,Jaworzno,Śląskie,717,6166,219000,Stany Zjednoczone,False,False,,,,,,2016,2016-01-01 00:00:00,21600,Osoby prywatnej,,Benzyna,,Sedan,Fioletowy,Używane,,Na tylne koła,Automatyczna,2021-04-03 12:41:00
+6081557992,dodge,charger,Lublin,Lubelskie,296,3600,32000,Kanada,False,,True,,True,,,2011,,206731,Firmy,,Benzyna,,Sedan,Szary,Używane,,Na tylne koła,Automatyczna,2021-04-03 12:16:00
+6082896364,dodge,charger,Katowice,Śląskie,370,5654,89999,Stany Zjednoczone,False,False,,,,,,2017,,152400,Osoby prywatnej,,Benzyna,,Sedan,Czarny,Używane,,Na tylne koła,Automatyczna,2021-04-03 10:47:00
+6078210760,dodge,charger,Warszawa,Mazowieckie,492,6400,185000,,False,False,,,,,,2018,,28000,Firmy,,Benzyna,,Sedan,Inny kolor,Używane,,Na tylne koła,Automatyczna,2021-04-02 23:44:00
+6083051891,dodge,charger,Łochów,Mazowieckie,290,5200,145000,Stany Zjednoczone,False,False,True,,,,,1973,1973-01-01 00:00:00,2000,Osoby prywatnej,,Benzyna,,Coupe,Niebieski,Używane,,Na tylne koła,Automatyczna,2021-04-02 19:59:00
+6082917918,dodge,charger,Strobice,Opolskie,250,3518,49999,,False,False,,,,,,2011,,150000,Firmy,,Benzyna,,Sedan,Inny kolor,Używane,,Na tylne koła,Automatyczna,2021-04-02 19:45:00
+6083225567,dodge,charger,Piła,Wielkopolskie,345,5654,94000,,False,False,,,,,,2015,,126000,Osoby prywatnej,,Benzyna,,Sedan,Niebieski,Używane,True,Na tylne koła,Automatyczna,2021-04-02 19:28:00
+6083711850,dodge,charger,Świecie,Kujawsko-pomorskie,374,5700,68880,Polska,False,False,True,,,,,2013,2013-01-01 00:00:00,190000,Osoby prywatnej,,Benzyna,,Sedan,Szary,Używane,True,Na tylne koła,Automatyczna,2021-04-02 19:20:00
+6083457028,dodge,charger,Lublin,Lubelskie,375,5654,57500,Stany Zjednoczone,False,False,,,,,,2012,2012-01-01 00:00:00,204000,Osoby prywatnej,,Benzyna+LPG,333,Sedan,Biały,Używane,,Na tylne koła,Automatyczna,2021-04-02 19:12:00
+6083451050,dodge,charger,Bytom,Śląskie,492,6417,79900,,False,,,,,,,2017,,112420,Firmy,,Benzyna,333,Sedan,Biały,Używane,,Na tylne koła,Automatyczna,2021-04-02 12:28:00
+6082888543,dodge,charger,Poznań,Wielkopolskie,492,6417,165000,,False,,,,,,,2017,0020-07-05 00:00:00,77811,Osoby prywatnej,,Benzyna,333,Sedan,Szary,Używane,,Na tylne koła,Automatyczna,2021-04-02 08:46:00
+6083499830,dodge,charger,Warszawa,Mazowieckie,292,3604,56500,,False,False,,,,,,2013,,189900,Osoby prywatnej,,Benzyna,,Sedan,Szary,Używane,,Na tylne koła,Automatyczna,2021-04-01 16:47:00
+6079777001,dodge,charger,Jelenia Góra,Dolnośląskie,492,6417,185000,Stany Zjednoczone,False,False,,,,,,2018,,62600,Osoby prywatnej,,Benzyna,333,Sedan,Czarny,Używane,,Na tylne koła,Automatyczna,2021-04-01 16:19:00
+6079761337,dodge,charger,Kraków,Małopolskie,305,3600,63900,Stany Zjednoczone,False,False,,,,,,2014,,87000,Osoby prywatnej,,Benzyna,,Sedan,Czarny,Używane,,4x4 (dołączany automatycznie),Automatyczna,2021-04-01 15:28:00
+6079788681,dodge,charger,Mysłowice,Śląskie,233,5200,155000,,False,,,,,,,1970,,100000,Osoby prywatnej,,Benzyna,,Coupe,Brązowy,Używane,,Na tylne koła,Automatyczna,2021-04-01 14:02:00
+6080589545,dodge,charger,Warszawa,Mazowieckie,305,3604,79999,Stany Zjednoczone,False,False,,,,,,2016,,98000,Firmy,,Benzyna,270,Sedan,Szary,Używane,,4x4 (dołączany automatycznie),Automatyczna,2021-04-01 13:31:00
+6083437492,dodge,charger,Gręzów,Mazowieckie,370,5654,32500,,False,,,,,,,2014,,160000,Firmy,,Benzyna,,Sedan,Srebrny,Używane,,Na tylne koła,Automatyczna,2021-04-01 13:07:00
+6083437292,dodge,charger,Gręzów,Mazowieckie,305,3604,27000,Stany Zjednoczone,False,,,,,,,2014,,160000,Firmy,,Benzyna,270,Sedan,Biały,Używane,,Na tylne koła,Automatyczna,2021-04-01 12:58:00
+6083437230,dodge,charger,Gręzów,Mazowieckie,370,5654,39000,,False,,,,,,,2015,,59500,Firmy,,Benzyna,,Sedan,Srebrny,Używane,,Na tylne koła,Automatyczna,2021-04-01 12:54:00
+6082412744,dodge,charger,Nowy Tomyśl,Wielkopolskie,292,3604,34000,,False,,,,,,,2015,,120912,Osoby prywatnej,,Benzyna,270,Sedan,Szary,Używane,,4x4 (stały),Automatyczna,2021-04-01 12:53:00
+6083436829,dodge,charger,Gręzów,Mazowieckie,370,5654,45000,,False,,,,,,,2016,,91000,Firmy,,Benzyna,,Sedan,Biały,Używane,,4x4 (stały),Automatyczna,2021-04-01 12:40:00
+6079345213,dodge,charger,Wrocław,Dolnośląskie,250,3598,57500,,False,False,,,,,,2014,,72867,Osoby prywatnej,,Benzyna,,Sedan,Biały,Używane,,,Automatyczna,2021-04-01 10:26:00
+6081898418,dodge,charger,Józefów,Mazowieckie,717,6166,295200,Polska,False,,True,,True,,,2016,,4300,Firmy,True,Benzyna,394,Sedan,Czerwony,Używane,True,Na tylne koła,Automatyczna,2021-04-01 09:53:00
+6083432702,dodge,charger,Bytom,Śląskie,305,3604,53500,Stany Zjednoczone,False,,,,,,,2017,,42382,Firmy,,Benzyna,270,Sedan,Czarny,Używane,,Na tylne koła,Automatyczna,2021-04-01 09:21:00
+6083432807,dodge,charger,Bytom,Śląskie,492,6417,109900,Stany Zjednoczone,False,,,,,,,2020,,8651,Firmy,,Benzyna,333,Sedan,Biały,Używane,,Na tylne koła,Automatyczna,2021-04-01 09:13:00
+6083432628,dodge,charger,Bytom,Śląskie,492,6417,91700,Stany Zjednoczone,False,,,,,,,2019,,16948,Firmy,,Benzyna,333,Sedan,Biały,Używane,,Na tylne koła,Automatyczna,2021-04-01 08:59:00
+6081229249,dodge,charger,Siedlce,Mazowieckie,305,3604,46999,Stany Zjednoczone,False,,,,,,,2016,,158492,Osoby prywatnej,,Benzyna,270,Sedan,Czarny,Używane,,Na tylne koła,Automatyczna,2021-04-01 07:51:00
+6083427792,dodge,charger,Gręzów,Mazowieckie,370,5654,78000,,False,,,,,,,2016,,80000,Firmy,,Benzyna,333,Sedan,Bordowy,Używane,,Na tylne koła,Automatyczna,2021-03-31 21:03:00
+6081011177,dodge,charger,Sokółka,Podlaskie,370,5654,119000,,False,False,,,,,,2018,,22300,Osoby prywatnej,,Benzyna,,Sedan,Niebieski,Używane,True,Na tylne koła,Automatyczna,2021-03-31 17:55:00
+6065559527,dodge,charger,Grębów,Podkarpackie,296,3604,75900,Stany Zjednoczone,False,,,,,,,2016,2016-12-07 00:00:00,79400,Osoby prywatnej,,Benzyna,,Sedan,Bordowy,Używane,,Na tylne koła,Automatyczna,2021-03-31 16:46:00
+6074977278,dodge,charger,Busko-Zdrój,Świętokrzyskie,375,5654,69000,Stany Zjednoczone,False,False,,,,,,2012,,174088,Osoby prywatnej,,Benzyna+LPG,,Sedan,Szary,Używane,,Na tylne koła,Automatyczna,2021-03-31 13:04:00
+6083146431,dodge,charger,Wiórek,Wielkopolskie,270,6200,65500,,False,,,,,,,1966,,50000,Osoby prywatnej,,Benzyna,,Coupe,Beżowy,Używane,,,Automatyczna,2021-03-30 22:13:00
+6083444999,dodge,charger,Warszawa,Mazowieckie,305,3604,95000,,False,,,,,,,2018,,76000,Osoby prywatnej,,Benzyna,270,Sedan,Inny kolor,Używane,,4x4 (stały),Automatyczna,2021-03-30 19:05:00
+6060943859,dodge,charger,Elbląg,Warmińsko-mazurskie,492,6400,151900,Stany Zjednoczone,False,False,,,,,,2017,2017-01-01 00:00:00,26900,Osoby prywatnej,,Benzyna,,Sedan,Czarny,Używane,,Na tylne koła,Automatyczna,2021-03-30 14:34:00
+6078381782,dodge,charger,Brzeziny,Łódzkie,500,6424,86600,,False,False,,,,,,2012,,84000,Osoby prywatnej,,Benzyna+LPG,,Sedan,Szary,Używane,,Na tylne koła,Automatyczna,2021-03-30 13:57:00
+6083438011,dodge,charger,Lublin,Lubelskie,292,3600,45000,,False,,,,,,,2014,,171289,Firmy,,Benzyna,,Sedan,Niebieski,Używane,,Na tylne koła,Automatyczna,2021-03-30 13:27:00
+6078154463,dodge,charger,Chrzanów,Małopolskie,292,3604,47499,Stany Zjednoczone,False,,,,,,,2015,,70921,Osoby prywatnej,,Benzyna,,Sedan,Szary,Używane,,Na tylne koła,Automatyczna,2021-03-30 08:11:00
+6079543138,dodge,charger,Katowice,Śląskie,850,6166,259000,,False,False,,,,,,2015,,43000,Osoby prywatnej,,Benzyna,,Sedan,Szary,Używane,,,Automatyczna,2021-03-30 06:32:00
+6083110917,dodge,charger,Tarnów,Małopolskie,292,3604,84900,,False,False,,,,,,2016,,129850,Osoby prywatnej,,Benzyna,,Sedan,Szary,Używane,,4x4 (stały),Automatyczna,2021-03-29 20:45:00
+6083424798,dodge,charger,Kraków,Małopolskie,292,3604,82500,,False,,,,,,,2015,,138500,Osoby prywatnej,,Benzyna,,Sedan,Szary,Używane,,4x4 (dołączany automatycznie),Automatyczna,2021-03-29 18:33:00
+6080108261,dodge,charger,Opole,Opolskie,370,5700,99000,Stany Zjednoczone,False,False,,,,,,2017,,48988,Osoby prywatnej,,Benzyna,,Sedan,Czarny,Używane,,Na tylne koła,Automatyczna,2021-03-29 17:25:00
+6076942550,dodge,charger,Turek,Wielkopolskie,360,5900,92000,,False,,True,,,,,1977,1977-09-04 00:00:00,22000,Firmy,,Benzyna,,Sedan,Żółty,Używane,,Na tylne koła,Automatyczna,2021-03-29 10:53:00
+6081751631,dodge,charger,Warszawa,Mazowieckie,492,6417,144900,Stany Zjednoczone,False,False,,,,,,2016,,72000,Firmy,,Benzyna,333,Sedan,Czarny,Używane,,Na tylne koła,Automatyczna,2021-03-29 09:33:00
+6082719168,dodge,charger,Białystok,Podlaskie,305,3604,61900,,False,,,,True,,,2016,,99000,Firmy,,Benzyna,270,Sedan,Czarny,Używane,True,Na tylne koła,Automatyczna,2021-03-29 01:14:00
+6082718258,dodge,charger,Białystok,Podlaskie,305,3604,50900,Kanada,False,,,,True,,,2012,,154000,Firmy,,Benzyna,270,Sedan,Srebrny,Używane,True,Na tylne koła,Automatyczna,2021-03-29 01:14:00
+6081540067,dodge,charger,Tomaszów Mazowiecki,Łódzkie,345,5654,39999,Niemcy,False,,True,,True,,,2007,,149000,Osoby prywatnej,,Benzyna,,Sedan,Czerwony,Używane,,4x4 (stały),Automatyczna,2021-03-28 20:44:00
+6069019946,dodge,charger,Maków Podhalański,Małopolskie,335,6200,179000,Stany Zjednoczone,False,,,,,,,1968,,52200,Firmy,,Benzyna,,Coupe,Inny kolor,Używane,,Na tylne koła,Automatyczna,2021-03-28 09:50:00
+6080012685,dodge,charger,Nędza,Śląskie,885,6166,310000,Stany Zjednoczone,False,False,,,,,,2018,2018-02-01 00:00:00,45000,Osoby prywatnej,,Benzyna,,Sedan,Biały,Używane,,Na tylne koła,Automatyczna,2021-03-28 03:34:00
+6082657436,dodge,charger,Mysłowice,Śląskie,325,6200,110000,,False,,,,,,,1966,,140000,Osoby prywatnej,,Benzyna,,Coupe,Niebieski,Używane,,Na tylne koła,Automatyczna,2021-03-27 21:01:00
+6083016783,dodge,charger,Warszawa,Mazowieckie,300,3604,88000,,False,False,,,,,,2017,,90000,Osoby prywatnej,,Benzyna,,Sedan,Bordowy,Używane,,4x4 (stały),Automatyczna,2021-03-27 17:43:00
+,dodge,charger,Kraków,Małopolskie,,,,,False,,,,,,,,,,,,,,,,,,,,
+6081869365,dodge,dakota,Warszawa,Mazowieckie,250,5900,31000,,False,False,,,,,,1999,,215000,Osoby prywatnej,,Benzyna+LPG,,Kombi,Czarny,Używane,,Na tylne koła,Automatyczna,2021-04-04 20:58:00
+6083930347,dodge,dakota,Nowe Miasto Lubawskie,Warmińsko-mazurskie,210,3701,36900,,False,False,,,,,,2007,2007-01-01 00:00:00,185035,Osoby prywatnej,,Benzyna+LPG,,SUV,Czarny,Używane,,4x4 (dołączany ręcznie),Automatyczna,2021-04-03 16:40:00
+6082799680,dodge,dart,Łódź,Łódzkie,184,2360,44999,,False,False,,,,,,2014,,93000,Osoby prywatnej,,Benzyna,,Sedan,Biały,Używane,,Na przednie koła,Automatyczna,2021-04-03 21:26:00
+6083677591,dodge,dart,Mrzezino,Pomorskie,160,1368,34000,Stany Zjednoczone,False,False,,,,,,2015,2015-01-01 00:00:00,158541,Osoby prywatnej,,Benzyna,,Sedan,Biały,Używane,,Na przednie koła,Manualna,2021-04-05 22:55:00
+6077749926,dodge,dart,Ciechanów,Mazowieckie,160,1369,27999,,False,False,,,,,,2013,,81775,Osoby prywatnej,,Benzyna,,Sedan,Czerwony,Używane,,Na przednie koła,Manualna,2021-04-01 19:51:00
+6082010748,dodge,dart,Hrubieszów,Lubelskie,186,2400,35500,Stany Zjednoczone,False,False,,,,,,2013,,235000,Osoby prywatnej,,Benzyna,,Sedan,Biały,Używane,,Na przednie koła,Automatyczna,2021-03-30 19:00:00
+6079963081,dodge,dart,Komorniki,Wielkopolskie,160,1995,31500,,False,False,,,,,,2013,,137102,Firmy,,Benzyna,,Kompakt,Niebieski,Używane,,Na przednie koła,Automatyczna,2021-03-29 10:15:00
+6082820915,dodge,durango,Nieżywięć,Pomorskie,294,3600,109000,Stany Zjednoczone,False,,,,,,,2017,2017-01-01 00:00:00,39000,Osoby prywatnej,,Benzyna+LPG,,SUV,Czarny,Używane,,,Automatyczna,2021-04-02 20:55:00
+6082818717,dodge,durango,Długołęka,Dolnośląskie,360,5654,339900,,False,,True,,,,,2021,,1,Firmy,True,Benzyna,,SUV,Czarny,Nowe,,4x4 (dołączany automatycznie),Automatyczna,2021-03-31 20:56:00
+6083826953,dodge,durango,Grudziądz,Kujawsko-pomorskie,300,3604,79900,Stany Zjednoczone,False,False,,,,,,2013,2013-01-01 00:00:00,185279,Firmy,,Benzyna,,SUV,Biały,Używane,,Na tylne koła,Automatyczna,2021-03-31 07:38:00
+6066633263,dodge,durango,Krynica-Zdrój,Małopolskie,340,5700,45900,Stany Zjednoczone,False,False,True,,,,,2010,,186000,Osoby prywatnej,,Benzyna+LPG,,SUV,Czarny,Używane,,4x4 (dołączany automatycznie),Automatyczna,2021-04-06 12:14:00
+6082987508,dodge,durango,Długołęka,Dolnośląskie,360,5654,339900,,False,,True,,,,,2021,,1,Firmy,True,Benzyna,,SUV,Biały,Nowe,,4x4 (dołączany automatycznie),Automatyczna,2021-04-06 11:32:00
+6082987611,dodge,durango,Długołęka,Dolnośląskie,360,5654,339900,,False,,True,,,,,2021,,1,Firmy,True,Benzyna,,SUV,Biały,Nowe,,4x4 (dołączany automatycznie),Automatyczna,2021-04-06 11:32:00
+6082987740,dodge,durango,Długołęka,Dolnośląskie,360,5654,339900,,False,,True,,,,,2021,,1,Firmy,True,Benzyna,,SUV,Szary,Nowe,,4x4 (dołączany automatycznie),Automatyczna,2021-04-06 11:31:00
+6082680167,dodge,durango,Wrocław,Dolnośląskie,364,5654,259900,Polska,False,False,True,,True,,,2018,2019-06-19 00:00:00,17500,Firmy,True,Benzyna,,SUV,Czarny,Używane,True,4x4 (dołączany automatycznie),Automatyczna,2021-04-06 10:42:00
+6074659257,dodge,durango,Wrocław,Dolnośląskie,475,6417,64900,Stany Zjednoczone,False,,,,,,,2018,,30000,Firmy,,Benzyna,,SUV,Czarny,Używane,,4x4 (stały),Automatyczna,2021-04-06 10:13:00
+6075075039,dodge,durango,Warszawa,Mazowieckie,252,4701,25000,,False,False,,,,,,2007,,109000,Firmy,,Benzyna,,Minivan,Złoty,Używane,,4x4 (stały),Automatyczna,2021-04-06 10:11:00
+6066335688,dodge,durango,Gliwice,Śląskie,245,5895,35900,Inny,False,False,True,,True,,,1999,,142560,Firmy,,Benzyna,,SUV,Czarny,Używane,True,4x4 (stały),Automatyczna,2021-04-06 09:02:00
+6077289559,dodge,durango,Wrocław,Dolnośląskie,360,5654,89900,,False,,,,,,,2019,,27000,Firmy,,Benzyna,,SUV,Czarny,Używane,,4x4 (stały),Automatyczna,2021-04-06 08:29:00
+6082270716,dodge,durango,Gorzów Wielkopolski,Lubuskie,230,4701,24000,Kanada,False,False,True,,,,,2005,2005-07-23 00:00:00,200000,Osoby prywatnej,,Benzyna+LPG,,SUV,Czarny,Używane,,4x4 (stały),Automatyczna,2021-04-06 08:09:00
+6083197051,dodge,durango,Warszawa,Mazowieckie,295,3600,69200,Stany Zjednoczone,False,,,,,,,2018,,62354,Firmy,,Benzyna,,SUV,Czarny,Używane,,4x4 (dołączany automatycznie),Automatyczna,2021-04-06 00:02:00
+6082631179,dodge,durango,Zelów,Łódzkie,360,5654,55500,Stany Zjednoczone,False,,,,,,,2015,,165500,Osoby prywatnej,,Benzyna,,SUV,Inny kolor,Używane,,4x4 (stały),Automatyczna,2021-04-05 23:51:00
+6079266879,dodge,durango,Lesznowola,Mazowieckie,294,3604,70900,Stany Zjednoczone,False,False,,,,,,2012,,97300,Osoby prywatnej,,Benzyna,,SUV,Niebieski,Używane,,4x4 (dołączany automatycznie),Automatyczna,2021-04-05 22:16:00
+6081421437,dodge,durango,Olsztyn,Warmińsko-mazurskie,475,6417,415000,,False,,True,,,,,2020,2020-12-12 00:00:00,20,Firmy,True,Benzyna,,Kompakt,Czarny,Nowe,True,4x4 (stały),Automatyczna,2021-04-05 21:13:00
+6083181756,dodge,durango,Olsztyn,Warmińsko-mazurskie,364,5654,264900,,False,,True,,,,,2018,2018-11-11 00:00:00,25900,Firmy,True,Benzyna,,SUV,Szary,Używane,True,,Automatyczna,2021-04-05 10:03:00
+6081083382,dodge,durango,Człuchów,Pomorskie,354,5700,116999,Stany Zjednoczone,False,False,,,,,,2016,2016-07-01 00:00:00,94000,Osoby prywatnej,,Benzyna+LPG,,SUV,Szary,Używane,,4x4 (dołączany automatycznie),Automatyczna,2021-04-05 09:38:00
+6082163000,dodge,durango,Lublin,Lubelskie,364,5654,80245,,False,,,,,,,2011,,199000,Osoby prywatnej,True,Benzyna,,SUV,Srebrny,Używane,,4x4 (dołączany automatycznie),Automatyczna,2021-04-04 22:32:00
+6083606700,dodge,durango,Niemodlin,Opolskie,386,5700,99000,Stany Zjednoczone,False,False,,,,,,2014,,139000,Osoby prywatnej,,Benzyna,,SUV,Czarny,Używane,,Na tylne koła,Automatyczna,2021-04-04 21:01:00
+6083622544,dodge,durango,Rzeszów,Podkarpackie,360,5654,356700,,False,,True,,,,,2021,,10,Firmy,True,Benzyna,,SUV,Srebrny,Nowe,,4x4 (stały),Automatyczna,2021-04-04 18:02:00
+6075495945,dodge,durango,Nysa,Opolskie,245,4702,27500,Szwajcaria,False,False,True,,,,,2000,,215000,Osoby prywatnej,,Benzyna,,SUV,Czarny,Używane,True,4x4 (dołączany ręcznie),Automatyczna,2021-04-04 17:32:00
+6083543265,dodge,durango,Legionowo,Mazowieckie,294,3604,89900,Stany Zjednoczone,False,,,,True,,,2016,2016-01-01 00:00:00,113200,Osoby prywatnej,,Benzyna,,SUV,Szary,Używane,,4x4 (dołączany automatycznie),Automatyczna,2021-04-04 16:40:00
+6083268113,dodge,durango,Secemin,Świętokrzyskie,365,5654,85000,,False,,,,,,,2018,,74382,Firmy,,Benzyna,,SUV,Biały,Używane,,4x4 (stały),Automatyczna,2021-04-04 16:01:00
+6080184257,dodge,durango,Warszawa,Mazowieckie,360,5654,369900,Polska,False,,True,,,,,2020,,15,Firmy,,Benzyna,,SUV,Szary,Nowe,,4x4 (stały),Automatyczna,2021-04-04 15:45:00
+6080869840,dodge,durango,Warszawa,Mazowieckie,294,3604,89900,,False,False,,,,,,2014,2014-01-01 00:00:00,302000,Firmy,,Benzyna,,SUV,Czarny,Używane,,4x4 (stały),Automatyczna,2021-04-04 13:01:00
+6082301105,dodge,durango,Warszawa,Mazowieckie,360,5654,339900,Polska,False,,True,,,,,2021,,15,Firmy,,Benzyna,,SUV,Szary,Nowe,,4x4 (stały),Automatyczna,2021-04-04 12:23:00
+6076500975,dodge,durango,Rumia,Pomorskie,286,3605,99900,Stany Zjednoczone,False,False,,,,,,2015,,125000,Firmy,,Benzyna,,SUV,Beżowy,Używane,,4x4 (stały),Automatyczna,2021-04-04 11:16:00
+6083335384,dodge,durango,Szczecin,Zachodniopomorskie,360,5654,134900,Stany Zjednoczone,False,False,,,True,,,2017,,52000,Osoby prywatnej,,Benzyna+LPG,,SUV,Czerwony,Używane,,Na tylne koła,Automatyczna,2021-04-04 10:34:00
+6077078951,dodge,durango,Warszawa,Mazowieckie,390,5700,119900,Stany Zjednoczone,False,False,,,,,,2017,,65208,Firmy,,Benzyna,,SUV,Biały,Używane,,4x4 (dołączany automatycznie),Automatyczna,2021-04-04 10:07:00
+6082558592,dodge,durango,Gliwice,Śląskie,250,5899,36500,Inny,False,False,True,,True,,,1999,2006-04-01 00:00:00,172340,Firmy,,Benzyna,,SUV,Czarny,Używane,True,Na tylne koła,Automatyczna,2021-04-04 08:21:00
+6078817939,dodge,durango,Grudziądz,Kujawsko-pomorskie,360,5654,129000,Stany Zjednoczone,False,False,,,,,,2017,,88000,Osoby prywatnej,,Benzyna+LPG,,SUV,Fioletowy,Używane,,4x4 (stały),Automatyczna,2021-04-04 08:09:00
+6083938072,dodge,durango,Białystok,Podlaskie,299,3604,138990,,False,False,,,,,,2015,,2400,Firmy,,Benzyna,,SUV,Czarny,Używane,,4x4 (stały),Automatyczna,2021-04-04 06:27:00
+6083749476,dodge,durango,Bielany Wrocławskie,Dolnośląskie,340,5654,27000,,False,False,,,,,,2005,2005-01-01 00:00:00,189993,Firmy,True,Benzyna,,SUV,Niebieski,Używane,,4x4 (dołączany automatycznie),Automatyczna,2021-04-03 23:24:00
+6083323785,dodge,durango,Sławno,Zachodniopomorskie,299,3604,99900,,False,False,,,,,,2017,,200050,Osoby prywatnej,,Benzyna,,SUV,Biały,Używane,,4x4 (dołączany automatycznie),Automatyczna,2021-04-03 21:42:00
+6079847233,dodge,durango,Wiewiórki,Kujawsko-pomorskie,300,3600,68000,,False,,,,,,,2014,,122925,Firmy,,Benzyna,,SUV,Czerwony,Używane,,4x4 (dołączany automatycznie),Automatyczna,2021-04-03 21:32:00
+6081019307,dodge,durango,Białystok,Podlaskie,245,5895,25000,,False,False,,,,,,1998,,306100,Osoby prywatnej,,Benzyna+LPG,,SUV,Czerwony,Używane,,4x4 (dołączany ręcznie),Automatyczna,2021-04-03 17:40:00
+6081970133,dodge,durango,Nawojowa,Małopolskie,294,3600,48900,,False,,,,,,,2017,,44800,Firmy,,Benzyna,,Kombi,Czerwony,Używane,,,Automatyczna,2021-04-03 16:59:00
+6082947312,dodge,durango,Gdańsk,Pomorskie,364,5700,70000,,False,False,,,,,,2012,,148000,Osoby prywatnej,,Benzyna,,SUV,Czarny,Używane,,4x4 (dołączany automatycznie),Automatyczna,2021-04-03 16:16:00
+6074408402,dodge,durango,Człuchów,Pomorskie,365,5654,129088,,False,,,,,,,2017,,84930,Firmy,True,Benzyna+LPG,,SUV,Biały,Używane,,,Automatyczna,2021-04-03 13:29:00
+6083927830,dodge,durango,Koniemłoty,Świętokrzyskie,364,5700,76700,Kanada,False,,,,True,,,2013,,119000,Osoby prywatnej,,Benzyna,,SUV,Czerwony,Używane,,4x4 (dołączany automatycznie),Automatyczna,2021-04-03 13:24:00
+6081308340,dodge,durango,Rumia,Pomorskie,294,3604,92900,Stany Zjednoczone,False,False,,,,,,2015,2015-01-01 00:00:00,112000,Firmy,,Benzyna+LPG,,SUV,Szary,Używane,,4x4 (dołączany automatycznie),Automatyczna,2021-04-03 11:42:00
+6083563879,dodge,durango,Chojnice,Pomorskie,294,3600,146370,Stany Zjednoczone,False,False,,,,,,2018,2018-01-01 00:00:00,27661,Firmy,True,Benzyna+LPG,,SUV,Czarny,Używane,,4x4 (dołączany automatycznie),Automatyczna,2021-04-03 10:58:00
+6074916332,dodge,durango,Gdynia,Pomorskie,299,3604,105165,,False,,,,,,,2015,2015-01-01 00:00:00,80000,Osoby prywatnej,,Benzyna+LPG,,SUV,Srebrny,Używane,,4x4 (dołączany automatycznie),Automatyczna,2021-04-03 10:10:00
+6083109397,dodge,durango,Bełchatów,Łódzkie,365,5700,185500,,False,,,,,,,2019,,30500,Osoby prywatnej,True,Benzyna,,Kombi,Biały,Używane,,4x4 (dołączany automatycznie),Automatyczna,2021-04-02 20:03:00
+6083108367,dodge,durango,Kartuzy,Pomorskie,299,3604,62900,Stany Zjednoczone,False,False,,,,,,2012,2017-04-10 00:00:00,302500,Osoby prywatnej,,Benzyna+LPG,,SUV,Srebrny,Używane,,4x4 (stały),Automatyczna,2021-04-02 19:32:00
+6071299237,dodge,durango,Warszawa,Mazowieckie,292,3605,119900,Stany Zjednoczone,False,False,,,,,,2017,,114893,Firmy,,Benzyna,,SUV,Niebieski,Używane,,4x4 (dołączany automatycznie),Automatyczna,2021-04-02 19:22:00
+6070663194,dodge,durango,Białystok,Podlaskie,294,3604,130000,Stany Zjednoczone,False,False,,,,,,2017,,71000,Osoby prywatnej,,Benzyna+LPG,,SUV,Szary,Używane,,4x4 (stały),Automatyczna,2021-04-02 19:11:00
+6082251962,dodge,durango,Warszawa,Mazowieckie,294,3600,127700,Kanada,False,False,,,,,,2018,2020-12-11 00:00:00,36000,Osoby prywatnej,True,Benzyna,,SUV,Czarny,Używane,True,4x4 (stały),Automatyczna,2021-04-02 19:00:00
+6083914278,dodge,durango,Łapy,Podlaskie,299,3604,75900,,False,False,,,,,,2015,,199500,Firmy,True,Benzyna,,SUV,Szary,Używane,,Na tylne koła,Automatyczna,2021-04-02 16:27:00
+6082459783,dodge,durango,Daleszynek,Wielkopolskie,286,3604,69000,Stany Zjednoczone,False,,,,,,,2018,,69743,Firmy,,Benzyna,,SUV,Srebrny,Używane,,4x4 (dołączany automatycznie),Automatyczna,2021-04-02 14:30:00
+6083534425,dodge,durango,Białystok,Podlaskie,380,5700,84000,,False,False,True,,True,,,2014,,83000,Firmy,,Benzyna,,SUV,Czarny,Używane,True,4x4 (dołączany automatycznie),Automatyczna,2021-04-02 14:21:00
+6083221670,dodge,durango,Człuchów,Pomorskie,298,3600,94000,Stany Zjednoczone,False,False,,,,,,2017,,69000,Firmy,,Benzyna+LPG,,SUV,Czarny,Używane,,4x4 (stały),Automatyczna,2021-04-02 14:21:00
+6080619734,dodge,durango,Warszawa,Mazowieckie,290,3600,99999,Stany Zjednoczone,False,False,,,,,,2016,,151083,Firmy,,Benzyna,,SUV,Biały,Używane,,4x4 (dołączany automatycznie),Automatyczna,2021-04-02 13:57:00
+6082352579,dodge,durango,Częstochowa,Śląskie,300,3600,172999,Stany Zjednoczone,False,False,,,,,,2019,,58000,Firmy,,Benzyna,,SUV,Szary,Używane,,4x4 (stały),Automatyczna,2021-04-02 12:04:00
+6083528263,dodge,durango,Czerniewice,Łódzkie,294,3604,38900,Szwajcaria,False,,,,True,,,2013,,195111,Firmy,,Benzyna,,SUV,Czarny,Używane,,4x4 (dołączany automatycznie),Automatyczna,2021-04-02 11:39:00
+6083524706,dodge,durango,Zabrze,Śląskie,245,5895,12400,,False,False,,,,,,1998,1998-11-25 00:00:00,204500,Osoby prywatnej,,Benzyna+LPG,,SUV,Czarny,Używane,,4x4 (stały),Automatyczna,2021-04-02 10:06:00
+6083212546,dodge,durango,Grudziądz,Kujawsko-pomorskie,375,5700,130000,,False,,,,,,,2018,,42000,Osoby prywatnej,,Benzyna,,SUV,Czarny,Używane,,,Automatyczna,2021-04-02 09:38:00
+6082871139,dodge,durango,Olszanka,Mazowieckie,360,3600,47200,,False,,,,,,,2014,2021-03-02 00:00:00,120000,Osoby prywatnej,,Benzyna,,SUV,Czarny,Używane,,4x4 (stały),Automatyczna,2021-04-02 06:38:00
+6069214528,dodge,durango,Kielce,Świętokrzyskie,485,6400,337000,Stany Zjednoczone,False,False,True,,True,,,2018,2018-01-01 00:00:00,25000,Osoby prywatnej,,Benzyna,,SUV,Niebieski,Używane,,4x4 (dołączany automatycznie),Automatyczna,2021-04-01 18:53:00
+6080303718,dodge,durango,Warszawa,Mazowieckie,360,5654,369900,Polska,False,,True,,,,,2020,,15,Firmy,,Benzyna,,SUV,Czarny,Nowe,,4x4 (stały),Automatyczna,2021-04-01 17:39:00
+6080303796,dodge,durango,Warszawa,Mazowieckie,360,5654,369900,Polska,False,,True,,,,,2020,,15,Firmy,,Benzyna,,SUV,Zielony,Nowe,,4x4 (stały),Automatyczna,2021-04-01 17:38:00
+6082103762,dodge,durango,Ząbki,Mazowieckie,360,5654,121999,Stany Zjednoczone,False,False,,,,,,2017,2017-01-01 00:00:00,99850,Osoby prywatnej,,Benzyna+LPG,,SUV,Biały,Używane,,4x4 (stały),Automatyczna,2021-04-01 12:55:00
+6083868709,dodge,durango,Częstochowa,Śląskie,300,3600,119900,Stany Zjednoczone,False,False,,,,,,2016,,89000,Firmy,,Benzyna,,SUV,Szary,Używane,,4x4 (stały),Automatyczna,2021-04-01 11:28:00
+6078570218,dodge,durango,Poznań,Wielkopolskie,290,3604,74800,,False,,True,,True,,,2011,,145000,Osoby prywatnej,,Benzyna,,SUV,Czarny,Używane,,,Automatyczna,2021-04-01 10:27:00
+6083021389,dodge,durango,Gdańsk,Pomorskie,360,5654,47800,Stany Zjednoczone,False,,,,,,,2015,,120000,Firmy,,Benzyna,,SUV,Biały,Używane,,4x4 (stały),Automatyczna,2021-03-31 21:31:00
+6083841444,dodge,durango,Śrem,Wielkopolskie,335,5654,29000,,False,,,,,,,2005,2005-05-05 00:00:00,280357,Osoby prywatnej,,Benzyna+LPG,,SUV,Inny kolor,Używane,,4x4 (stały),Automatyczna,2021-03-31 19:34:00
+6083844390,dodge,durango,Rumia,Pomorskie,299,3604,109900,Stany Zjednoczone,False,False,,,,,,2017,,200000,Firmy,,Benzyna,,SUV,Biały,Używane,,4x4 (stały),Automatyczna,2021-03-31 16:11:00
+6078164234,dodge,durango,Piszczac,Lubelskie,300,3600,68757,,False,False,,,,,,2013,,209000,Osoby prywatnej,,Benzyna,,SUV,Biały,Używane,,4x4 (stały),Automatyczna,2021-03-31 15:06:00
+6083450385,dodge,durango,Poznań,Wielkopolskie,235,4701,5200,,False,False,,,,,,2001,,20000,Osoby prywatnej,,Benzyna,,SUV,Szary,Używane,,4x4 (stały),Automatyczna,2021-03-31 11:42:00
+6083441495,dodge,durango,Ostrołęka,Mazowieckie,400,5700,155000,,False,False,,,,,,2018,2018-02-13 00:00:00,47888,Osoby prywatnej,True,Benzyna,,SUV,Biały,Używane,,4x4 (stały),Automatyczna,2021-03-30 16:38:00
+6067553576,dodge,durango,Sierakowice,Pomorskie,299,3600,77900,Stany Zjednoczone,False,False,,,,,,2014,,133500,Osoby prywatnej,,Benzyna,,SUV,Niebieski,Używane,,4x4 (dołączany automatycznie),Automatyczna,2021-03-30 14:51:00
+6079989760,dodge,durango,Sławno,Zachodniopomorskie,300,3600,92400,,False,False,,,,,,2015,,125000,Osoby prywatnej,,Benzyna,,SUV,Złoty,Używane,True,4x4 (stały),Automatyczna,2021-03-30 14:29:00
+6083434492,dodge,durango,Gdynia,Pomorskie,294,3604,79999,Stany Zjednoczone,False,False,,,,,,2015,2015-01-01 00:00:00,192500,Osoby prywatnej,,Benzyna+LPG,,SUV,Czarny,Używane,,4x4 (stały),Automatyczna,2021-03-30 10:57:00
+6083778306,dodge,durango,Pelplin,Pomorskie,296,3604,129000,Stany Zjednoczone,False,,,,,,,2018,2018-08-24 00:00:00,57000,Osoby prywatnej,,Benzyna,,SUV,Czarny,Używane,,4x4 (stały),Automatyczna,2021-03-29 23:09:00
+6083418260,dodge,durango,Czerniewice,Łódzkie,235,4701,7900,Szwajcaria,False,,,,True,,,2001,,212174,Firmy,,Benzyna,,SUV,Czarny,Używane,,4x4 (stały),Automatyczna,2021-03-29 15:34:00
+6083762938,dodge,durango,Dziekanów Polski,Mazowieckie,360,5654,44500,Stany Zjednoczone,False,,,,,,,2015,,121848,Firmy,,Benzyna,,SUV,Szary,Używane,,Na tylne koła,Automatyczna,2021-03-29 13:02:00
+6081424162,dodge,durango,Olsztyn,Warmińsko-mazurskie,294,3604,95000,,False,False,,,,,,2015,,153000,Osoby prywatnej,,Benzyna,,SUV,Beżowy,Używane,,Na tylne koła,Automatyczna,2021-03-29 11:17:00
+6082302219,dodge,durango,Katowice,Śląskie,360,5654,270600,Polska,False,False,True,,True,,,2019,,26900,Osoby prywatnej,True,Benzyna,,SUV,Biały,Używane,True,4x4 (stały),Automatyczna,2021-03-28 21:34:00
+6080774946,dodge,durango,Białystok,Podlaskie,305,3548,79900,Stany Zjednoczone,False,,,,True,,,2014,,90700,Firmy,,Benzyna,,SUV,Biały,Używane,True,4x4 (stały),Automatyczna,2021-03-28 18:28:00
+6083728967,dodge,durango,Człuchów,Pomorskie,298,3600,85500,Stany Zjednoczone,False,False,,,,,,2017,,72000,Firmy,,Benzyna,,SUV,Czerwony,Używane,,4x4 (stały),Automatyczna,2021-03-28 11:47:00
+6083364627,dodge,durango,Mogilany,Małopolskie,360,5654,189900,Kanada,False,,,,,,,2020,,27508,Firmy,True,Benzyna,,SUV,Srebrny,Używane,,4x4 (stały),Automatyczna,2021-03-28 11:30:00
+6078232417,dodge,durango,Człuchów,Pomorskie,365,5654,140950,,False,,,,,,,2017,,28600,Firmy,,Benzyna+LPG,,SUV,Czarny,Używane,,4x4 (dołączany automatycznie),Automatyczna,2021-03-28 10:13:00
+6057696631,dodge,durango,Toruń,Kujawsko-pomorskie,365,5654,168000,Kanada,False,False,,,,,,2018,,100500,Osoby prywatnej,,Benzyna+LPG,,SUV,Biały,Używane,True,4x4 (dołączany automatycznie),Automatyczna,2021-03-27 21:58:00
+6083712399,dodge,durango,Szczawnica,Małopolskie,299,3600,125000,Stany Zjednoczone,False,False,,,,,,2017,2017-01-01 00:00:00,111000,Osoby prywatnej,,Benzyna,,SUV,Szary,Używane,,4x4 (stały),Automatyczna,2021-03-27 19:42:00
+6083712296,dodge,durango,Warszawa,Mazowieckie,364,5700,45700,,False,,,,,,,2011,,171847,Osoby prywatnej,,Benzyna,,SUV,Inny kolor,Używane,,4x4 (stały),Automatyczna,2021-03-27 19:36:00
+6083017220,dodge,durango,Rzeszów,Podkarpackie,290,3600,69000,,False,,,,,,,2017,,99351,Osoby prywatnej,,Benzyna,,SUV,Czarny,Używane,,4x4 (stały),Automatyczna,2021-03-27 19:01:00
+6082002531,dodge,durango,Przeźmierowo,Wielkopolskie,364,5654,99900,,False,False,,,,,,2014,,160000,Firmy,,Benzyna,,SUV,Czarny,Używane,,4x4 (stały),Automatyczna,2021-03-23 17:10:00
+6083539927,dodge,durango,Psary Kolonia,Świętokrzyskie,299,3604,94900,,False,False,,,,,,2015,,173000,Osoby prywatnej,,Benzyna+LPG,,SUV,Czarny,Używane,True,4x4 (stały),Automatyczna,2021-03-23 15:37:00
+6083538536,dodge,durango,Częstochowa,Śląskie,300,3600,175899,Stany Zjednoczone,False,False,,,,,,2020,,28900,Firmy,,Benzyna,,SUV,Czarny,Używane,,4x4 (stały),Automatyczna,2021-03-23 14:56:00
+6083947552,dodge,grand-caravan,Bydgoszcz,Kujawsko-pomorskie,283,3605,66000,Kanada,False,,,,,,,2015,,90300,Osoby prywatnej,,Benzyna,,Minivan,Bordowy,Używane,,Na przednie koła,Automatyczna,2021-04-05 14:44:00
+6083611616,dodge,grand-caravan,Legnica,Dolnośląskie,283,3605,30900,,False,,,,,,,2016,,90000,Osoby prywatnej,,Benzyna,,Minivan,Biały,Używane,,,Automatyczna,2021-04-04 14:48:00
+6083936218,dodge,grand-caravan,Boczów,Lubuskie,180,3300,9999,,False,False,True,,,,,2003,2003-01-01 00:00:00,138000,Osoby prywatnej,,Benzyna+LPG,,Minivan,Bordowy,Używane,,Na przednie koła,Automatyczna,2021-04-03 22:29:00
+6081230705,dodge,grand-caravan,Łomianki,Mazowieckie,283,3605,49938,,False,False,,,,,,2015,,123000,Osoby prywatnej,,Benzyna,,Minivan,Biały,Używane,,Na przednie koła,Automatyczna,2021-04-03 19:49:00
+6080947775,dodge,grand-caravan,Warszawa,Mazowieckie,283,3600,33800,Kanada,False,,True,,,,,2014,,165000,Osoby prywatnej,,Benzyna,,Minivan,Szary,Używane,,Na przednie koła,Automatyczna,2021-04-03 19:38:00
+6083980733,dodge,grand-caravan,Legionowo,Mazowieckie,283,3598,56000,,False,False,,,,,,2012,,120000,Firmy,,Benzyna+LPG,,Minivan,Czarny,Używane,,,Automatyczna,2021-04-06 13:15:00
+6080020670,dodge,grand-caravan,Zielona Góra,Lubuskie,283,3605,48600,Stany Zjednoczone,False,False,True,,,,,2015,,120000,Osoby prywatnej,,Benzyna,,Minivan,Szary,Używane,,Na przednie koła,Automatyczna,2021-04-06 12:41:00
+6083406665,dodge,grand-caravan,Gręzów,Mazowieckie,283,3605,23500,,False,,,,,,,2011,,280000,Firmy,,Benzyna,,Minivan,Srebrny,Używane,,Na przednie koła,Automatyczna,2021-04-06 11:21:00
+6083406761,dodge,grand-caravan,Gręzów,Mazowieckie,283,3605,19500,,False,,,,,,,2011,,436000,Firmy,,Benzyna,,Minivan,Srebrny,Używane,,Na przednie koła,Automatyczna,2021-04-06 11:12:00
+6083000859,dodge,grand-caravan,Daleszynek,Wielkopolskie,283,3605,22000,Stany Zjednoczone,False,,,,,,,2012,,173040,Firmy,,Benzyna,,Minivan,Złoty,Używane,,Na przednie koła,Automatyczna,2021-04-06 10:11:00
+6076984655,dodge,grand-caravan,Komorniki,Wielkopolskie,283,3600,48900,,False,False,,,,,,2013,,246186,Firmy,,Benzyna,,Minivan,Czerwony,Używane,,Na przednie koła,Automatyczna,2021-04-06 09:38:00
+6078404714,dodge,grand-caravan,Białystok,Podlaskie,283,3604,49500,,False,,,,,,,2016,,74740,Firmy,,Benzyna,,Minivan,Szary,Używane,,Na przednie koła,Automatyczna,2021-04-06 09:35:00
+6083959451,dodge,grand-caravan,Łomża,Podlaskie,283,3605,53700,,False,,,,,,,2017,,74465,Firmy,True,Benzyna,,Minivan,Bordowy,Używane,,Na przednie koła,Automatyczna,2021-04-06 09:20:00
+6083009803,dodge,grand-caravan,Łomża,Podlaskie,283,3605,49999,,False,,,,,,,2017,,70901,Firmy,True,Benzyna,,Minivan,Biały,Używane,,Na przednie koła,Automatyczna,2021-04-06 08:44:00
+6080415218,dodge,grand-caravan,Łomża,Podlaskie,283,3605,39999,,False,,,,,,,2013,,251546,Firmy,,Benzyna,,Minivan,Inny kolor,Używane,,Na przednie koła,Automatyczna,2021-04-06 08:22:00
+6081387310,dodge,grand-caravan,Koszalin,Zachodniopomorskie,300,3600,58900,Kanada,False,False,True,,True,,,2018,,142000,Osoby prywatnej,,Benzyna,,Minivan,Czarny,Używane,True,,Automatyczna,2021-04-05 23:39:00
+6083677315,dodge,grand-caravan,Olsztyn,Warmińsko-mazurskie,283,3605,69500,,False,False,,,,,,2017,,36500,Osoby prywatnej,,Benzyna,,Minivan,Niebieski,Używane,,Na przednie koła,Automatyczna,2021-04-05 22:38:00
+6080949143,dodge,grand-caravan,Warszawa,Mazowieckie,284,3600,34900,Kanada,False,,True,,,,,2011,,158000,Osoby prywatnej,,Benzyna,,Minivan,Bordowy,Używane,,Na przednie koła,Automatyczna,2021-04-05 20:47:00
+6072206768,dodge,grand-caravan,Rzeszów,Podkarpackie,283,3605,49900,Stany Zjednoczone,False,,True,,,,,2015,,151000,Osoby prywatnej,,Benzyna+LPG,,Minivan,Biały,Używane,True,,Automatyczna,2021-04-05 17:32:00
+6083659875,dodge,grand-caravan,Słupsk,Pomorskie,283,3606,52900,Stany Zjednoczone,False,,,,,,,2016,,249468,Firmy,,Benzyna,,Minivan,Szary,Używane,,Na przednie koła,Automatyczna,2021-04-05 15:15:00
+6082018006,dodge,grand-caravan,Gręzów,Mazowieckie,283,3605,49900,Stany Zjednoczone,False,False,,,,,,2017,,130000,Firmy,True,Benzyna,,Minivan,Srebrny,Używane,,,Automatyczna,2021-04-05 13:48:00
+6080547827,dodge,grand-caravan,Stasin,Lubelskie,283,3605,58000,Stany Zjednoczone,False,,True,,True,,,2016,,176683,Firmy,True,Benzyna,,Minivan,Czarny,Używane,,Na przednie koła,Automatyczna,2021-04-05 13:26:00
+6083946690,dodge,grand-caravan,Gorzów Wielkopolski,Lubuskie,175,3301,7400,,False,False,,,,,,2005,2005-01-01 00:00:00,236000,Osoby prywatnej,,Benzyna+LPG,304,Minivan,Zielony,Używane,,Na przednie koła,Automatyczna,2021-04-05 13:11:00
+6083652999,dodge,grand-caravan,Kraków,Małopolskie,283,3605,46000,,False,False,,,,,,2014,2014-01-01 00:00:00,162000,Osoby prywatnej,,Benzyna,,Minivan,Czarny,Używane,,Na przednie koła,Automatyczna,2021-04-05 13:07:00
+6079725283,dodge,grand-caravan,Pabianice,Łódzkie,283,3605,42000,Stany Zjednoczone,False,False,,,,,,2014,,150000,Osoby prywatnej,,Benzyna+LPG,,Minivan,Czarny,Używane,True,Na przednie koła,Automatyczna,2021-04-05 12:23:00
+6083631365,dodge,grand-caravan,Gdańsk,Pomorskie,251,3952,28000,Polska,False,False,,,,,,2009,2009-01-01 00:00:00,212000,Osoby prywatnej,,Benzyna+LPG,,SUV,Niebieski,Używane,True,Na przednie koła,Automatyczna,2021-04-05 12:18:00
+6028269392,dodge,grand-caravan,Warszawa,Mazowieckie,286,3600,38900,,False,False,,,True,,,2013,2013-01-01 00:00:00,198000,Osoby prywatnej,,Benzyna,,Minivan,Złoty,Używane,,Na przednie koła,Automatyczna,2021-04-05 07:26:00
+6083779203,dodge,grand-caravan,Kawno,Zachodniopomorskie,180,3300,11000,Stany Zjednoczone,False,False,True,,,,,2004,2006-12-29 00:00:00,210021,Osoby prywatnej,,Benzyna,,Minivan,Inny kolor,Używane,,Na przednie koła,Automatyczna,2021-04-05 01:19:00
+6083176105,dodge,grand-caravan,Gręzów,Mazowieckie,283,3605,27500,Stany Zjednoczone,False,,,,,,,2017,,160000,Firmy,,Benzyna,,Minivan,Biały,Używane,,Na przednie koła,Automatyczna,2021-04-04 23:51:00
+6081913202,dodge,grand-caravan,Łapy,Podlaskie,283,3605,56900,Stany Zjednoczone,False,,,,,,,2017,2017-03-01 00:00:00,103000,Osoby prywatnej,,Benzyna,,Minivan,Bordowy,Używane,True,Na przednie koła,Automatyczna,2021-04-04 23:01:00
+6083550343,dodge,grand-caravan,Warszawa,Mazowieckie,283,3605,62900,,False,,,,,,,2017,,129500,Osoby prywatnej,,Benzyna,,Minivan,Bordowy,Używane,,,Automatyczna,2021-04-04 20:04:00
+6082568043,dodge,grand-caravan,Bochnia,Małopolskie,283,3605,74800,,False,False,,,,,,2017,,105000,Osoby prywatnej,,Benzyna,,Minivan,Bordowy,Używane,True,Na przednie koła,Automatyczna,2021-04-04 19:43:00
+6083274709,dodge,grand-caravan,Warszawa,Mazowieckie,283,3605,33900,Stany Zjednoczone,False,False,,,True,,,2014,2014-01-01 00:00:00,247000,Firmy,,Benzyna,,Minivan,Biały,Używane,,Na przednie koła,Automatyczna,2021-04-04 18:06:00
+6083546639,dodge,grand-caravan,Wrocław,Dolnośląskie,283,3604,31900,Kanada,False,False,,,,,,2012,,184000,Firmy,,Benzyna+LPG,,SUV,Biały,Używane,,Na przednie koła,Automatyczna,2021-04-04 17:55:00
+6083938540,dodge,grand-caravan,Żelazowa Wola,Mazowieckie,283,3605,49999,,False,False,,,,,,2017,,198000,Osoby prywatnej,,Benzyna,,Minivan,Biały,Używane,,Na przednie koła,Automatyczna,2021-04-04 09:44:00
+6083144213,dodge,grand-caravan,Gręzów,Mazowieckie,283,3605,23500,,False,,,,,,,2013,,170000,Firmy,,Benzyna,,Minivan,Czarny,Używane,,Na przednie koła,Automatyczna,2021-04-03 20:36:00
+6080982928,dodge,grand-caravan,Jastków,Lubelskie,283,3605,25800,,False,,,,,,,2013,,169000,Firmy,,Benzyna,,Minivan,Czarny,Używane,,Na przednie koła,Automatyczna,2021-04-03 12:49:00
+6083921416,dodge,grand-caravan,Grójec,Mazowieckie,283,3605,62900,Kanada,False,False,,,,,,2017,2017-07-01 00:00:00,38900,Osoby prywatnej,,Benzyna,,Minivan,Biały,Używane,True,Na przednie koła,Automatyczna,2021-04-02 21:06:00
+6083551914,dodge,grand-caravan,Katowice,Śląskie,215,3778,9500,,False,,,,,,,2005,2006-09-06 00:00:00,200000,Osoby prywatnej,,Benzyna,,Minivan,Inny kolor,Używane,,Na przednie koła,Automatyczna,2021-04-02 20:31:00
+6083280269,dodge,grand-caravan,Łomża,Podlaskie,283,3605,52700,,False,,,,,,,2017,,70901,Firmy,True,Benzyna,,Minivan,Biały,Używane,,Na przednie koła,Automatyczna,2021-04-02 20:21:00
+6081057759,dodge,grand-caravan,Łomża,Podlaskie,283,3605,73700,Stany Zjednoczone,False,,,,,,,2018,,121614,Firmy,,Benzyna,,Minivan,Biały,Używane,,Na przednie koła,Automatyczna,2021-04-02 20:15:00
+6083279874,dodge,grand-caravan,Łomża,Podlaskie,283,3605,46900,,False,,,,,,,2016,,48708,Firmy,True,Benzyna,,Minivan,Czarny,Używane,,Na przednie koła,Automatyczna,2021-04-02 20:10:00
+6083279498,dodge,grand-caravan,Łomża,Podlaskie,283,3605,41700,,False,,,,,,,2016,,76522,Firmy,True,Benzyna,,Minivan,Biały,Używane,,Na przednie koła,Automatyczna,2021-04-02 19:58:00
+6083279203,dodge,grand-caravan,Łomża,Podlaskie,283,3605,52700,,False,,,,,,,2018,,65404,Firmy,True,Benzyna,,Minivan,Szary,Używane,,Na przednie koła,Automatyczna,2021-04-02 19:51:00
+6083224574,dodge,grand-caravan,Wrocław,Dolnośląskie,283,3605,31500,Kanada,False,False,,,,,,2012,,185000,Osoby prywatnej,,Benzyna+LPG,278,Minivan,Biały,Używane,,Na przednie koła,Automatyczna,2021-04-02 17:50:00
+6083102774,dodge,grand-caravan,Warszawa,Mazowieckie,287,3604,49950,Stany Zjednoczone,False,False,,,,,,2016,2016-01-01 00:00:00,107210,Firmy,,Benzyna,,Minivan,Biały,Używane,,Na przednie koła,Automatyczna,2021-04-02 17:30:00
+6082270956,dodge,grand-caravan,Łomża,Podlaskie,283,3605,45777,,False,,,,,,,2015,,83606,Firmy,True,Benzyna,,Minivan,Bordowy,Używane,,Na przednie koła,Automatyczna,2021-04-02 16:46:00
+6082270887,dodge,grand-caravan,Łomża,Podlaskie,283,3605,44999,,False,,,,,,,2017,,91974,Firmy,True,Benzyna,,Minivan,Biały,Używane,,Na przednie koła,Automatyczna,2021-04-02 16:46:00
+6083537366,dodge,grand-caravan,Radziejowice,Mazowieckie,283,3605,28000,,False,,,,,,,2012,,181700,Firmy,,Benzyna,,Minivan,Czarny,Używane,,,Automatyczna,2021-04-02 15:20:00
+6083221877,dodge,grand-caravan,Słupsk,Pomorskie,283,3605,52990,Stany Zjednoczone,False,,,,,,,2016,,79141,Firmy,,Benzyna,,Minivan,Szary,Używane,,Na przednie koła,Automatyczna,2021-04-02 14:29:00
+6083221873,dodge,grand-caravan,Słupsk,Pomorskie,289,3606,63500,Stany Zjednoczone,False,False,,,,,,2017,,77985,Firmy,,Benzyna,,Minivan,Biały,Używane,,Na przednie koła,Automatyczna,2021-04-02 14:28:00
+6083536896,dodge,grand-caravan,Radziejowice,Mazowieckie,283,3605,17000,,False,,,,,,,2011,,380500,Firmy,,Benzyna,,Minivan,Szary,Używane,,,Automatyczna,2021-04-02 14:21:00
+6082245079,dodge,grand-caravan,Radziejowice,Mazowieckie,283,3605,27000,,False,,,,,,,2013,,166900,Firmy,,Benzyna,,SUV,Srebrny,Używane,,,Automatyczna,2021-04-02 13:31:00
+6083889836,dodge,grand-caravan,Brzeziny,Łódzkie,287,3605,47500,Stany Zjednoczone,False,,,,,,,2014,2014-01-01 00:00:00,68000,Osoby prywatnej,,Benzyna+LPG,,Minivan,Szary,Używane,,Na przednie koła,Automatyczna,2021-04-02 10:55:00
+6080898861,dodge,grand-caravan,Lubin,Dolnośląskie,283,3605,46500,Stany Zjednoczone,False,,True,,,,,2016,,143300,Osoby prywatnej,,Benzyna,,Minivan,Srebrny,Używane,,Na przednie koła,Automatyczna,2021-04-02 10:32:00
+6082857022,dodge,grand-caravan,Radziejowice,Mazowieckie,283,3605,26500,,False,,,,,,,2014,,170750,Firmy,,Benzyna,,Minivan,Bordowy,Używane,,Na przednie koła,Automatyczna,2021-04-02 09:39:00
+6082859544,dodge,grand-caravan,Radziejowice,Mazowieckie,283,3605,26000,,False,,,,,,,2013,,204640,Firmy,,Benzyna,,Minivan,Biały,Używane,,,Automatyczna,2021-04-02 09:39:00
+6082856424,dodge,grand-caravan,Radziejowice,Mazowieckie,283,3605,29000,,False,,,,,,,2015,,137130,Firmy,,Benzyna,,Minivan,Szary,Używane,,,Automatyczna,2021-04-02 09:39:00
+6083887436,dodge,grand-caravan,Zielona Góra,Lubuskie,175,3301,18500,Niemcy,False,,True,,True,,,2009,,200517,Osoby prywatnej,,Benzyna,304,Minivan,Czarny,Używane,True,Na przednie koła,Automatyczna,2021-04-01 22:30:00
+6083886186,dodge,grand-caravan,Kraków,Małopolskie,283,3605,67000,,False,False,,,,,,2017,2021-03-01 00:00:00,52000,Osoby prywatnej,,Benzyna,,Minivan,Niebieski,Używane,,Na przednie koła,Automatyczna,2021-04-01 17:10:00
+6083199121,dodge,grand-caravan,Słupsk,Pomorskie,283,3606,59990,Stany Zjednoczone,False,,,,,,,2017,,213064,Firmy,,Benzyna,,Minivan,Szary,Używane,,Na przednie koła,Automatyczna,2021-04-01 15:26:00
+6083198361,dodge,grand-caravan,Jabłonowo,Mazowieckie,283,3605,44000,,False,False,True,,,,,2015,,154000,Firmy,,Benzyna,,Minivan,Niebieski,Używane,True,Na przednie koła,Automatyczna,2021-04-01 15:12:00
+6083438479,dodge,grand-caravan,Gręzów,Mazowieckie,283,3605,29000,,False,,,,,,,2017,,127000,Firmy,,Benzyna,,Minivan,Czarny,Używane,,Na przednie koła,Automatyczna,2021-04-01 13:49:00
+6083167649,dodge,grand-caravan,Stasin,Lubelskie,283,3605,62000,Stany Zjednoczone,False,,,,True,,,2017,,133547,Firmy,,Benzyna,,Minivan,Niebieski,Używane,,Na przednie koła,Automatyczna,2021-04-01 09:33:00
+6083414261,dodge,grand-caravan,Warszawa,Mazowieckie,283,3605,46800,Stany Zjednoczone,False,,,,,,,2019,,60395,Firmy,,Benzyna,,SUV,Szary,Używane,,Na przednie koła,Automatyczna,2021-04-01 00:51:00
+6083173705,dodge,grand-caravan,Warszawa,Mazowieckie,198,3778,34900,,False,,,,,,,2010,2010-01-01 00:00:00,330000,Osoby prywatnej,,Benzyna+LPG,,Minivan,Inny kolor,Używane,,Na przednie koła,Automatyczna,2021-03-31 21:21:00
+6079265588,dodge,grand-caravan,Warszawa,Mazowieckie,283,3600,42000,Stany Zjednoczone,False,,,,,,,2017,,108000,Firmy,,Benzyna,,Minivan,Szary,Używane,True,Na przednie koła,Automatyczna,2021-03-31 21:00:00
+6083847639,dodge,grand-caravan,Gorzyce,Podkarpackie,283,3605,71900,,False,False,,,,,,2018,,62000,Osoby prywatnej,,Benzyna+LPG,,Minivan,Czarny,Używane,,Na przednie koła,Automatyczna,2021-03-31 17:49:00
+6080421964,dodge,grand-caravan,Zielonki,Małopolskie,283,3605,66700,Kanada,False,,,,True,,,2016,,70950,Osoby prywatnej,,Benzyna,,Minivan,Bordowy,Używane,,Na przednie koła,Automatyczna,2021-03-31 16:58:00
+6078515173,dodge,grand-caravan,Białystok,Podlaskie,283,3600,66900,,False,,,,,,,2017,,163330,Osoby prywatnej,,Benzyna,,Minivan,Szary,Używane,,,Automatyczna,2021-03-31 14:46:00
+6083453015,dodge,grand-caravan,Grudziądz,Kujawsko-pomorskie,283,3605,65000,,False,,,,,,,2020,,18041,Firmy,,Benzyna,,Minivan,Szary,Używane,,Na przednie koła,Automatyczna,2021-03-31 14:21:00
+6077255344,dodge,grand-caravan,Tarnobrzeg,Podkarpackie,283,3605,88000,,False,False,,,,,,2019,,14000,Osoby prywatnej,,Benzyna,,Minivan,Biały,Używane,True,,Automatyczna,2021-03-31 11:13:00
+6083828374,dodge,grand-caravan,Pabianice,Łódzkie,283,3605,73000,,False,,,,,,,2018,,56000,Osoby prywatnej,,Benzyna+LPG,,Minivan,Czarny,Używane,,,Automatyczna,2021-03-31 09:31:00
+6080901270,dodge,grand-caravan,Sulmierzyce,Wielkopolskie,283,3605,41820,Stany Zjednoczone,False,False,,,,,,2012,2012-01-01 00:00:00,53422,Firmy,,Benzyna+LPG,,Kombi,Inny kolor,Używane,,Na przednie koła,Automatyczna,2021-03-30 22:08:00
+6078505664,dodge,grand-caravan,Olsztyn,Warmińsko-mazurskie,175,3301,29900,Stany Zjednoczone,False,False,,,,,,2010,,123000,Osoby prywatnej,,Benzyna,304,Minivan,Srebrny,Używane,True,Na przednie koła,Automatyczna,2021-03-30 19:09:00
+6083813399,dodge,grand-caravan,Szynczyce,Łódzkie,,,51000,,False,,,,,,,2015,,178000,Osoby prywatnej,,Benzyna,,Minivan,Biały,Używane,,,,2021-03-30 17:34:00
+6083440509,dodge,grand-caravan,Giżycko,Warmińsko-mazurskie,283,3605,55000,,False,False,,,,,,2016,2016-01-01 00:00:00,88000,Osoby prywatnej,,Benzyna,,Minivan,Szary,Używane,True,Na przednie koła,Automatyczna,2021-03-30 15:57:00
+6083786946,dodge,grand-caravan,Bolszewo,Pomorskie,158,3294,2350,,False,,,,,,,1997,,280000,Osoby prywatnej,,Benzyna+LPG,,Minivan,Inny kolor,Używane,,,Automatyczna,2021-03-30 10:54:00
+6083433520,dodge,grand-caravan,Białystok,Podlaskie,283,3600,53505,Stany Zjednoczone,False,False,,,,,,2015,2015-12-17 00:00:00,191000,Firmy,,Benzyna,193,Minivan,Szary,Używane,True,Na przednie koła,Automatyczna,2021-03-30 10:01:00
+6083431984,dodge,grand-caravan,Tarnów,Małopolskie,158,3294,4900,,False,,,,,,,2001,,150000,Osoby prywatnej,,Benzyna+LPG,,Minivan,Srebrny,Używane,,Na przednie koła,Automatyczna,2021-03-30 07:50:00
+6067848487,dodge,grand-caravan,Żywiec,Śląskie,215,3778,19900,,False,False,,,,,,2005,,210000,Osoby prywatnej,,Benzyna+LPG,,SUV,Srebrny,Używane,,Na przednie koła,Automatyczna,2021-03-29 16:56:00
+6083419759,dodge,grand-caravan,Otmuchów,Opolskie,283,3605,56500,,False,False,,,,,,2017,,154236,Firmy,,Benzyna,,Minivan,Czarny,Używane,,Na przednie koła,Automatyczna,2021-03-29 16:07:00
+6083412216,dodge,grand-caravan,Dorotowo,Warmińsko-mazurskie,283,3605,61500,Stany Zjednoczone,False,False,,,,,,2016,,46500,Osoby prywatnej,,Benzyna+LPG,,Minivan,Szary,Używane,True,Na przednie koła,Automatyczna,2021-03-29 13:24:00
+6082230382,dodge,grand-caravan,Łapy,Podlaskie,283,3605,52900,,False,False,,,,,,2015,,117387,Osoby prywatnej,,Benzyna,,Minivan,Szary,Używane,,Na przednie koła,Automatyczna,2021-03-29 11:01:00
+6080508688,dodge,grand-caravan,Dębno,Zachodniopomorskie,215,3778,8500,,False,False,,,,,,2001,,25000,Osoby prywatnej,,Benzyna+LPG,,Minivan,Niebieski,Używane,,Na przednie koła,Automatyczna,2021-03-29 07:49:00
+6082060234,dodge,grand-caravan,Pruszcz Gdański,Pomorskie,283,3605,62900,,False,False,,,,,,2016,,50460,Firmy,,Benzyna,,Minivan,Biały,Używane,,Na przednie koła,Automatyczna,2021-03-28 13:02:00
+6079785707,dodge,grand-caravan,Tomaszów Lubelski,Lubelskie,283,3605,28900,,False,,,,,,,2013,,313000,Osoby prywatnej,,Benzyna,,Minivan,Czerwony,Używane,,Na przednie koła,Automatyczna,2021-03-28 12:20:00
+6083706167,dodge,grand-caravan,Warszawa,Mazowieckie,215,3778,29500,,False,,,,,,,2008,,181000,Osoby prywatnej,,Benzyna+LPG,,Minivan,Srebrny,Używane,,,Automatyczna,2021-03-27 16:09:00
+6083575903,dodge,grand-caravan,Łapy,Podlaskie,283,3605,59900,,False,,,,,,,2017,,85000,Firmy,True,Benzyna,,Minivan,Szary,Używane,,Na przednie koła,Automatyczna,2021-03-24 16:04:00
+6077452124,dodge,grand-caravan,Warszawa,Mazowieckie,283,3605,65999,,False,False,,,True,,,2018,,83453,Firmy,,Benzyna,,Minivan,Szary,Używane,True,Na przednie koła,Automatyczna,2021-03-24 09:54:00
+6083977143,dodge,journey,Łódź,Łódzkie,287,3604,68500,Stany Zjednoczone,False,False,,,,,,2017,2017-01-01 00:00:00,73537,Osoby prywatnej,,Benzyna,,SUV,Biały,Używane,,4x4 (stały),Automatyczna,2021-04-06 12:37:00
+6082915255,dodge,journey,Oleśnica,Dolnośląskie,140,1968,19499,,False,,,,,,,2008,,285000,Osoby prywatnej,,Diesel,,SUV,Czarny,Używane,,,Automatyczna,2021-04-05 13:04:00
+6083928137,dodge,journey,Rumia,Pomorskie,287,3604,62900,Stany Zjednoczone,False,False,,,,,,2015,2015-01-01 00:00:00,101000,Osoby prywatnej,,Benzyna,,SUV,Inny kolor,Używane,,4x4 (dołączany ręcznie),Automatyczna,2021-04-03 13:45:00
+6083711582,dodge,journey,Lublin,Lubelskie,284,3605,57900,,False,False,,,,,,2017,,62936,Firmy,True,Benzyna,,SUV,Srebrny,Używane,,4x4 (dołączany automatycznie),Automatyczna,2021-04-03 10:04:00
+6083904270,dodge,journey,Białystok,Podlaskie,287,3604,80999,,False,False,,,,,,2018,,57500,Osoby prywatnej,,Benzyna,,SUV,Biały,Używane,True,4x4 (dołączany automatycznie),Automatyczna,2021-04-02 11:35:00
+6083344442,dodge,journey,Czarna Białostocka,Podlaskie,140,1968,25500,Niemcy,False,False,,,,True,,2008,,188749,Osoby prywatnej,,Diesel,186,SUV,Czarny,Używane,,Na przednie koła,Automatyczna,2021-04-06 15:29:00
+6083415693,dodge,journey,Poznań,Wielkopolskie,287,3600,65900,Stany Zjednoczone,False,False,,,,,,2015,,52000,Osoby prywatnej,,Benzyna,,SUV,Czarny,Używane,True,Na przednie koła,Automatyczna,2021-04-06 14:40:00
+6082666985,dodge,journey,Bibice,Małopolskie,186,2736,13100,,False,False,,,,,,2008,,319000,Firmy,,Benzyna+LPG,,SUV,Czarny,Używane,,,Manualna,2021-04-06 12:00:00
+6074264858,dodge,journey,Wrocław,Dolnośląskie,320,3600,34900,Stany Zjednoczone,False,,,,,,,2017,,29910,Firmy,,Benzyna,,SUV,Szary,Używane,,4x4 (dołączany automatycznie),Automatyczna,2021-04-06 09:10:00
+6083197809,dodge,journey,Warszawa,Mazowieckie,283,3589,40600,Stany Zjednoczone,False,,,,True,,,2018,,39560,Firmy,,Benzyna,,SUV,Czarny,Używane,,4x4 (dołączany automatycznie),Automatyczna,2021-04-06 00:02:00
+6059606125,dodge,journey,Miedziana Góra,Świętokrzyskie,140,1968,8400,Francja,False,,,,,,,2008,,157001,Firmy,,Diesel,,SUV,Inny kolor,Używane,,,Automatyczna,2021-04-05 20:06:00
+6083004745,dodge,journey,Dąbrowa Tarnowska,Małopolskie,140,1968,25900,Włochy,False,,True,,True,True,,2009,2009-06-03 00:00:00,139457,Osoby prywatnej,,Diesel,,SUV,Srebrny,Używane,,Na przednie koła,Manualna,2021-04-05 19:22:00
+6083792418,dodge,journey,Zwoleń,Mazowieckie,170,2360,31900,,False,,,,,,,2010,,190000,Firmy,,Benzyna,,SUV,Czarny,Używane,,,Manualna,2021-04-05 12:28:00
+6081719731,dodge,journey,Białystok,Podlaskie,284,3604,68900,Stany Zjednoczone,False,False,,,,,,2016,,104000,Firmy,,Benzyna,,SUV,Inny kolor,Używane,True,4x4 (stały),Automatyczna,2021-04-05 09:34:00
+6080216609,dodge,journey,Białystok,Podlaskie,286,3600,37900,Kanada,False,,,,True,,,2015,,186000,Firmy,,Benzyna,,SUV,Czarny,Używane,True,Na przednie koła,Automatyczna,2021-04-04 23:42:00
+6080885952,dodge,journey,Luzino,Pomorskie,289,3604,39000,Kanada,False,False,True,,,,,2011,,207300,Osoby prywatnej,,Benzyna,,SUV,Czarny,Używane,,4x4 (stały),Automatyczna,2021-04-04 21:28:00
+6083592291,dodge,journey,Ostrów Mazowiecka,Mazowieckie,283,3600,35500,,False,False,True,,,,,2013,,115000,Osoby prywatnej,,Benzyna,168,SUV,Biały,Używane,,Na przednie koła,Automatyczna,2021-04-04 19:15:00
+6067288550,dodge,journey,Konstantynów Łódzki,Łódzkie,170,2400,49000,,False,False,,,,,,2016,,64000,Osoby prywatnej,,Benzyna,,Minivan,Zielony,Używane,,Na przednie koła,Automatyczna,2021-04-04 18:14:00
+6083942084,dodge,journey,Krubin,Mazowieckie,140,1968,24800,Niemcy,False,False,True,,,,,2008,2008-11-11 00:00:00,206000,Osoby prywatnej,,Diesel,186,SUV,Czarny,Używane,,Na przednie koła,Automatyczna,2021-04-04 17:56:00
+6082960680,dodge,journey,Ostrowiec Świętokrzyski,Świętokrzyskie,170,2359,29900,Niemcy,False,False,True,,True,,,2009,,178574,Firmy,,Benzyna+LPG,209,SUV,Czarny,Używane,True,Na przednie koła,Manualna,2021-04-03 22:43:00
+6083931188,dodge,journey,Lublin,Lubelskie,170,2360,29800,,False,False,True,,,,,2009,,167000,Firmy,,Benzyna,,SUV,Czarny,Używane,,Na przednie koła,Manualna,2021-04-03 17:19:00
+6079526794,dodge,journey,Zielonki,Małopolskie,286,3596,57900,Kanada,False,,,,True,,,2016,,122200,Osoby prywatnej,,Benzyna,,SUV,Czerwony,Używane,,4x4 (dołączany automatycznie),Automatyczna,2021-04-03 15:58:00
+6080605959,dodge,journey,Działdowo,Warmińsko-mazurskie,190,2360,27000,,False,,,,,,,2014,,104000,Firmy,,Benzyna,,SUV,Czarny,Używane,,,Manualna,2021-04-03 15:32:00
+6080607391,dodge,journey,Działdowo,Warmińsko-mazurskie,190,2360,33210,,False,,,,,,,2014,,104000,Firmy,,Benzyna,,SUV,Czarny,Używane,,,Automatyczna,2021-04-03 15:27:00
+6083928668,dodge,journey,Daleszynek,Wielkopolskie,286,3604,24000,Stany Zjednoczone,False,,,,,,,2013,,89800,Firmy,,Benzyna,,SUV,Czarny,Używane,,4x4 (dołączany automatycznie),Automatyczna,2021-04-03 14:22:00
+6083233036,dodge,journey,Rudnik,Małopolskie,140,1968,16900,,False,False,True,,,,,2008,,206000,Osoby prywatnej,,Diesel,186,SUV,Bordowy,Używane,,Na przednie koła,Automatyczna,2021-04-03 13:34:00
+6083566476,dodge,journey,Białystok,Podlaskie,290,3600,54900,Kanada,False,,,,True,,,2017,,86000,Firmy,,Benzyna,,SUV,Niebieski,Używane,True,4x4 (dołączany automatycznie),Automatyczna,2021-04-03 11:48:00
+6083559065,dodge,journey,Gniezno,Wielkopolskie,140,1968,21900,,False,,True,,True,,,2009,,196000,Firmy,,Diesel,171,SUV,Srebrny,Używane,True,Na przednie koła,Manualna,2021-04-03 08:24:00
+6082103006,dodge,journey,Wrocław,Dolnośląskie,287,3604,52000,Stany Zjednoczone,False,False,True,,,,,2014,2014-06-01 00:00:00,140000,Osoby prywatnej,,Benzyna+LPG,,SUV,Srebrny,Używane,,Na przednie koła,Automatyczna,2021-04-03 00:59:00
+6083105565,dodge,journey,Brzeziny,Łódzkie,139,1968,22700,Niemcy,False,False,True,,,,,2008,,199211,Firmy,,Diesel,186,SUV,Czarny,Używane,,Na przednie koła,Automatyczna,2021-04-02 18:22:00
+6083454339,dodge,journey,Busko-Zdrój,Świętokrzyskie,287,3605,49900,Niemcy,False,False,True,,,,,2012,,120000,Osoby prywatnej,,Benzyna+LPG,246,SUV,Biały,Używane,,Na przednie koła,Automatyczna,2021-04-02 15:39:00
+6083169236,dodge,journey,Stasin,Lubelskie,190,2400,53900,,False,,,,True,,,2015,,59355,Firmy,,Benzyna,,SUV,Czarny,Używane,,Na przednie koła,Automatyczna,2021-04-02 15:20:00
+6083260275,dodge,journey,Mrągowo,Warmińsko-mazurskie,140,1968,24900,,False,,True,,True,,,2010,2010-06-07 00:00:00,218259,Firmy,True,Diesel,165,SUV,Czarny,Używane,True,Na przednie koła,Manualna,2021-04-02 14:29:00
+6080729051,dodge,journey,Mszana Dolna,Małopolskie,287,3600,62900,Stany Zjednoczone,False,,,,,,,2018,,17000,Osoby prywatnej,,Benzyna,,SUV,Biały,Używane,,4x4 (dołączany automatycznie),Automatyczna,2021-04-02 14:20:00
+6083534944,dodge,journey,Białystok,Podlaskie,175,2360,53900,,False,False,,,,,,2015,2016-07-30 00:00:00,46000,Firmy,,Benzyna+LPG,,Minivan,Zielony,Używane,,Na przednie koła,Automatyczna,2021-04-02 13:42:00
+6083446402,dodge,journey,Limanowa,Małopolskie,286,3600,79900,Kanada,False,False,True,,,,,2018,,47000,Osoby prywatnej,,Benzyna,,SUV,Biały,Używane,,4x4 (dołączany automatycznie),Automatyczna,2021-04-01 21:06:00
+6057710395,dodge,journey,Będzin,Śląskie,140,1968,22900,Polska,False,False,True,,,,,2008,,245000,Osoby prywatnej,,Diesel,186,SUV,Czarny,Używane,,Na przednie koła,Automatyczna,2021-04-01 20:55:00
+6083207503,dodge,journey,Białystok,Podlaskie,286,3600,43900,Kanada,False,,True,,True,,,2012,,194000,Firmy,,Benzyna,246,SUV,Czarny,Używane,True,Na przednie koła,Automatyczna,2021-04-01 20:39:00
+6083889729,dodge,journey,Łódź,Łódzkie,170,2360,28000,Polska,False,False,,,,,,2008,2018-01-12 00:00:00,226834,Osoby prywatnej,,Benzyna+LPG,,SUV,Srebrny,Używane,,,Manualna,2021-04-01 19:07:00
+6078717079,dodge,journey,Szklarska Poręba,Dolnośląskie,140,1968,18800,,False,,,,,,,2008,,219500,Osoby prywatnej,,Diesel,,SUV,Czarny,Używane,,,Manualna,2021-04-01 17:03:00
+6082190426,dodge,journey,Białystok,Podlaskie,287,3604,69900,Stany Zjednoczone,False,False,,,True,,,2018,2018-01-01 00:00:00,51000,Firmy,,Benzyna,,Minivan,Inny kolor,Używane,True,Na przednie koła,Automatyczna,2021-04-01 15:28:00
+6083660134,dodge,journey,Gręzów,Mazowieckie,298,3600,46500,Stany Zjednoczone,False,False,,,,,,2017,,170000,Firmy,True,Benzyna,,SUV,Niebieski,Używane,,Na przednie koła,Automatyczna,2021-04-01 15:22:00
+6083657599,dodge,journey,Sławno,Zachodniopomorskie,140,1968,20000,Niemcy,False,,,,True,,,2010,,169370,Firmy,,Diesel,165,SUV,Srebrny,Używane,,Na przednie koła,Manualna,2021-04-01 14:33:00
+6082629296,dodge,journey,Zwoleń,Mazowieckie,170,2360,31900,,False,,True,,True,,,2010,,190000,Firmy,,Benzyna,209,SUV,Czarny,Używane,,Na przednie koła,Manualna,2021-04-01 12:36:00
+6082770211,dodge,journey,Kościerzyna,Pomorskie,140,1968,19900,,False,,,,,,,2009,,258120,Osoby prywatnej,,Diesel,171,SUV,Czarny,Używane,,Na przednie koła,Manualna,2021-04-01 10:15:00
+6083182665,dodge,journey,Zamość,Lubelskie,186,2736,29900,Belgia,False,,True,,,,,2012,,123000,Firmy,,Benzyna,246,SUV,Złoty,Używane,,Na przednie koła,Automatyczna,2021-04-01 10:15:00
+6081551387,dodge,journey,Warszawa,Mazowieckie,,,38800,,False,,,,,,,2012,,157000,Osoby prywatnej,,Benzyna,,SUV,Inny kolor,Używane,,,,2021-04-01 09:52:00
+6083460756,dodge,journey,Zielona Góra,Lubuskie,287,3605,73000,,False,,,,,,,2017,2017-01-01 00:00:00,111000,Osoby prywatnej,,Benzyna+LPG,,SUV,Czerwony,Używane,,4x4 (dołączany automatycznie),Automatyczna,2021-04-01 08:41:00
+6083850694,dodge,journey,Nowy Sącz,Małopolskie,140,1968,13900,Francja,False,,,,,,,2010,2010-04-24 00:00:00,127000,Osoby prywatnej,,Diesel,186,SUV,Szary,Używane,,Na przednie koła,Automatyczna,2021-03-31 20:12:00
+6083457653,dodge,journey,Warszawa,Mazowieckie,170,2360,44000,,False,False,,,,,,2015,,172000,Osoby prywatnej,,Benzyna,,SUV,Czarny,Używane,,Na przednie koła,Automatyczna,2021-03-31 19:59:00
+6079350982,dodge,journey,Siedlce,Mazowieckie,140,1968,14500,,False,False,,,True,True,,2008,2008-07-07 00:00:00,156000,Osoby prywatnej,,Diesel,176,SUV,Czarny,Używane,True,Na przednie koła,Automatyczna,2021-03-31 19:24:00
+6083849204,dodge,journey,Chojnów,Dolnośląskie,140,1968,16300,,False,,True,,,,,2008,2008-12-30 00:00:00,206000,Osoby prywatnej,,Diesel,171,Minivan,Bordowy,Używane,,Na przednie koła,Manualna,2021-03-31 19:09:00
+6071581967,dodge,journey,Sędziszów Małopolski,Podkarpackie,136,1968,22800,Belgia,False,,,,True,,,2009,,187880,Firmy,,Diesel,,Minivan,Czerwony,Używane,,Na przednie koła,Manualna,2021-03-31 18:31:00
+6083848211,dodge,journey,Swarzędz,Wielkopolskie,170,2400,25900,Niemcy,False,,True,,True,,,2010,,189765,Firmy,,Benzyna,,SUV,Bordowy,Używane,True,Na przednie koła,Manualna,2021-03-31 18:21:00
+6083224009,dodge,journey,Wejherowo,Pomorskie,140,1968,25499,Włochy,False,False,True,,,,,2009,2009-02-04 00:00:00,180000,Osoby prywatnej,,Diesel,186,SUV,Biały,Używane,,Na przednie koła,Automatyczna,2021-03-31 17:05:00
+6080930902,dodge,journey,Jelenia Góra,Dolnośląskie,140,1968,25500,,False,False,,,,,,2010,2010-12-09 00:00:00,230000,Osoby prywatnej,,Diesel,186,SUV,Czarny,Używane,,Na przednie koła,Automatyczna,2021-03-31 14:17:00
+6083831924,dodge,journey,Szczecin,Zachodniopomorskie,170,2400,22999,,False,,True,,True,,,2008,,155000,Osoby prywatnej,,Benzyna+LPG,,SUV,Czarny,Używane,,Na przednie koła,Manualna,2021-03-31 11:57:00
+6081096213,dodge,journey,Skawina,Małopolskie,170,2360,45000,,False,,,,,,,2015,2015-01-01 00:00:00,144713,Osoby prywatnej,,Benzyna,,SUV,Szary,Używane,,,Automatyczna,2021-03-31 10:48:00
+6083152289,dodge,journey,Siedlce,Mazowieckie,287,3600,38500,,False,,,,,,,2016,,73000,Firmy,,Benzyna,,SUV,Czerwony,Używane,,4x4 (stały),Automatyczna,2021-03-31 10:46:00
+6082441266,dodge,journey,Czerwionka-Leszczyny,Śląskie,140,1968,29500,Niemcy,False,,True,,True,,,2011,,169000,Firmy,,Diesel,171,SUV,Srebrny,Używane,,Na przednie koła,Manualna,2021-03-31
+6083442353,dodge,journey,Kraków,Małopolskie,285,3600,60000,Stany Zjednoczone,False,False,,,,,,2015,2020-01-25 00:00:00,138000,Osoby prywatnej,,Benzyna,,SUV,Czarny,Używane,,Na przednie koła,Automatyczna,2021-03-30 17:19:00
+6083138318,dodge,journey,Białystok,Podlaskie,287,3604,67900,Stany Zjednoczone,False,False,,,,,,2015,,103000,Firmy,,Benzyna,,SUV,Biały,Używane,True,4x4 (stały),Automatyczna,2021-03-30 16:14:00
+6083439541,dodge,journey,Chlewice,Świętokrzyskie,140,1968,22900,,False,False,,,,,,2009,,228000,Firmy,,Diesel,,SUV,Czarny,Używane,,,Automatyczna,2021-03-30 14:39:00
+6083133714,dodge,journey,Warszawa,Mazowieckie,287,3604,52000,,False,,,,,,,2015,,117670,Osoby prywatnej,,Benzyna,,SUV,Czarny,Używane,,,Automatyczna,2021-03-30 13:45:00
+6082373963,dodge,journey,Wałbrzych,Dolnośląskie,140,1968,18999,Niemcy,False,,,,True,,,2008,,260000,Firmy,,Diesel,,Minivan,Czarny,Używane,,Na przednie koła,Automatyczna,2021-03-30 06:05:00
+6083115388,dodge,journey,Zabrze,Śląskie,140,1968,26800,Belgia,False,,True,,True,,,2009,2009-02-11 00:00:00,162000,Osoby prywatnej,,Diesel,171,SUV,Szary,Używane,,Na przednie koła,Manualna,2021-03-29 22:49:00
+6083772352,dodge,journey,Łaziska,Wielkopolskie,140,1968,11900,,False,False,,,,,,2008,2008-08-29 00:00:00,279000,Osoby prywatnej,,Diesel,,SUV,Biały,Używane,,,Automatyczna,2021-03-29 18:34:00
+6083772103,dodge,journey,Działdowo,Warmińsko-mazurskie,140,1968,12000,Stany Zjednoczone,False,False,True,,,,,2008,2008-12-11 00:00:00,220000,Osoby prywatnej,,Diesel,186,SUV,Biały,Używane,,Na przednie koła,Automatyczna,2021-03-29 18:30:00
+6083423713,dodge,journey,Konstantynów Łódzki,Łódzkie,186,2736,37900,Niemcy,False,False,True,,True,,,2009,,113000,Osoby prywatnej,,Benzyna,246,SUV,Czarny,Używane,True,Na przednie koła,Automatyczna,2021-03-29 17:58:00
+6083747055,dodge,journey,Stare Babice,Mazowieckie,287,3604,65000,,False,False,,,,,,2016,,56356,Osoby prywatnej,,Benzyna,,SUV,Czarny,Używane,,Na przednie koła,Automatyczna,2021-03-29 17:10:00
+6083421015,dodge,journey,Jastków,Lubelskie,280,3605,32600,,False,,,,,,,2015,,138900,Firmy,,Benzyna,,Minivan,Szary,Używane,,Na przednie koła,Automatyczna,2021-03-29 17:00:00
+6083768274,dodge,journey,Ostrów Wielkopolski,Wielkopolskie,140,1968,19900,,False,,,,,,,2011,2011-08-03 00:00:00,156000,Firmy,,Diesel,165,SUV,Srebrny,Używane,,Na przednie koła,Manualna,2021-03-29 16:21:00
+6083765917,dodge,journey,Mszana Dolna,Małopolskie,140,1968,19900,Austria,False,,,,True,,,2010,,184000,Firmy,,Diesel,191,Kombi,Srebrny,Używane,,,Manualna,2021-03-29 14:28:00
+6083741090,dodge,journey,Tuchola,Kujawsko-pomorskie,140,1968,14800,,False,,,,,,,2008,,176000,Osoby prywatnej,,Diesel,,SUV,Srebrny,Używane,,,Automatyczna,2021-03-29 13:08:00
+6083748448,dodge,journey,Turek,Wielkopolskie,140,1968,16000,Polska,False,False,,,,True,,2008,2009-08-19 00:00:00,164000,Osoby prywatnej,,Diesel,186,SUV,Czarny,Używane,,Na przednie koła,Automatyczna,2021-03-28 22:52:00
+6083040275,dodge,journey,Suwałki,Podlaskie,140,1968,7700,,False,,,True,,,,2009,,205838,Osoby prywatnej,,Diesel,,SUV,Niebieski,Używane,,,Manualna,2021-03-28 13:12:00
+6080448835,dodge,journey,Białystok,Podlaskie,287,3600,79900,,False,False,,,True,,,2018,,29500,Firmy,,Benzyna,,SUV,Inny kolor,Używane,True,4x4 (stały),Automatyczna,2021-03-28 10:12:00
+6083721236,dodge,journey,Dukla,Podkarpackie,140,1968,25400,Niemcy,False,,True,,,,,2010,2010-03-12 00:00:00,183400,Osoby prywatnej,,Diesel,171,SUV,Czarny,Używane,,Na przednie koła,Manualna,2021-03-28 09:21:00
+6083022450,dodge,journey,Garwolin,Mazowieckie,287,3600,73000,,False,False,,,True,,,2018,,60000,Osoby prywatnej,,Benzyna,,SUV,Czarny,Używane,,Na przednie koła,Automatyczna,2021-03-27 22:36:00
+6082315809,dodge,journey,Wygiełzów,Małopolskie,287,3604,69999,Stany Zjednoczone,False,False,,,,,,2016,,43000,Osoby prywatnej,,Benzyna,,SUV,Szary,Używane,,4x4 (dołączany automatycznie),Automatyczna,2021-03-27 20:43:00
+6082682678,dodge,journey,Swarzędz,Wielkopolskie,140,1968,22900,,False,,True,,True,,,2009,,181085,Firmy,,Diesel,186,SUV,Czarny,Używane,True,Na przednie koła,Automatyczna,2021-03-27 18:13:00
+6083707603,dodge,journey,Białystok,Podlaskie,290,3600,44900,Kanada,False,,True,,True,,,2012,,143000,Firmy,,Benzyna,246,SUV,Brązowy,Używane,,4x4 (dołączany automatycznie),Automatyczna,2021-03-27 16:52:00
+6083347427,dodge,journey,Łapy,Podlaskie,285,3600,48900,,False,,,,True,,,2015,0015-08-07 00:00:00,183500,Firmy,,Benzyna,246,Minivan,Szary,Używane,,Na przednie koła,Automatyczna,2021-03-27 16:26:00
+6074434625,dodge,magnum,Białystok,Podlaskie,190,2736,16500,,False,,,,,,,2008,,219000,Osoby prywatnej,,Benzyna,,Kombi,Biały,Używane,,Na tylne koła,Automatyczna,2021-04-06 12:34:00
+6082647418,dodge,magnum,Goszczanów,Łódzkie,340,5654,25000,Stany Zjednoczone,False,False,,,,,,2005,2005-01-01 00:00:00,210000,Osoby prywatnej,,Benzyna+LPG,,Kombi,Niebieski,Używane,,Na tylne koła,Automatyczna,2021-04-05 10:59:00
+6083256021,dodge,magnum,Wadowice,Małopolskie,193,2736,23900,,False,False,,,,,,2008,2009-08-12 00:00:00,143400,Firmy,,Benzyna+LPG,,Kombi,Szary,Używane,,Na przednie koła,Automatyczna,2021-04-04 13:20:00
+6083601365,dodge,magnum,Warszawa,Mazowieckie,190,2736,16900,,False,False,,,,,,2005,,212000,Firmy,,Benzyna+LPG,,Kombi,Szary,Używane,,Na tylne koła,Automatyczna,2021-04-04 11:17:00
+6083727817,dodge,magnum,Prudnik,Opolskie,340,5654,27000,,False,False,,,,,,2005,2005-01-01 00:00:00,185000,Osoby prywatnej,,Benzyna+LPG,,Kombi,Czarny,Używane,,Na tylne koła,Automatyczna,2021-03-31 11:34:00
+6079783067,dodge,magnum,Krzeszowice,Małopolskie,190,2736,10900,,False,False,,,,,,2005,,260000,Osoby prywatnej,,Benzyna+LPG,,Kombi,Srebrny,Używane,,Na tylne koła,Automatyczna,2021-03-31 09:53:00
+6082006268,dodge,magnum,Janki,Mazowieckie,190,2736,23900,,False,False,,,,,,2007,2007-01-01 00:00:00,93000,Osoby prywatnej,,Benzyna,,Kombi,Bordowy,Używane,,Na tylne koła,Automatyczna,2021-03-29 08:19:00
+6083840757,dodge,nitro,Żagań,Lubuskie,177,2776,28000,Niemcy,False,False,True,,,,,2008,2008-07-29 00:00:00,202594,Osoby prywatnej,,Diesel,250,SUV,Czarny,Używane,,4x4 (dołączany ręcznie),Automatyczna,2021-04-06 15:06:00
+6083978944,dodge,nitro,Słupsk,Pomorskie,177,2777,26500,,False,,True,,True,,,2007,,152000,Firmy,,Diesel,,SUV,Czerwony,Używane,,4x4 (dołączany ręcznie),Automatyczna,2021-04-06 12:47:00
+6083674783,dodge,nitro,Reda,Pomorskie,177,2776,28900,,False,,,,,,,2007,,146200,Osoby prywatnej,,Diesel,228,SUV,Srebrny,Używane,,4x4 (dołączany ręcznie),Manualna,2021-04-06 09:48:00
+6083322030,dodge,nitro,Elbląg,Warmińsko-mazurskie,177,2776,27300,,False,,True,,,,,2008,,185817,Osoby prywatnej,,Diesel,228,SUV,Czarny,Używane,,4x4 (dołączany ręcznie),Manualna,2021-04-05 20:26:00
+6082265332,dodge,nitro,Myślenice,Małopolskie,177,2776,23900,,False,,True,,,,,2008,,234000,Osoby prywatnej,,Diesel,250,SUV,Biały,Używane,,4x4 (dołączany ręcznie),Automatyczna,2021-04-05 10:28:00
+6083558802,dodge,nitro,Bogoria,Świętokrzyskie,177,2776,28800,Belgia,False,False,True,,True,,,2008,,231000,Osoby prywatnej,,Diesel,,SUV,Czarny,Używane,True,,Automatyczna,2021-04-04 21:56:00
+6083943410,dodge,nitro,Zawiercie,Śląskie,177,2777,33900,,False,,True,,True,,,2008,,144000,Firmy,,Diesel,,SUV,Bordowy,Używane,,Na przednie koła,Manualna,2021-04-04 21:14:00
+6083429301,dodge,nitro,Serock,Mazowieckie,210,3700,20910,,False,,,,,,,2010,,320000,Osoby prywatnej,,Benzyna,,SUV,Zielony,Używane,,,Automatyczna,2021-03-31 22:51:00
+6083101047,dodge,nitro,Brodnica,Kujawsko-pomorskie,177,2776,29800,,False,,True,,,,,2010,,243000,Firmy,,Diesel,250,SUV,Srebrny,Używane,True,4x4 (dołączany ręcznie),Automatyczna,2021-03-29 17:23:00
+6083080242,dodge,nitro,Trzcianka,Wielkopolskie,177,2777,34900,Francja,False,False,,,,,,2007,,84200,Osoby prywatnej,,Diesel,,SUV,Czerwony,Używane,,4x4 (dołączany ręcznie),Automatyczna,2021-03-29 11:32:00
+6082444043,dodge,nitro,Gorzów Wielkopolski,Lubuskie,177,2776,26900,,False,,,,,,,2007,,266500,Firmy,,Diesel,,SUV,Inny kolor,Używane,,4x4 (dołączany ręcznie),Automatyczna,2021-03-28 21:01:00
+6083930972,dodge,other,Mysłowice,Śląskie,177,5900,79900,,False,,,,,,,1972,,59000,Osoby prywatnej,,Benzyna,,Coupe,Żółty,Używane,,Na tylne koła,Automatyczna,2021-04-03 17:10:00
+6079790990,dodge,other,Mysłowice,Śląskie,80,3800,149900,,False,,,,,,,1946,,95000,Osoby prywatnej,,Benzyna,,SUV,Czarny,Używane,,Na tylne koła,Manualna,2021-04-03 16:50:00
+6081260430,dodge,ram,Pruszków,Mazowieckie,390,5654,166000,Stany Zjednoczone,False,False,,,,,,2016,,30800,Osoby prywatnej,,Benzyna,,SUV,Bordowy,Używane,,4x4 (dołączany ręcznie),Automatyczna,2021-04-05 16:56:00
+6083314789,dodge,ram,Chojnice,Pomorskie,390,5654,195000,Stany Zjednoczone,False,False,,,,,,2018,,65000,Osoby prywatnej,,Benzyna,,SUV,Bordowy,Używane,,4x4 (stały),Automatyczna,2021-04-03 16:50:00
+6081696311,dodge,ram,Bydgoszcz,Kujawsko-pomorskie,390,5654,84900,,False,,,,,,,2010,,215000,Osoby prywatnej,,Benzyna,,SUV,Niebieski,Używane,,4x4 (stały),Automatyczna,2021-04-03 13:12:00
+6083277851,dodge,ram,Jedlińsk,Mazowieckie,145,5200,42000,,False,,,,,,,1985,,253400,Osoby prywatnej,,Benzyna,,SUV,Beżowy,Używane,,Na tylne koła,Automatyczna,2021-04-02 19:19:00
+6083612752,dodge,ram,Sulejówek,Mazowieckie,390,5654,448950,Polska,False,,True,,,,,2021,,1,Firmy,True,Benzyna,,SUV,Czarny,Nowe,,4x4 (dołączany ręcznie),Automatyczna,2021-04-06 15:10:00
+6083839629,dodge,ram,Wrocław,Dolnośląskie,390,5654,275490,Polska,False,,True,,,,,2020,,6,Firmy,,Benzyna,332,SUV,Czarny,Nowe,,4x4 (stały),Automatyczna,2021-04-06 14:35:00
+6082207867,dodge,ram,Józefów,Mazowieckie,390,5654,424350,Polska,False,,True,,,,,2021,,1,Firmy,True,Benzyna,332,SUV,Czerwony,Nowe,,4x4 (dołączany ręcznie),Automatyczna,2021-04-06 12:48:00
+6083978599,dodge,ram,Katowice,Śląskie,,5700,85000,Stany Zjednoczone,False,False,,,,,,2014,,6000,Firmy,,Benzyna,,Minivan,Biały,Używane,,4x4 (dołączany ręcznie),Automatyczna,2021-04-06 12:44:00
+6082737599,dodge,ram,Tarnowskie Góry,Śląskie,390,5654,140800,Stany Zjednoczone,False,False,,,,,,2017,2017-01-01 00:00:00,48800,Firmy,,Benzyna,,SUV,Bordowy,Używane,,4x4 (dołączany ręcznie),Automatyczna,2021-04-06 11:11:00
+6083973841,dodge,ram,Daleszynek,Wielkopolskie,390,5654,49000,Stany Zjednoczone,False,,,,,,,2014,,94275,Firmy,,Benzyna,,SUV,Czarny,Używane,,4x4 (stały),Automatyczna,2021-04-06 11:09:00
+6083595989,dodge,ram,Warszawa,Mazowieckie,390,5654,159900,Polska,False,False,True,,,,,2015,2016-04-01 00:00:00,104000,Osoby prywatnej,,Benzyna,,SUV,Brązowy,Używane,True,4x4 (stały),Automatyczna,2021-04-06 09:28:00
+6080972092,dodge,ram,Ksawerów,Łódzkie,345,5701,31500,Stany Zjednoczone,False,,,,,,,2004,,240000,Osoby prywatnej,,Benzyna,,SUV,Czarny,Używane,,Na tylne koła,Automatyczna,2021-04-05 19:08:00
+6081546641,dodge,ram,Bydgoszcz,Kujawsko-pomorskie,310,4701,121155,Kanada,False,False,True,,,,,2016,2016-01-01 00:00:00,70500,Firmy,,Benzyna,,SUV,Czarny,Używane,True,4x4 (stały),Automatyczna,2021-04-05 17:59:00
+6080927915,dodge,ram,Lutomiersk,Łódzkie,390,5654,87000,Stany Zjednoczone,False,False,,,,,,2014,2013-01-01 00:00:00,298000,Osoby prywatnej,,Benzyna+LPG,,SUV,Biały,Używane,,4x4 (stały),Automatyczna,2021-04-05 16:41:00
+6083304414,dodge,ram,Warszawa,Mazowieckie,390,5654,41500,,False,,,,,,,2015,,102166,Firmy,,Benzyna,,SUV,Czarny,Używane,,4x4 (stały),Automatyczna,2021-04-05 14:22:00
+6083000672,dodge,ram,Odolanów,Wielkopolskie,390,5654,89000,Kanada,False,False,True,,,,,2012,,106500,Osoby prywatnej,,Benzyna+LPG,,SUV,Biały,Używane,,4x4 (dołączany ręcznie),Automatyczna,2021-04-05 13:46:00
+6083175771,dodge,ram,Lublin,Lubelskie,390,5654,129150,Stany Zjednoczone,False,False,,,,,,2017,2017-01-01 00:00:00,92000,Osoby prywatnej,,Benzyna+LPG,,SUV,Czarny,Używane,,4x4 (dołączany automatycznie),Automatyczna,2021-04-04 23:21:00
+6083943601,dodge,ram,Poznań,Wielkopolskie,390,5654,109000,,False,False,True,,,,,2013,,197000,Osoby prywatnej,,Benzyna,,SUV,Czarny,Używane,True,4x4 (dołączany automatycznie),Automatyczna,2021-04-04 21:51:00
+6082911233,dodge,ram,Olsztyn,Warmińsko-mazurskie,401,5654,357000,,False,,True,,,,,2020,2020-10-08 00:00:00,11,Firmy,True,Benzyna,,SUV,Szary,Nowe,True,4x4 (stały),Automatyczna,2021-04-04 19:58:00
+6080299320,dodge,ram,Wrocław,Dolnośląskie,390,5654,424990,Polska,False,,True,,,,,2020,,39,Firmy,,Benzyna,,SUV,Czarny,Nowe,,4x4 (stały),Automatyczna,2021-04-04 17:29:00
+6083618848,dodge,ram,Stępin,Dolnośląskie,345,5654,43900,,False,False,,,,,,2005,,197208,Firmy,,Benzyna+LPG,,SUV,Czarny,Używane,,,Automatyczna,2021-04-04 17:20:00
+6078477500,dodge,ram,Warszawa,Mazowieckie,390,5654,379900,Polska,False,,True,,,,,2020,,22,Firmy,,Benzyna,,SUV,Czarny,Nowe,,4x4 (dołączany automatycznie),Automatyczna,2021-04-04 17:02:00
+6082999271,dodge,ram,Krzeczyn,Dolnośląskie,390,5654,119000,Stany Zjednoczone,False,False,,,,,,2015,2016-01-01 00:00:00,200000,Osoby prywatnej,,Benzyna,,SUV,Biały,Używane,,4x4 (stały),Automatyczna,2021-04-04 12:54:00
+6083605658,dodge,ram,Białystok,Podlaskie,390,5654,64900,,False,,,,,,,2017,,231000,Firmy,,Benzyna,,SUV,Niebieski,Używane,,4x4 (stały),Automatyczna,2021-04-04 12:34:00
+6083938981,dodge,ram,Białystok,Podlaskie,390,5654,102090,,False,False,,,,,,2012,,105000,Osoby prywatnej,,Benzyna+LPG,,SUV,Czarny,Używane,,4x4 (dołączany automatycznie),Automatyczna,2021-04-04 11:15:00
+6083938879,dodge,ram,Tarnów,Małopolskie,250,5000,23000,,False,False,,,,,,1988,,199000,Osoby prywatnej,,Benzyna,,Minivan,Szary,Używane,,,Automatyczna,2021-04-04 11:00:00
+6080711446,dodge,ram,Łomża,Podlaskie,390,5654,119900,,False,False,,,True,,,2018,2019-12-31 00:00:00,42200,Osoby prywatnej,True,Benzyna,,SUV,Biały,Używane,True,4x4 (stały),Automatyczna,2021-04-04 10:11:00
+6080004436,dodge,ram,Nowa Dęba,Podkarpackie,390,5654,8000,Stany Zjednoczone,False,,,,,,,2010,,160000,Firmy,,Benzyna,,SUV,Srebrny,Używane,,4x4 (dołączany ręcznie),Automatyczna,2021-04-04 08:21:00
+6078835721,dodge,ram,Kraków,Małopolskie,305,3600,86100,Kanada,False,,,,,,,2014,,97760,Osoby prywatnej,,Benzyna,,SUV,Czarny,Używane,,4x4 (dołączany ręcznie),Automatyczna,2021-04-03 21:35:00
+6083323334,dodge,ram,Nowy Świętów,Opolskie,390,5654,133000,,False,,,,,,,2013,2013-09-03 00:00:00,137000,Firmy,,Benzyna+LPG,,SUV,Czarny,Używane,,4x4 (stały),Automatyczna,2021-04-03 21:22:00
+6083514605,dodge,ram,Warszawa,Mazowieckie,244,2988,135000,Stany Zjednoczone,False,False,,,,True,,2015,,111222,Osoby prywatnej,,Diesel,258,SUV,Szary,Używane,True,4x4 (dołączany ręcznie),Automatyczna,2021-04-03 21:16:00
+6083319790,dodge,ram,Ostróda,Warmińsko-mazurskie,240,4701,26900,,False,False,,,,,,2003,,248002,Osoby prywatnej,,Benzyna+LPG,,SUV,Bordowy,Używane,,Na tylne koła,Automatyczna,2021-04-03 18:54:00
+6083930692,dodge,ram,Tarnów,Małopolskie,390,5654,72900,Stany Zjednoczone,False,,,,,,,2013,2013-01-01 00:00:00,260000,Osoby prywatnej,,Benzyna,,SUV,Czarny,Używane,,4x4 (dołączany ręcznie),Automatyczna,2021-04-03 17:00:00
+6083307065,dodge,ram,Sulejówek,Mazowieckie,390,5654,412050,Polska,False,,True,,,,,2020,,1,Firmy,True,Benzyna,,SUV,Czarny,Nowe,,4x4 (dołączany ręcznie),Automatyczna,2021-04-03 15:03:00
+6082578804,dodge,ram,Myślenice,Małopolskie,390,5654,174900,Kanada,False,False,,,True,,,2018,2018-01-01 00:00:00,109000,Firmy,,Benzyna+LPG,204,SUV,Niebieski,Używane,True,4x4 (stały),Automatyczna,2021-04-03 13:12:00
+6083465766,dodge,ram,Sulejówek,Mazowieckie,390,5654,449934,Polska,False,,True,,,,,2021,,1,Firmy,True,Benzyna,,SUV,Czarny,Nowe,,4x4 (dołączany ręcznie),Automatyczna,2021-04-03 10:36:00
+6079395441,dodge,ram,Leszno,Wielkopolskie,390,5700,134070,,False,False,True,,,,,2017,2017-01-01 00:00:00,33600,Firmy,True,Benzyna,,SUV,Srebrny,Używane,,4x4 (dołączany automatycznie),Automatyczna,2021-04-03 10:23:00
+6083464720,dodge,ram,Sulejówek,Mazowieckie,390,5654,424350,Polska,False,,True,,,,,2021,,1,Firmy,True,Benzyna,,SUV,Czerwony,Nowe,,4x4 (dołączany ręcznie),Automatyczna,2021-04-03 10:17:00
+6082394877,dodge,ram,Wrocław,Dolnośląskie,390,5654,433990,Polska,False,,True,,,,,2020,,6,Firmy,,Benzyna+LPG,,SUV,Szary,Nowe,,4x4 (stały),Automatyczna,2021-04-03 09:54:00
+6083287727,dodge,ram,Karnin,Lubuskie,390,5654,253500,Polska,False,,,,,,,2018,2019-01-01 00:00:00,54142,Osoby prywatnej,,Benzyna,,SUV,Czarny,Używane,,4x4 (stały),Automatyczna,2021-04-03 07:57:00
+6083227892,dodge,ram,Puławy,Lubelskie,390,5654,143000,,False,,,,,,,2016,,101000,Osoby prywatnej,,Benzyna,,SUV,Czarny,Używane,True,4x4 (stały),Automatyczna,2021-04-03 07:29:00
+6083923234,dodge,ram,Dziewule,Mazowieckie,390,5654,145000,,False,False,True,,True,,,2017,,52054,Firmy,,Benzyna,,SUV,Czarny,Używane,True,4x4 (dołączany ręcznie),Automatyczna,2021-04-02 23:55:00
+6082965349,dodge,ram,Białystok,Podlaskie,390,5654,51900,Kanada,False,,,,True,,,2014,,113000,Firmy,,Benzyna,,SUV,Czarny,Używane,True,4x4 (stały),Automatyczna,2021-04-02 22:53:00
+6077315124,dodge,ram,Jeżów,Łódzkie,240,4701,116850,,False,False,,,,,,2003,,189000,Osoby prywatnej,,Benzyna+LPG,,SUV,Bordowy,Używane,,4x4 (dołączany ręcznie),Automatyczna,2021-04-02 17:58:00
+6083455503,dodge,ram,Katowice,Śląskie,310,4701,85000,,False,False,,,,,,2014,2014-01-01 00:00:00,131000,Firmy,,Benzyna,,SUV,Brązowy,Używane,True,4x4 (stały),Automatyczna,2021-04-02 17:05:00
+6076149177,dodge,ram,Złotów,Wielkopolskie,390,5654,186960,,False,False,,,,True,,2019,2020-03-03 00:00:00,52000,Osoby prywatnej,,Benzyna+LPG,,SUV,Czarny,Używane,,4x4 (stały),Automatyczna,2021-04-02 15:13:00
+6083904489,dodge,ram,Człuchów,Pomorskie,390,5654,148000,,False,,,,,,,2019,,9500,Firmy,,Benzyna,,SUV,Srebrny,Używane,,4x4 (dołączany automatycznie),Automatyczna,2021-04-02 11:39:00
+6079422931,dodge,ram,Warszawa,Mazowieckie,390,5654,413000,Polska,False,,True,,,,,2020,,10,Firmy,True,Benzyna,,SUV,Czarny,Nowe,,4x4 (stały),Automatyczna,2021-04-02 10:41:00
+6083519937,dodge,ram,Białystok,Podlaskie,390,5654,88000,,False,,,,,,,2020,,2494,Firmy,,Benzyna,,SUV,Biały,Używane,,4x4 (stały),Automatyczna,2021-04-02 08:07:00
+6083893358,dodge,ram,Włoszczowa,Świętokrzyskie,235,4701,34000,Stany Zjednoczone,False,False,True,,,,,2003,,254000,Osoby prywatnej,,Benzyna,,SUV,Niebieski,Używane,,,Automatyczna,2021-04-01 21:38:00
+6083889167,dodge,ram,Człuchów,Pomorskie,390,5654,97500,,False,,,,,,,2019,,34000,Firmy,,Benzyna,,SUV,Niebieski,Używane,,4x4 (dołączany automatycznie),Automatyczna,2021-04-01 18:33:00
+6083204497,dodge,ram,Mokra,Podkarpackie,390,5654,72000,,False,False,,,,,,2015,,88000,Osoby prywatnej,,Benzyna,,SUV,Biały,Używane,,Na tylne koła,Automatyczna,2021-04-01 17:55:00
+6082854097,dodge,ram,Człuchów,Pomorskie,390,5654,227900,,False,False,,,,,,2019,,52000,Firmy,,Benzyna+LPG,,SUV,Czarny,Używane,,4x4 (dołączany automatycznie),Automatyczna,2021-04-01 17:23:00
+6081427588,dodge,ram,Olsztyn,Warmińsko-mazurskie,390,5654,369000,,False,,True,,,,,2020,2020-12-15 00:00:00,10,Firmy,True,Benzyna+LPG,,SUV,Czarny,Nowe,True,4x4 (stały),Automatyczna,2021-04-01 17:00:00
+6073301278,dodge,ram,Korfantów,Opolskie,401,5654,289000,,False,False,,,,,,2019,,51000,Osoby prywatnej,,Benzyna,,SUV,Czarny,Używane,True,4x4 (dołączany automatycznie),Automatyczna,2021-04-01 16:17:00
+6083198769,dodge,ram,Człuchów,Pomorskie,390,5654,162000,Stany Zjednoczone,False,,,,,,,2019,,20000,Firmy,,Benzyna+LPG,,SUV,Czarny,Używane,,4x4 (dołączany automatycznie),Automatyczna,2021-04-01 15:20:00
+6083234437,dodge,ram,Aleksandrów Łódzki,Łódzkie,310,4701,24900,,False,,,,,,,2006,,347000,Firmy,,Benzyna,,SUV,Srebrny,Używane,,4x4 (stały),Automatyczna,2021-04-01 14:50:00
+6077698834,dodge,ram,Józefów,Mazowieckie,390,5654,449934,Polska,False,,True,,,,,2020,,1,Firmy,True,Benzyna,,SUV,Czarny,Nowe,,4x4 (dołączany ręcznie),Automatyczna,2021-04-01 14:20:00
+6083233674,dodge,ram,Aleksandrów Łódzki,Łódzkie,345,5701,31500,,False,,,,,,,2005,,227000,Firmy,,Benzyna,,SUV,Srebrny,Używane,,4x4 (dołączany automatycznie),Automatyczna,2021-04-01 14:03:00
+6083874802,dodge,ram,Warszawa,Mazowieckie,390,5654,145000,,False,,,,,,,2019,,20000,Firmy,,Benzyna,289,SUV,Czarny,Używane,,4x4 (stały),Automatyczna,2021-04-01 13:46:00
+6082204971,dodge,ram,Aleksandrów Łódzki,Łódzkie,390,5654,38900,,False,,,,,,,2010,,390000,Firmy,,Benzyna,,SUV,Czarny,Używane,,4x4 (stały),Automatyczna,2021-04-01 13:42:00
+6080545683,dodge,ram,Aleksandrów Łódzki,Łódzkie,345,5701,26900,,False,,,,,,,2007,,222000,Firmy,,Benzyna,,SUV,Szary,Używane,,4x4 (dołączany automatycznie),Automatyczna,2021-04-01 13:31:00
+6081189002,dodge,ram,Aleksandrów Łódzki,Łódzkie,345,5701,32900,Stany Zjednoczone,False,,,,,,,2007,,292000,Firmy,,Benzyna,,SUV,Czarny,Używane,,4x4 (dołączany automatycznie),Automatyczna,2021-04-01 13:28:00
+6082188731,dodge,ram,Białystok,Podlaskie,390,5654,70900,Kanada,False,,True,,True,,,2015,,201000,Firmy,,Benzyna,,SUV,Czarny,Używane,True,4x4 (stały),Automatyczna,2021-04-01 13:27:00
+6082056293,dodge,ram,Wrocław,Dolnośląskie,390,5654,413760,Polska,False,,True,,,,,2020,,6,Firmy,,Benzyna,,SUV,Czerwony,Nowe,,4x4 (stały),Automatyczna,2021-04-01 12:29:00
+6081945626,dodge,ram,Wrocław,Dolnośląskie,390,5654,419990,Polska,False,,True,,,,,2020,,6,Firmy,,Benzyna,,SUV,Czarny,Nowe,,4x4 (stały),Automatyczna,2021-04-01 12:27:00
+6079582703,dodge,ram,Józefów,Mazowieckie,390,5654,412050,Polska,False,,True,,,,,2021,,1,Firmy,True,Benzyna,,SUV,Czarny,Nowe,,4x4 (dołączany ręcznie),Automatyczna,2021-04-01 12:24:00
+6082184977,dodge,ram,Warszawa,Mazowieckie,390,5654,139900,Stany Zjednoczone,False,False,,,,,,2012,,61652,Firmy,,Benzyna+LPG,,SUV,Biały,Używane,,4x4 (stały),Automatyczna,2021-04-01 09:16:00
+6083860164,dodge,ram,Wałbrzych,Dolnośląskie,390,5654,123000,,False,,,,,,,2018,2018-03-07 00:00:00,26123,Osoby prywatnej,,Benzyna,,SUV,Biały,Używane,,4x4 (stały),Automatyczna,2021-04-01 07:56:00
+6083225418,dodge,ram,Chorzów,Śląskie,390,5654,429900,Polska,False,,True,,,,,2021,,1,Firmy,True,Benzyna,332,SUV,Czarny,Nowe,,4x4 (stały),Automatyczna,2021-03-31 19:21:00
+6083225377,dodge,ram,Chorzów,Śląskie,390,5654,429900,Polska,False,,True,,,,,2021,,20,Firmy,True,Benzyna,332,SUV,Czarny,Nowe,,4x4 (stały),Automatyczna,2021-03-31 19:11:00
+6083225340,dodge,ram,Chorzów,Śląskie,390,5654,429900,Polska,False,,True,,,,,2021,,20,Firmy,True,Benzyna,332,SUV,Czerwony,Nowe,,4x4 (stały),Automatyczna,2021-03-31 19:06:00
+6083225291,dodge,ram,Chorzów,Śląskie,390,5654,469900,Polska,False,,True,,,,,2021,,20,Firmy,True,Benzyna,332,SUV,Bordowy,Nowe,,4x4 (stały),Automatyczna,2021-03-31 19:01:00
+6079199577,dodge,ram,Korfantów,Opolskie,401,5700,289000,,False,False,,,,,,2020,,8500,Osoby prywatnej,,Benzyna+LPG,,SUV,Biały,Używane,True,4x4 (dołączany automatycznie),Automatyczna,2021-03-31 15:21:00
+6081665357,dodge,ram,Mogilany,Małopolskie,390,5654,139900,Kanada,False,,,,,,,2017,,102824,Firmy,,Benzyna,,SUV,Biały,Używane,,4x4 (stały),Automatyczna,2021-03-31 14:29:00
+6083835403,dodge,ram,Kwidzyn,Pomorskie,390,5654,189000,Stany Zjednoczone,False,,,,,,,2020,2020-01-01 00:00:00,12000,Firmy,,Benzyna,,SUV,Szary,Używane,,4x4 (stały),Automatyczna,2021-03-31 13:22:00
+6082137992,dodge,ram,Białystok,Podlaskie,390,5654,85900,Kanada,False,,,,True,,,2017,,120000,Firmy,,Benzyna,,SUV,Niebieski,Używane,True,4x4 (stały),Automatyczna,2021-03-31 11:10:00
+6082057372,dodge,ram,Komorów,Lubuskie,390,5654,45500,,False,,,,,,,2009,,190000,Osoby prywatnej,,Benzyna,,SUV,Srebrny,Używane,,4x4 (dołączany automatycznie),Automatyczna,2021-03-31 09:30:00
+6083132630,dodge,ram,Szkocja,Podlaskie,390,5654,159000,,False,,,,,,,2017,,114691,Osoby prywatnej,,Benzyna,,SUV,Biały,Używane,,4x4 (stały),Automatyczna,2021-03-31 06:18:00
+6078704024,dodge,ram,Krzeszowice,Małopolskie,390,5654,116850,Polska,False,,,,,,,2017,,42850,Osoby prywatnej,,Benzyna,,SUV,Szary,Używane,,4x4 (dołączany ręcznie),Automatyczna,2021-03-30 23:33:00
+6083144912,dodge,ram,Toruń,Kujawsko-pomorskie,410,6400,325000,,False,,,,,,,2019,,25000,Osoby prywatnej,,Benzyna+LPG,,SUV,Czarny,Używane,,,Automatyczna,2021-03-30 22:30:00
+6080441697,dodge,ram,Rybnik,Śląskie,215,3701,34500,,False,False,,,,,,2002,,199000,Firmy,,Benzyna+LPG,,SUV,Biały,Używane,,Na tylne koła,Manualna,2021-03-30 21:19:00
+6083141778,dodge,ram,Poznań,Wielkopolskie,390,5654,86000,Stany Zjednoczone,False,False,,,,,,2012,2012-09-01 00:00:00,230000,Osoby prywatnej,,Benzyna+LPG,,SUV,Srebrny,Używane,,4x4 (stały),Automatyczna,2021-03-30 18:32:00
+6081708099,dodge,ram,Żywiec,Śląskie,390,5654,117000,,False,,,,,,,2017,,77000,Osoby prywatnej,,Benzyna,,SUV,Zielony,Używane,,4x4 (stały),Automatyczna,2021-03-30 14:02:00
+6082632755,dodge,ram,Sierakowice,Pomorskie,390,5654,105000,,False,,,,,,,2014,,217000,Firmy,,Benzyna,,SUV,Srebrny,Używane,,4x4 (stały),Automatyczna,2021-03-30 13:32:00
+6077829216,dodge,ram,Sierakowice,Pomorskie,390,5654,61900,Stany Zjednoczone,False,,,,,,,2011,2010-04-01 00:00:00,1000,Firmy,,Benzyna,,SUV,Biały,Używane,,4x4 (stały),Automatyczna,2021-03-30 13:25:00
+6082369321,dodge,ram,Ostrołęka,Mazowieckie,410,5700,116850,,False,False,,,,,,2014,,142000,Firmy,,Benzyna,,SUV,Czarny,Używane,,4x4 (dołączany automatycznie),Automatyczna,2021-03-30 07:58:00
+6083772969,dodge,ram,Nowa Dęba,Podkarpackie,240,4701,31980,,False,,,,,,,2008,,227000,Firmy,,Benzyna,,SUV,Czarny,Używane,True,4x4 (dołączany ręcznie),Automatyczna,2021-03-29 18:52:00
+6083424949,dodge,ram,Stare Miasto,Wielkopolskie,390,5654,149900,,False,,True,,True,,,2014,2014-12-18 00:00:00,127000,Osoby prywatnej,,Benzyna+LPG,,SUV,Czarny,Używane,True,4x4 (stały),Automatyczna,2021-03-29 18:43:00
+6082207280,dodge,ram,Białystok,Podlaskie,301,3000,65000,,False,,,,,,,2015,,135000,Osoby prywatnej,,Diesel,,SUV,Czarny,Używane,,4x4 (stały),Automatyczna,2021-03-29 13:03:00
+6083761369,dodge,ram,Włocławek,Kujawsko-pomorskie,390,5654,93500,,False,False,,,,,,2015,,101000,Osoby prywatnej,,Benzyna,,SUV,Biały,Używane,,4x4 (stały),Automatyczna,2021-03-29 12:07:00
+6082589058,dodge,ram,Turek,Wielkopolskie,240,4701,16900,Stany Zjednoczone,False,,,,,,,2005,2005-06-04 00:00:00,236000,Firmy,,Benzyna,,SUV,Srebrny,Używane,,4x4 (dołączany ręcznie),Automatyczna,2021-03-29 10:54:00
+6082103387,dodge,ram,Chybie,Śląskie,235,4701,45510,,False,False,True,,True,,,2003,2003-01-01 00:00:00,260548,Osoby prywatnej,,Benzyna,,SUV,Niebieski,Używane,True,4x4 (dołączany ręcznie),Manualna,2021-03-29 09:23:00
+6057574492,dodge,ram,Korfantów,Opolskie,401,5700,289000,Stany Zjednoczone,False,False,,,,,,2019,,14000,Osoby prywatnej,,Benzyna,,SUV,Szary,Używane,True,4x4 (dołączany automatycznie),Automatyczna,2021-03-29 08:52:00
+6083741024,dodge,ram,Sokołów Podlaski,Mazowieckie,390,5654,175000,,False,,,,,,,2020,,415,Osoby prywatnej,,Benzyna,,SUV,Szary,Używane,,4x4 (stały),Automatyczna,2021-03-28 18:05:00
+6083738212,dodge,ram,Sokołów Podlaski,Mazowieckie,310,4701,88500,,False,,,,,,,2016,,45000,Osoby prywatnej,,Benzyna,,SUV,Biały,Używane,,4x4 (dołączany ręcznie),Automatyczna,2021-03-28 16:52:00
+6081960943,dodge,ram,Lublin,Lubelskie,390,5654,95000,,False,False,,,,,,2012,,154900,Firmy,,Benzyna+LPG,,SUV,Czerwony,Używane,,4x4 (dołączany ręcznie),Automatyczna,2021-03-28 09:19:00
+6081082374,dodge,ram,Sierakowice,Pomorskie,390,5654,60500,Stany Zjednoczone,False,,,,,,,2010,2010-05-01 00:00:00,1000,Firmy,,Benzyna,,SUV,Biały,Używane,,4x4 (stały),Automatyczna,2021-03-28 09:13:00
+6083018450,dodge,ram,Grudziądz,Kujawsko-pomorskie,390,5654,135000,,False,,,,,,,2021,,2751,Firmy,,Benzyna,,SUV,Czarny,Używane,,4x4 (stały),Automatyczna,2021-03-27 19:20:00
+6083016822,dodge,ram,Grudziądz,Kujawsko-pomorskie,390,5654,125000,,False,,,,,,,2019,,63714,Firmy,,Benzyna,,SUV,Szary,Używane,,4x4 (stały),Automatyczna,2021-03-27 18:21:00
+6079559004,dodge,ram,Lublin,Lubelskie,390,5654,229900,,False,False,,,True,,,2019,,10000,Firmy,True,Benzyna,,SUV,Szary,Używane,True,4x4 (dołączany ręcznie),Automatyczna,2021-03-26 12:48:00
+6083534312,dodge,ram,Mszana Dolna,Małopolskie,390,5654,46500,,False,,,,,,,2012,,236000,Osoby prywatnej,,Benzyna,,SUV,Bordowy,Używane,,4x4 (stały),Automatyczna,2021-03-23 13:35:00
+6080333088,dodge,viper,Piekary Śląskie,Śląskie,506,8285,250000,Stany Zjednoczone,False,False,True,,,,,2005,2005-12-31 00:00:00,43000,Firmy,,Benzyna,,Kabriolet,Żółty,Używane,,Na tylne koła,Manualna,2021-03-31 17:11:00
