@@ -327,11 +327,10 @@ def scrap_data_for_offer(b, m, url, loc):
         )
     global ITERATOR
     ITERATOR+=1
-    print(tmp_data_frame.to_string())
     if ITERATOR == 1:
-        tmp_data_frame.to_csv(f'cars/{brand}.csv', index=False)
+        tmp_data_frame.to_csv(f'cars2/{brand}.csv', index=False)
     else:
-        tmp_data_frame.to_csv(f'cars/{brand}.csv', mode='a', index=False, header=False)
+        tmp_data_frame.to_csv(f'cars2/{brand}.csv', mode='a', index=False, header=False)
     print(ITERATOR, 'elementow')
 
 
@@ -364,7 +363,7 @@ def get_link_from_page(cars_dict):
 
                 for link, location in cars_link_dict.items():
                     # CALL A FUNCTION FOR EACH AUCTION TO SCRAP NEEDED DATA FROM THERE
-                    time.sleep(0.25)
+                    time.sleep(1)
                     scrap_data_for_offer(brand, model, link, location)
     global ITERATOR
     ITERATOR = 0
