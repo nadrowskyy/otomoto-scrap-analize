@@ -5,7 +5,8 @@ from os import system
 from scrap import get_link_from_page
 
 
-cls = lambda: system('clear')
+cls = lambda: system('clear') # for unix
+cls = lambda: system('cls') # for windows
 with open('dict_cars.pickle', 'rb') as pickle_in:
     cars_dict = pickle.load(pickle_in)
     cars_keys = list(cars_dict.keys())[35:]

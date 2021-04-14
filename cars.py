@@ -54,43 +54,95 @@ def get_cars_model(cars_dict):
             if car == 'inny':
                 car = 'other'
             car = car.replace('.', '')
-            if car == 'ka+':
-                car = 'ka_plus'
-            if car == 'town-&-country':
-                car = 'town-country'
-            if car == "pro_cee'd":
-                car = 'pro-ceed'
-            if car == 'eighty---eight':
-                car = 'eighty-eight'
-            if car == 'wagon-r+':
-                car = 'wagon-r-'
-            if car == 'prius+':
-                car = 'prius_plus'
-            if car == 'up!':
-                car = 'up'
-            if car == 'klasa-a':
-                car = 'a-klasa'
-            if car == 'klasa-b':
-                car = 'b-klasa'
-            if car == 'klasa-c':
-                car = 'c-klasa'
-            if car == 'klasa-e':
-                car = 'e-klasa'
-            if car == 'klasa-g':
-                car = 'g-klasa'
-            if car == 'klasa - r':
-                car = 'r-klasa'
-            if car == 'klasa-s':
-                car = 's-klasa'
-            if car == 'klasa-v':
-                car = 'v-klasa'
-            if car == 'klasa-v':
-                car = 'x-klasa'
-            print(car)
+
+            if brand == 'ford':
+                if car == 'ka+':
+                    car = 'ka_plus'
+
+            if brand == 'chrysler':
+                if car == 'town-&-country':
+                    car = 'town-country'
+
+            if brand == 'kia':
+                if car == "pro_cee'd":
+                    car = 'pro-ceed'
+
+            if brand == 'oldsmobile':
+                if car == 'eighty---eight':
+                    car = 'eighty-eight'
+
+            if brand == 'suzuki':
+                if car == 'wagon-r+':
+                    car = 'wagon-r-'
+
+            if brand == 'toyota':
+                if car == 'prius+':
+                    car = 'prius_plus'
+
+            if brand == 'volkswagen':
+                if car == 'up!':
+                    car = 'up'
+
+            if brand == 'mercedes-benz':
+                if car == 'klasa-a':
+                    car = 'a-klasa'
+                if car == 'klasa-b':
+                    car = 'b-klasa'
+                if car == 'klasa-c':
+                    car = 'c-klasa'
+                if car == 'klasa-e':
+                    car = 'e-klasa'
+                if car == 'klasa-g':
+                    car = 'g-klasa'
+                if car == 'klasa-r':
+                    car = 'r-klasa'
+                if car == 'klasa-s':
+                    car = 's-klasa'
+                if car == 'klasa-v':
+                    car = 'v-klasa'
+                if car == 'klasa-x':
+                    car = 'x-klasa'
+                if car == 'cl':
+                    car = 'cl-klasa'
+                if car == 'cla':
+                    car = 'cla-klasa'
+                if car == 'clk':
+                    car = 'clk-klasa'
+                if car == 'cls':
+                    car = 'cls-klasa'
+                if car == 'gl':
+                    car = 'gl-klasa'
+                if car == 'gla':
+                    car = 'gla-klasa'
+                if car == 'glb':
+                    car = 'glb-klasa'
+                if car == 'glc':
+                    car = 'glc-klasa'
+                if car == 'gle':
+                    car = 'gle-klasa'
+                if car == 'glk':
+                    car = 'glk-klasa'
+                if car == 'gls':
+                    car = 'gls-klasa'
+                if car == 'ml':
+                    car = 'm-klasa'
+                if car == 'slk':
+                    car = 'slk-klasa'
+                if car == 'w201':
+                    car = 'w201-190'
+
+            if brand == 'nissan':
+                if car == 'qashqai+2':
+                    car = 'qashqai-2'
+
+            if brand == 'citroen':
+                if car == 'c-elysée':
+                    car = 'c-elysee'
+
             car_names.append(car)
         # FOR EACH BRAND WE HAVE A LIST OF MODELS IN DICTIONARY
         cars_dict[brand] = car_names
-        #print(cars_dict)
+        print(cars_dict)
     # DATA IS DUMPED TO A PICKLE SO WE CAN USE IT LATER
     pickle_out = open('dict_cars.pickle', 'wb')
     pickle.dump(cars_dict, pickle_out)
