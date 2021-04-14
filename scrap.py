@@ -328,9 +328,9 @@ def scrap_data_for_offer(b, m, url, loc):
     global ITERATOR
     ITERATOR+=1
     if ITERATOR == 1:
-        tmp_data_frame.to_csv(f'cars2/{brand}.csv', index=False)
+        tmp_data_frame.to_csv(f'cars/{brand}.csv', index=False)
     else:
-        tmp_data_frame.to_csv(f'cars2/{brand}.csv', mode='a', index=False, header=False)
+        tmp_data_frame.to_csv(f'cars/{brand}.csv', mode='a', index=False, header=False)
     print(ITERATOR, 'elementow')
 
 
