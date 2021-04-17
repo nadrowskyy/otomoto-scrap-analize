@@ -1,6 +1,5 @@
 # otomoto-scrap-analize
-## Analyze cars from all_cars.csv
-
+## https://colab.research.google.com/drive/1v06W-aafRfMRNH4sZfqqVsoqc1tOvqXD?usp=sharing
 
 
 ## firstly run cars.py, you will get cars dictionary
