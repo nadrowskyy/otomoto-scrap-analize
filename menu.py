@@ -9,9 +9,9 @@ cls = lambda: system('clear') # for unix
 # cls = lambda: system('cls') # for windows
 with open('dict_cars.pickle', 'rb') as pickle_in:
     cars_dict = pickle.load(pickle_in)
-    cars_keys = list(cars_dict.keys())[35:]
+    cars_keys = list(cars_dict.keys())
     print(cars_keys)
-    cars_values = list(cars_dict.values())[35:]
+    cars_values = list(cars_dict.values())
     cars_dict = dict()
     for i in range(len(cars_keys)):
         cars_dict[cars_keys[i]] = cars_values[i]
