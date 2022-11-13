@@ -1,5 +1,5 @@
 # otomoto-scrap-analize
-## https://colab.research.google.com/drive/1v06W-aafRfMRNH4sZfqqVsoqc1tOvqXD?usp=sharing
+## [a link](https://github.com/nadrowskyy/otomoto-scrap-analize/blob/main/PDZD%20dokumentacja%20projektowa.pdf)
 
 
 ## firstly run cars.py, you will get cars dictionary
